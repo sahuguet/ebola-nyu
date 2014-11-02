@@ -1,0 +1,26 @@
+{
+  "applause_count": 2, 
+  "author": "Paul Holeva", 
+  "comment_count": 1, 
+  "comments": [
+    {
+      "applaud": "0", 
+      "auhtor": "Deborah Paterson", 
+      "date": "October 09, 2014, 19:42PM", 
+      "message": "\n    \tHi Paul, this is a really interesting point of view. Do you have any research you could link to in your post for those of us in the community who are unfamiliar with this area? How might we use the data that comes out of this sensing technology to inform and influence our response efforts?\n    "
+    }
+  ], 
+  "description": "<div class=\"description\">\n            Among the different theories, fruit bats appear to be a common Ebola reservoir; however, one theory suggests that bats may be less of a culprit and more of a victim of the outbreak themselves. If that is the case, it may be useful to leverage enhanced tracking and localized remote sensing capabilities (remote controlled UAV's or low altitude micro-satellites) to monitor fruit bat populations to identify environmental variables that correlate with the spread of Ebola. This research could then be analyzed against human infection data within a Geospatial Information System (GIS) using a broad signature analysis capability (like Digital Globe's \"Signature Analyst\" software) to identify predictive variables. These variables could then be used to provide early warning signs regarding areas or human populations that are at a high risk of infection. These systems would enable earlier response efforts focused on minimizing human exposure and allowing medical teams to focus treatment and/or isolation/containment efforts on smaller populations, if necessary\n        </div>", 
+  "id": "https://openideo.com/challenge/fighting-ebola/ideas/gis-remote-sensing-of-fruit-bats-and-human-infection-data-to-identify-predictive-variables-that-enable-earlier-response", 
+  "media": [
+    {
+      "src": "//d3gyq8wptu1by3.cloudfront.net/media/a56edd04-ee0e-4de8-b73e-e77e1d0c1857.jpg", 
+      "type": "image"
+    }
+  ], 
+  "submitted": "October 08, 2014, 17:44PM", 
+  "summary": "Use GIS and Remote Sensing technologies to monitor the spread of Ebola through fruit bat and human populations to identify predictive variables that could support the development of early warning systems that allow us to identify locations/human populations that are high risk of infection. These systems could support earlier response efforts to minimize human exposure and/or provide medication quicker to smaller populations.", 
+  "tag": "/challenge/fighting-ebola/ideas#mission-boost-exposure-tracking-and-communication-abilities1", 
+  "title": "GIS/Remote sensing of fruit bats and human infection data to identify predictive variables that enable earlier response", 
+  "view_count": 41
+}

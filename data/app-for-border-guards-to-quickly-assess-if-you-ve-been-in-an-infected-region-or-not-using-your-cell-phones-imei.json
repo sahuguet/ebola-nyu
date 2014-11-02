@@ -1,0 +1,21 @@
+{
+  "applause_count": 1, 
+  "author": "george tsintzouras", 
+  "comment_count": 1, 
+  "comments": [
+    {
+      "applaud": "0", 
+      "auhtor": "OpenIDEO", 
+      "date": "October 20, 2014, 17:44PM", 
+      "message": "\n    \tHi George, interesting post! Any chance you could find an image to go along with it? Images help grab attention and tell a story with higher impact. You should be able to use the Update Entry button on the right of your post and follow the instructions to add images from there. We know occasionally people have issues uploading images so let us know by hitting the Feedback button at the bottom of most pages of our site if you face any problems. Looking forward to seeing more of your inspiring insights on OpenIDEO. And here's some tips on adding visual goodness to your idea: http://ideo.pn/vis-uals plus more on evolving your thought-starter: http://ideo.pn/oi-evolve\n"
+    }
+  ], 
+  "description": "<div class=\"description\">\n            Using thermal cameras to measure fevers has proven to not be an effective screening method.\u00a0 Border guards are going to be key in preventing the rampant expansion of infected (but not symptomatic) people in to safe zones. \u00a0As already demonstrated by a few cases, it is human nature to lie about having been in an infected area, let alone close to an infected individual. \u00a0\n<br/> Relying on the creation of new technology or anything that required long development and manufacturing cycles simply won\u2019t be fast enough.\u00a0\n<br/> The idea is simple and can be implemented in the rapid time scales that are required to combat this outbreak.\u00a0 \u00a0\u00a0Everyone has a cell phone, we are all attached to them, even in the regions we are speaking about.\u00a0 \u00a0Working with a few of the telcos of the world (ATT, etc.), the idea is for them to quickly create an app for border guards to check IF your cell phone was in any of the infected areas over a certain period. \u00a0This app would be simple, upon screening for entry into the country, they ask for your phone number.\u00a0 You give them your cell number (or IMEI number), they quickly confirm that\u2019s the phone and then check against a geo-fenced area to see if you were in there in the last 21 days.\u00a0 No date is kept, no specific locations given to border guards, just a yes or no.\u00a0 No privacy issues.\n<br/> Especially for anyone asking to gain access to a country, most would be perfectly okay to submit your cell phones IMEI number to go through a simple check to see if the phone was in that region. \u00a0\n<br/>\n<br/>\n<br/> In general this could immediately screen clear the majority of the cases, speeding up work at border checkpoints and allowing the guards to focus on the fringe cases and the places that matter.\u00a0 This will be especially important as infected cases and zones increase and the pressure will be to have a measured response while still not stalling out global travel and trade.\n<br/> \u00a0\n        </div>", 
+  "id": "https://openideo.com/challenge/fighting-ebola/ideas/app-for-border-guards-to-quickly-assess-if-you-ve-been-in-an-infected-region-or-not-using-your-cell-phones-imei", 
+  "media": [], 
+  "submitted": "October 16, 2014, 17:50PM", 
+  "summary": "Containment is key \u2013 Improve the ability for border guards to validate if you've been in a designated 'infected area' by using apps created by the telcos to validate your proximity to an infected zone or region in the last 21 days.  A \u2018yes\u2019 would trigger further or questioning and a \u2018no\u2019 would allow you to pass.", 
+  "tag": "/challenge/fighting-ebola/ideas#mission-boost-exposure-tracking-and-communication-abilities1", 
+  "title": "App for border guards to quickly assess if you've been in an infected region or not using your cell phones IMEI #.", 
+  "view_count": 28
+}

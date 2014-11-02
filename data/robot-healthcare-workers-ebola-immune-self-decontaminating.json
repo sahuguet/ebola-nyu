@@ -1,0 +1,26 @@
+{
+  "applause_count": 1, 
+  "author": "Geoffrey Weg", 
+  "comment_count": 1, 
+  "comments": [
+    {
+      "applaud": "0", 
+      "auhtor": "Geoffrey Weg", 
+      "date": "October 23, 2014, 15:19PM", 
+      "message": "\n    \tThe New York Times just wrote a piece on this idea! http://www.nytimes.com/2014/10/23/science/scientists-consider-repurposing-robots-for-ebola.html\n"
+    }
+  ], 
+  "description": "<div class=\"description\">\n            Granted, the use of robots seems relatively extreme given the general effectiveness of existing solutions; and a rapid deployment is unlikely. But it's worth considering robots as a tool in combating contagious viruses, such as ebola.\n<br/>\n<br/> Boston Dynamics, a robot manufacturer recently acquired by Google, seems to have the capacity to provide such a robot. Perhaps the \n<a href=\"http://www.bostondynamics.com/robot_Atlas.html\">Atlas</a> or\u00a0\n<a href=\"http://www.bostondynamics.com/robot_petman.html\">Petman</a> models (or a combination of the two) would suffice.\u00a0\n        </div>", 
+  "id": "https://openideo.com/challenge/fighting-ebola/ideas/robot-healthcare-workers-ebola-immune-self-decontaminating", 
+  "media": [
+    {
+      "src": "//d3gyq8wptu1by3.cloudfront.net/media/99ea4a0d-6353-44bb-9b77-bee746d84b66.jpg", 
+      "type": "image"
+    }
+  ], 
+  "submitted": "October 14, 2014, 04:42AM", 
+  "summary": "Existing healthcare resources are proving inadequate in treating ebola patients and stemming the spread of the virus. Patients in Sierra Leone are being ordered to stay home due to hospital bed scarcity, leaving unequipped family members to care for the ill. In Dallas, a healthcare worker caught the virus despite following C.D.C. guidelines.Human-controlled robots offer a solution. They could care for and clean up after the ill\u2014tasks that require little skill. They could also be used to burry the dead and decontaminate tainted homes and objects.  Being non-human, robots are immune to the disease. Equipped with rugged and water-proof protective equipment, they could self-decontaminate more frequently and effectively than a human.", 
+  "tag": "/challenge/fighting-ebola/ideas#mission-strengthen-health-care-capacities2", 
+  "title": "Robot Healthcare Workers: Ebola-immune. Self-decontaminating.", 
+  "view_count": 184
+}

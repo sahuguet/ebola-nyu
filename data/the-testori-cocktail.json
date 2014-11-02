@@ -1,0 +1,21 @@
+{
+  "applause_count": 4, 
+  "author": "Alessandro Testori", 
+  "comment_count": 1, 
+  "comments": [
+    {
+      "applaud": "0", 
+      "auhtor": "OpenIDEO", 
+      "date": "October 16, 2014, 16:14PM", 
+      "message": "\n    \tHi Alessandro, interesting post! Any chance you could find an image to go along with it? Images help grab attention and tell a story with higher impact. You should be able to use the Update Entry button on the right of your post and follow the instructions to add images from there. We know occasionally people have issues uploading images so let us know by hitting the Feedback button at the bottom of most pages of our site if you face any problems. Looking forward to seeing more of your inspiring insights on OpenIDEO. And here's some tips on adding visual goodness to your idea: http://ideo.pn/vis-uals plus more on evolving your thought-starter: http://ideo.pn/oi-evolve\n"
+    }
+  ], 
+  "description": "<div class=\"description\">\n            this is a suggestion for a mixture of 4 drugs to disrupt different aspects of the Ebola Virus life cycle. Some drugs interfere with the replication of the ebola genome and others with its ability to enter cells. The Virus has only seven proteins and it enters cells through a human protein called NPC1. If we block its ability to use NPC1 to enter human cells, and to fuse to the membrane of human cells and then we block its ability to transcribe and replicate its genomic material we can obliterate the virus. This would have to be attempted probably early in the courseof the infection. We only have about a week to treat, after which the condition of the patient may deteriorate,organs may fail and medication could aggravate the condition of the patient through liver and kidney toxicity instead of helping.\n<br/>\n<br/> the Cocktail is composed of\n<br/> 1) Lamivudine\n<br/> 2) Favirapivir\n<br/> 3) Arbidol\n<br/> 4) benzylpiperazine adamantane diamide 3.0 (blocks NPC1, and could be replaced by another,safer NPC1 blocker if one became available.This drug has never been tested in animals or humans, only tested in cell cultures)\n<br/>\n<br/> the cocktail of drugs should\u00a0 be administered daily early in the infection (doses would need to be determined by dose ranging clincal trials). Antiemetics may have to be given 30 minutes before to prevent vomiting. Fluid and electrolyte replacements should be instituted as well.\n<br/> The cocktail should be tested in a clinical trial against convalescent serum transfusion to determine which treatment is safer and most effective. The idea is to target multiple aspects of the ebola life cycle to kill the virus quickly and to prevent the development of drug resistant strains of the virus.\n        </div>", 
+  "id": "https://openideo.com/challenge/fighting-ebola/ideas/the-testori-cocktail", 
+  "media": [], 
+  "submitted": "October 16, 2014, 04:52AM", 
+  "summary": "Targeting different aspects of the Ebola life cycle with multiple drugs", 
+  "tag": "/challenge/fighting-ebola/ideas#mission-surprise-us8", 
+  "title": "The EEC (Experimental Ebola Cocktail)", 
+  "view_count": 55
+}

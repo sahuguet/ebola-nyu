@@ -1,0 +1,64 @@
+{
+  "applause_count": 3, 
+  "author": "Raul Villaseca", 
+  "comment_count": 6, 
+  "comments": [
+    {
+      "applaud": "1", 
+      "auhtor": "Rainer Winkler", 
+      "date": "October 28, 2014, 19:45PM", 
+      "message": "\n    \tDear Raul,since I saw your proposal the first time, I do not stop thinking about it. Sometimes I think, that cannot work. Then I think, don\u00b4t be silly, sometimes good ideas are difficult to understand in the beginning.Maybe I understand it better if you try to put more detail into your contribution. Or do you know of examples, where this principle is used and works?Did you try it with a puppet? Are there geometrical problems? With kind regardsRainer\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Raul Villaseca", 
+      "date": "October 28, 2014, 23:20PM", 
+      "message": "\n    \tThanks Raitner:I'm trying to make a little video.I also put graphics output, which is the novel part of the system.\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Rainer Winkler", 
+      "date": "October 17, 2014, 19:30PM", 
+      "message": "\n    \tI do not understand this. Is the person completely packed in a foil? How can he breathe?\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Raul Villaseca", 
+      "date": "October 20, 2014, 15:04PM", 
+      "message": "\n    \tA part of the suit has a filter that allows gas exchange. Upon entering the \"cocoon\" should be no problem. But considering your question, inside the suit may be included CO2 uptake system. Thanks for your question\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Rebecca Buechel", 
+      "date": "October 17, 2014, 05:38AM", 
+      "message": "\n    \tcould also integrate a UV disinfecting light tunnel ?\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Raul Villaseca", 
+      "date": "October 17, 2014, 13:53PM", 
+      "message": "\n    \tofcourse , in the access tunnel to the cocoon can be used multiple methods of sterilization, UV light is a good proposal.\n    "
+    }
+  ], 
+  "description": "<div class=\"description\">\n            Health personnel, entering the suit through the door made \u200b\u200bof transparent material. Gloves and boots standing, the door is sealed. The door contains an \"opener\" that is used to exit the \"cocoon\".\u00a0\n<br/> With contaminated suit, you enter the \"cocoon\" which is a plastic sleeve, the \"opener\" is enabled and comes without risk of contamination.\u00a0\n<br/> You may apply antiseptic solution inside the cocoon.\u00a0\n<br/> Suit, gloves and boots are within the cocoon.\n        </div>", 
+  "id": "https://openideo.com/challenge/fighting-ebola/ideas/silk-cocoon", 
+  "media": [
+    {
+      "src": "//d3gyq8wptu1by3.cloudfront.net/media/c74e7d24-4a6c-4a21-af4f-16f6c1e099d8.jpg", 
+      "type": "image"
+    }, 
+    {
+      "src": "//d3gyq8wptu1by3.cloudfront.net/media/5178b974-e1ce-40b8-a813-8b75391b30b0.jpg", 
+      "type": "image"
+    }, 
+    {
+      "src": "//d3gyq8wptu1by3.cloudfront.net/media/f4af17da-8ae3-4429-85a4-09c534185bb8.jpg", 
+      "type": "image"
+    }
+  ], 
+  "submitted": "October 16, 2014, 21:55PM", 
+  "summary": "Health personnel, entering the suit through the door made \u200b\u200bof transparent material. Gloves and boots standing, the door is sealed. The door contains an \"opener\" that is used to exit the \"cocoon\". With contaminated suit, you enter the \"cocoon\" which is a plastic sleeve, the \"opener\" is enabled and comes without risk of contamination. You may apply antiseptic solution inside the cocoon. Suit, gloves and boots are within the cocoon.", 
+  "tag": "/challenge/fighting-ebola/ideas#mission-strengthen-health-care-capacities2", 
+  "title": "Silk Cocoon", 
+  "view_count": 92
+}

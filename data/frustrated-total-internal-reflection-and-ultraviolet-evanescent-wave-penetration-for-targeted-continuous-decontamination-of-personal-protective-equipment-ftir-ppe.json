@@ -1,0 +1,30 @@
+{
+  "applause_count": 8, 
+  "author": "Andy Miller", 
+  "comment_count": 1, 
+  "comments": [
+    {
+      "applaud": "0", 
+      "auhtor": "Rebecca Buechel", 
+      "date": "October 30, 2014, 23:00PM", 
+      "message": "\n    \tanother UV device    http://www.xenex.com/xenex-robot/\n"
+    }
+  ], 
+  "description": "<div class=\"description\">\n            PROBLEM\n<br/>\n<br/> Ebola has been declared a global public health emergency. Healthcare workers are at high risk of infection and recent efforts have been focused on reducing healthcare exposure through improvements in PPE and PPE protocols.\n<br/>\n<br/> Doffing of PPE is thought to be a high-risk process. Recent CDC guidelines have established that for hospitals in the United States all PPE will be disinfected with Clorox wipes, will be doffed in a particular order, and overseen by a trained professional to avoid missteps. However, in low resource settings due to environmental constraints and human resources, these rigorous guidelines are more difficult to follow. A method to continuously disinfect PPE would increase the safety of the doffing process by minimizing the possibility of contamination by either procedural missteps or by inadequate manual decontamination of the PPE. To accomplish this, we propose to construct low cost PPE gowns that actively and continuously disinfect the exterior surfaces even during patient care.\n<br/>\n<br/> SOLUTION\n<br/>\n<br/> Proposed is a novel technology and manufacturing process for continuously decontaminated PPE utilizing frustrated total internal reflectance and short-wave ultraviolet light (UV-C). Short wave ultraviolet light has been demonstrated to be effective for infection control, neutralizing up to 99.9% of bacteria and viruses. The UV light destroys nucleaic acids and disrupts the DNA of pathogens. However, UV light also causes eye and skin damage, and exposure to direct short wave UV light should be minimized. The proposed solution utilizes an optical phenomenon to target UV light to only contamination directly contacting PPE surfaces, thus minimizing the UV light leaked to the environment while maximizing the light that sterilizes (reducing energy requirements as compared to flood UV systems).\n<br/>\n<br/> The exterior of the proposed PPE will be covered in flexible polymer waveguides which will pipe UV-C light over the exterior surface via \u00a0Total Internal Reflectance [TIR]. TIR is how fiber optic cables work, and occurs when light cannot pass from one medium into another (i.e. glass to air). The relative refractive indices of the two medium and the angle of transmitted light cause the light to be totally reflected. The proposed PPE will target and direct UV-C out of the waveguide layer and into surface contamination through a phenomenon known as Frustrated Total Internal Reflection [FTIR]. FTIR occurs when a third medium with a higher refractive index than the low-index second medium is placed within less than several wavelengths distance from the interface between the first medium and the second medium. FTIR is a well understood phenomenon and is used on commercial devices such as fingerprint scanners and has been proposed as a method to decontaminate surfaces (photo credit for figure 1: http://www.intellectualventureslab.com/invent/self-sterilizing-surfaces).\n<br/>\n<br/> PROPOSED EMBODIMENT\n<br/>\n<br/> The proposed system is cost effective and scalable. To minimize cost, light and battery modules would be reusable and worn underneath disposable PPE garmets (figure 2a.). LED light sources would be used with FWHM emission at 270 nm. \u00a0Traditional disposable PPE garmets would have multiple, separate waveguide coatings with independent light sources (figure 2b.). In this way, if one section becomes heavily soiled and draws all of the light from a particular source, other sections would be unaffected. Light propagation would occur in the outermost layer composed of a flexible, UV transparent waveguide material such as CYTOP fluoropolymer or fluorinated methacrylic sol-gel hybrid material, or other flexible polymer waveguide material, all of which can be spin-coated or dip-coated. Light would be totally internally reflected in the outermost layer, but would enter surface contamination in a directed fashion due to FTIR. The backface of the waveguide material would be opaque and impermeable such as Tyvek plastic (figure 2c.).\n        </div>", 
+  "id": "https://openideo.com/challenge/fighting-ebola/ideas/frustrated-total-internal-reflection-and-ultraviolet-evanescent-wave-penetration-for-targeted-continuous-decontamination-of-personal-protective-equipment-ftir-ppe", 
+  "media": [
+    {
+      "src": "//d3gyq8wptu1by3.cloudfront.net/media/f9dd86b2-c210-47aa-af3f-5c1e1df76f74.jpg", 
+      "type": "image"
+    }, 
+    {
+      "src": "//d3gyq8wptu1by3.cloudfront.net/media/934ed277-65d6-4b0b-92f7-afeaa9715220.png", 
+      "type": "image"
+    }
+  ], 
+  "submitted": "October 30, 2014, 18:24PM", 
+  "summary": "Proposed is a low cost PPE gown that actively and continuously self-sterilizes using UV light. The exterior will be covered in sections of flexible polymer waveguides (polymer dip-coating) which will pipe UV-C light over the exterior surface of the PPE via Total Internal Reflectance (they way fiber optic cables work) (fig 2b). The proposed PPE will direct UV-C from the waveguide layer into contamination that contacts the surface through Frustrated Total Internal Reflection (fig 2c). Battery powered UV LEDs would be worn on a belt and be reusable (fig 2a). Thus, the proposed system uses UV light to continuously disinfect PPE even during patient care while minimizing UV exposure and wasted UV light, increasing the saftey of doffing.", 
+  "tag": "/challenge/fighting-ebola/ideas#mission-strengthen-health-care-capacities2", 
+  "title": "Increase Safety When Doffing PPE with UV Light  \u2014 Frustrated Total Internal Reflection and Ultraviolet Evanescent Wave Penetration for Targeted, Continuous Decontamination of Personal Protective Equipment", 
+  "view_count": 128
+}

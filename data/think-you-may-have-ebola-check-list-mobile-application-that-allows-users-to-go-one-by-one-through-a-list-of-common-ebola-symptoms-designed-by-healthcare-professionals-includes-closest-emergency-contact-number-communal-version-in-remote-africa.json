@@ -1,0 +1,27 @@
+{
+  "applause_count": 2, 
+  "author": "David", 
+  "comment_count": 2, 
+  "comments": [
+    {
+      "applaud": "0", 
+      "auhtor": "OpenIDEO", 
+      "date": "October 16, 2014, 16:14PM", 
+      "message": "\n    \tHi David, interesting post! Any chance you could find an image to go along with it? Images help grab attention and tell a story with higher impact. You should be able to use the Update Entry button on the right of your post and follow the instructions to add images from there. We know occasionally people have issues uploading images so let us know by hitting the Feedback button at the bottom of most pages of our site if you face any problems. Looking forward to seeing more of your inspiring insights on OpenIDEO. And here's some tips on adding visual goodness to your idea: http://ideo.pn/vis-uals plus more on evolving your thought-starter: http://ideo.pn/oi-evolve\n"
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "OpenIDEO", 
+      "date": "October 16, 2014, 16:13PM", 
+      "message": "\n    \tHi David, interesting post! Any chance you could find an image to go along with it? Images help grab attention and tell a story with higher impact. You should be able to use the Update Entry button on the right of your post and follow the instructions to add images from there. We know occasionally people have issues uploading images so let us know by hitting the Feedback button at the bottom of most pages of our site if you face any problems. Looking forward to seeing more of your inspiring insights on OpenIDEO. And here's some tips on adding visual goodness to your idea: http://ideo.pn/vis-uals plus more on evolving your thought-starter: http://ideo.pn/oi-evolve\n"
+    }
+  ], 
+  "description": "<div class=\"description\">\n            Ebola scares many people. Indeed, confusion still exists in the U.S. and around the world about how Ebola is acquired and what the exact symptoms are of this deadly disease.\u00a0Thus, a mobile application designed by top healthcare professionals that provides an easy to read description (at a very simple reading level) of the virus would be very helpful. In addition, it would be beneficial if the application included a checklist of common Ebola symptoms. Patients who are worried that they may have been exposed to Ebola could go step by step to see if it is likely they have the disease or not. If the app's algorythm determines that it is above a certain threshold that the person may have Ebola, the phone number of the most local healthcare provider that can handle Ebola cases will appear on the application. If it is determined that the person likely does not have Ebola, the app will remind the individual to continue to look out for certain symptoms and to utilize the app again if anything changes. Furthermore, the app will include contact information for the CDC and other world organizations/experts. In Africa, a communical telemedicine version (or the same type of cell phone app version) could be used.\u00a0\n        </div>", 
+  "id": "https://openideo.com/challenge/fighting-ebola/ideas/think-you-may-have-ebola-check-list-mobile-application-that-allows-users-to-go-one-by-one-through-a-list-of-common-ebola-symptoms-designed-by-healthcare-professionals-includes-closest-emergency-contact-number-communal-version-in-remote-africa", 
+  "media": [], 
+  "submitted": "October 16, 2014, 05:03AM", 
+  "summary": "A mobile application that includes an easy to read (very low reading level) description of the disease. Currently, a lot of medical jargon is being thrown around that people are struggling to understand. In addition, the application would include a check list of symptoms; individuals who are worried they may have Ebola would be able to go one-by-one down the checklist. Based on input my world experts, the results of going down the checklist would suggest contacting healthcare services or not. If it did recommend contacting healthcare services, the local number of the BEST equipped Ebola care center would be noted on the app. In Africa, a village or communal version of this app (via telemedicine or cell phones) may work.", 
+  "tag": "/challenge/fighting-ebola/ideas#mission-boost-exposure-tracking-and-communication-abilities1", 
+  "title": "Think you may have Ebola? Check list mobile application that allows users to go one-by-one through a list of common Ebola symptoms. Designed by healthcare professionals. Includes closest emergency contact number. Communal version in remote Africa.", 
+  "view_count": 45
+}

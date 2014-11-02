@@ -1,0 +1,44 @@
+{
+  "applause_count": 1, 
+  "author": "Dr. Jack Thorpe", 
+  "comment_count": 4, 
+  "comments": [
+    {
+      "applaud": "0", 
+      "auhtor": "William Faria", 
+      "date": "October 15, 2014, 11:49AM", 
+      "message": "\n    \tThis look like a very useful software system. Does it have ability to function offline? There are some real connectivity issues in the affected countries. Does you system allow for data to be imported from other systems? Have a look at our project, there might be a way we could collaborate. https://openideo.com/challenge/fighting-ebola/ideas/evdnet-a-networked-approach-to-fighting-ebola\n"
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Rob Kara", 
+      "date": "October 15, 2014, 08:38AM", 
+      "message": "\n    \tI like your idea Jack.  As a computer programmer I feel computers can do a lot more around this Ebola issue than is being done.I feel that NCIS is a sub-part of a larger system thought that still needs to be discussed and developed by all of us.  This system manages all services and all requests as a whole.  I.e. the services and requests are resolution independent or scale both horizontally and vertically.Now folks can come to a system with any presumption or request and have that request scale according to the number of people that \"serve\" that request.  The system enables end users such as yourself to then create \"services\" in the system such as NCIS using a simple abstraction:SERVICETitle: NCISLocation Channels: earthCategory Channels: command.control, disaster.control.systems, emergency.management.systemsStart Date: DD/MM/YYY hh:mm:ssEnd Date: DD/MM/YYY hh:mm:ssFolks then create requests and listen on the same channels as the service that they are wanting to attract, for example.REQUESTTitle: Ebola Command and Control CentreLocation Channels: earthCategory Channels: emergency.management.systemsStart Date: DD/MM/YYY hh:mm:ssEnd Date: DD/MM/YYY hh:mm:ssBoth the service and request are listening on the same channels earth and emergency.management.systems, so the service will be invited to come and \"serve\" in that request.For more info see:https://openideo.com/challenge/fighting-ebola/research/there-currently-exists-no-human-system-on-earth-in-which-beings-are-able-to-self-organize-and-serve-one-another\n"
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Lynn Lawry", 
+      "date": "October 15, 2014, 00:35AM", 
+      "message": "\n    \tJack, a question: International disasters are run very differently than national disasters. In theory the partner nation is in control with support from the UN cluster systems so who are you suggesting would control this or be \"in charge\" Just a suggestion but NGOs and UN do not use command and control in their language so presentation is everything. Only military uses command and control and they are not in control in any disaster and follow the lead of USAID, DART or the UN/Partner Nation.\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Dr. Jack Thorpe", 
+      "date": "October 19, 2014, 19:34PM", 
+      "message": "\n    \tLynnThanks for your observations and comments.  Sorry to take so long to get back.We concur that there are many differences in structure, language, philosophy, etc., between and among organizational responses to large and extreme-scale events.  We also believe that underneath all the apparent differences are a common set of emergency response \"nouns and verbs\" that can be found at every event, and building upon these can provide the response community with the tools it needs, from front line aid workers to international organization headquarters to government agencies. \u00a0We call this \"designing for the Tired - Dirty - Hungry responder under great stress.\"  If we can focus our technology developers on this notional user, then a set of tools, technologies, concepts of operation (CONOPS), and services emerge that can be adapted to an ever changing, chaotic situation.  People use tools that they understand, are easy to use, and provide them value.  This is one reason NICS is principally visual.I think of \"chat\" as being an example (we did not develop it, of course, but just use an open source version, perhaps the same one that many others use).  No partner nation, no manager of a UN cluster, no NGO, no front line responder would not use chat because they did not invent it or because it was named something they did not agree with.  It is a readily available, trusted tool.  People just use it.We are aware that \"command and control\" is sometimes viewed as a military concept.....the military spends a great deal of time in its institutions debating just what it means and how to continually improve upon it.  (By the way, this is a term/concept that is also readily found in emergency responders in the US (California for sure), so it is not just a military idea.  To me, \"command\" means being in charge and being responsible for your actions.  Terminology aside, do we see effective command and control actions (and their basic nouns and verbs) from the various organizations you list?  I hope so.Thanks again for your comments.\n    "
+    }
+  ], 
+  "description": "<div class=\"description\">\n            We believe that the Next-Generation Incident Command System (NICS), a currently available web-based command and control application, could immediately improve the preparedness, planning, coordination, response and recovery to this crisis.\u00a0 NICS is designed for use on small\u2013scale to extreme-scale emergency incidents as well as planned events.\u00a0 It facilitates real time distributed collaboration and situational awareness across Federal, Military, State, Tribal, Local Government, Utilities, Elected Officials and NGOs.\u00a0 NICS, through funding from DHS S&amp;T, has been in development since 2007 by MIT Lincoln Laboratory and used operationally in California and other locations since 2010, including 300+ actual emergency and pre-planned events (e.g., 60,000 person marathons).\n<br/> \u00a0\n<br/> NICS has been uniquely designed for the TIRED-DIRTY-HUNGRY, the responder under great stress. It is simple to learn and simple to use. If you know how to turn on a computer, surf the web, and find the nearest Starbucks using Google maps, you can become a basic NICS user in 60 minutes or less.\n<br/> \u00a0\n<br/> NICS is mostly visual, but also supports text based communication and the ability to integrate and display data and information from the front lines (point of the sword) to all levels of incident management and to other community members that have a \u201cneed to know\u201d in a single and secure application.\u00a0 NICS is currently operational 24/7/365 and ready for immediate use or evaluation.\u00a0 NICS is serviced for technical and operational support by Worldwide Incident Command Services, Inc., (WICS), a California Nonprofit Public Benefit Corporation.\n<br/> \u00a0\n<br/> Additional information is available at: https://public.nics.ll.mit.edu/nicshelp/\n        </div>", 
+  "id": "https://openideo.com/challenge/fighting-ebola/ideas/next-generation-incident-command-technology", 
+  "media": [
+    {
+      "src": "//d3gyq8wptu1by3.cloudfront.net/media/613721e2-2084-4783-82d9-e52050c5ae71.jpg", 
+      "type": "image"
+    }
+  ], 
+  "submitted": "October 14, 2014, 22:48PM", 
+  "summary": "Our idea is to use the available NICS  web-based command & control application to rapidly equip and emplower responders at all levels with the preparation, planning, coordination, response and recovery to this epidemic.  It is mostly visual and designed for simplicity and intuitive use.", 
+  "tag": "/challenge/fighting-ebola/ideas#mission-boost-exposure-tracking-and-communication-abilities1", 
+  "title": "Next-Generation Incident Command Technology", 
+  "view_count": 103
+}

@@ -1,0 +1,52 @@
+{
+  "applause_count": 3, 
+  "author": "Andr\u00e9 Fernandes", 
+  "comment_count": 2, 
+  "comments": [
+    {
+      "applaud": "0", 
+      "auhtor": "Jamie Beck", 
+      "date": "October 10, 2014, 18:09PM", 
+      "message": "\n    \tGreat thinking, Andre.  How might we determine whether this system can be adapted to track Ebola cases?\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Andr\u00e9 Fernandes", 
+      "date": "October 11, 2014, 23:14PM", 
+      "message": "\n    \tHi Jamie, I could see that mTrac was already used during an Ebola outbreak in 2012. as the system is based on the direct communication with health workers via SMS to collect data regionally and spread important informations nationwide. I updated with the sources of infos and images showing how mTrac works.\n    "
+    }
+  ], 
+  "description": "<div class=\"description\">\n            Depending on how mTrac is stablished in Uganda and on the facility to include tracking on Ebola, this app can already be adpoted to reach ugandan citizens easier.\u00a0\n<br/>\n<br/> M-Trac is supplemented by\u00a0uReport\u00a0which uses free SMS (texting) to hear from young people in remote area. As of July 2012, over 130,000 young Ugandans were signed up. They receive weekly polls to their phones on community services and youth issues, and in return receive results and useful facts for action. The Government of Uganda publishes results in newspapers, radio and television.\n<br/>\n<br/> During an Ebola outbreak in 2012, mTrac was used in Uganda through a\u00a0series of SMS messages alerting health workers to the outbreak, the case definition (symptoms), isolation procedures, the location of the nearest isolation facilities and the hotline to the national response team for reporting suspected cases.\n<br/>\n<br/> Although all limitations of ugandan health system, mTrac is a successful example of spotting Ebola cases quickly and send out teams to attend the health system.\n<br/>\n<br/> Complementing the mTrac, Uganda Virus Research Institute, a small laboratory, has been set up to test Ebola suspects. Tests are done earlier in addition to public information campaigns\n<br/>\n<br/> With the help of the US Centres for Disease Control and Prevention (CDC) scientists are receiving Ebola results out within 24 hours.\u00a0\n<br/>\n<br/>\n<strong>Sources</strong>:\n<br/>\n<br/> Ebola outbreak: What Uganda can teach West Africa\n<br/>\n<a href=\"http://www.bbc.com/news/world-africa-28743595\">http://www.bbc.com/news/world-africa-28743595</a>\n<br/>\n<br/> mTrac Uganda:\u00a0\n<br/>\n<a href=\"http://www.mtrac.ug/\">http://www.mtrac.ug/</a>\n<br/>\n<br/> mTrac Uganda/Ebola outbreak 2012:\n<br/>\n<a href=\"http://www.mtrac.ug/blog/leveraging-mtrac-respond-disease-outbreaks\">http://www.mtrac.ug/blog/leveraging-mtrac-respond-disease-outbreaks</a>\n<br/>\n<br/> How mTrac works:\n<br/>\n<a href=\"http://www.mtrac.ug/content/how-mtrac-works\">http://www.mtrac.ug/content/how-mtrac-works</a>\n<br/>\n<br/> mTrac health monitoring system:\n<br/>\n<a href=\"http://www.ugandascouts.org/node/649\">http://www.ugandascouts.org/node/649</a>\n<br/>\n<br/> TIME MAGAZINE COVERS UNICEF SUPPORTED MTRAC SYSTEM IN UGANDA\n<br/>\n<a href=\"http://unicefstories.org/2012/08/16/time-magazine-covers-unicef-supported-mtrac-system-in-uganda/\">http://unicefstories.org/2012/08/16/time-magazine-covers-unicef-supported-mtrac-system-in-uganda/</a>\n<br/>\n<br/> \u00a0\n        </div>", 
+  "id": "https://openideo.com/challenge/fighting-ebola/ideas/mtrac-unicef-a-mobile-based-case-on-monitoring-uganda", 
+  "media": [
+    {
+      "src": "https://www.youtube.com/embed/7jeKG9hJLuI?wmode=opaque", 
+      "type": "video"
+    }, 
+    {
+      "src": "//d3gyq8wptu1by3.cloudfront.net/media/f04b782c-567c-41d6-bed9-ae5c1c86c565.png", 
+      "type": "image"
+    }, 
+    {
+      "src": "//d3gyq8wptu1by3.cloudfront.net/media/147dc4ae-885e-4d7d-acfc-d90d3d0cd2ea.jpg", 
+      "type": "image"
+    }, 
+    {
+      "src": "//d3gyq8wptu1by3.cloudfront.net/media/44ea181c-edbe-44dd-8682-9916d6f2c248.png", 
+      "type": "image"
+    }, 
+    {
+      "src": "//d3gyq8wptu1by3.cloudfront.net/media/7797f7e8-a901-49a4-a9f7-176f17e0e1c1.jpg", 
+      "type": "image"
+    }, 
+    {
+      "src": "//d3gyq8wptu1by3.cloudfront.net/media/9f0d5334-1f29-446e-8457-c96d089940e8.jpg", 
+      "type": "image"
+    }
+  ], 
+  "submitted": "October 10, 2014, 02:23AM", 
+  "summary": "mTrac woks: (1) strengthening the existing HMIS system by providing real-time disease surveillance, ACT stock and logistics information, and (2) engaging the larger stakeholder community to report service delivery bottlenecks, generate dialogue and calls for action where failures occur, and strengthen accountability and governance around timely provision of ACTs.As I could see, mTrac was already used in Uganda during Ebola outbreak in 2012 via direct communication with healthworkers with  real-time information during emergencies.", 
+  "tag": "/challenge/fighting-ebola/ideas#mission-boost-exposure-tracking-and-communication-abilities1", 
+  "title": "mTrac/UNICEF: a mobile-based case on monitoring, Uganda", 
+  "view_count": 84
+}

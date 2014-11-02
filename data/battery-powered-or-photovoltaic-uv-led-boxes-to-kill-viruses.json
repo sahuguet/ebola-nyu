@@ -1,0 +1,45 @@
+{
+  "applause_count": 4, 
+  "author": "Nicholas Mellen", 
+  "comment_count": 5, 
+  "comments": [
+    {
+      "applaud": "0", 
+      "auhtor": "Deborah Paterson", 
+      "date": "October 13, 2014, 23:21PM", 
+      "message": "\n    \tHi Nicolas, great insights! Have you got a piece of research or a story you could share with the community to illustrate how this works? How might we deliver this information without a power source or with limited power? How might we use this visual information to coordinate sanitization efforts?\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "OpenIDEO", 
+      "date": "October 11, 2014, 19:27PM", 
+      "message": "\n    \tHi Nicholas, interesting post! Any chance you could find an image to go along with it? Images help grab attention and tell a story with higher impact. You should be able to use the Update Entry button on the right of your post and follow the instructions to add images from there. We know occasionally people have issues uploading images so let us know by hitting the Feedback button at the bottom of most pages of our site if you face any problems. Looking forward to seeing more of your inspiring insights on OpenIDEO. And here's some tips on adding visual goodness to your idea: http://ideo.pn/vis-uals plus more on evolving your thought-starter: http://ideo.pn/oi-evolve\n"
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Chris Davies", 
+      "date": "October 11, 2014, 16:22PM", 
+      "message": "\n    \tHow about huge ones at the entrance of hospitals that you can dance in before going in or out.\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Jab Thorn", 
+      "date": "October 11, 2014, 00:57AM", 
+      "message": "\n    \tIs this something like what you are thinking of?  http://www.verilux.com/uv-products/uvc-sanitizing-wand/\n"
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Nicholas Mellen", 
+      "date": "October 13, 2014, 13:33PM", 
+      "message": "\n    \tThat verilux  thing looks like a toy. I was thinking more about this approach:https://www.youtube.com/watch?v=JMIWjBxfe5QBuild a box out of this kind of panel. Spacing of LEDs would need to be established empirically, based on light intensity needed to kill the virus.populated with these LEDs:http://www.roithner-laser.com/datasheets/led_deepuv/uvtop240.pdfComponents could be shipped for assembly in Liberia. Photovoltaic power supply could be incorporated into the design.\n    "
+    }
+  ], 
+  "description": "<div class=\"description\">\n            This approach is being taken via a Xenon arc lamp-based sterilization system (XENEX), but this is impractical because of cost and energy requirements of xenon lamps. UV LEDs require far less power and, with economies of scale, may be cheap enough to deploy.\n        </div>", 
+  "id": "https://openideo.com/challenge/fighting-ebola/ideas/battery-powered-or-photovoltaic-uv-led-boxes-to-kill-viruses", 
+  "media": [], 
+  "submitted": "October 10, 2014, 14:35PM", 
+  "summary": "240-280 nm UV light destroys viral DNA. Line the interior of a 18\" square box with UV LEDs. The user could put items that may have come into contact with EV in box for sterilization.", 
+  "tag": "/challenge/fighting-ebola/ideas#mission-strengthen-health-care-capacities2", 
+  "title": "battery-powered (or photovoltaic) UV LED boxes to kill viruses", 
+  "view_count": 57
+}

@@ -1,0 +1,50 @@
+{
+  "applause_count": 6, 
+  "author": "jlocke8 .", 
+  "comment_count": 5, 
+  "comments": [
+    {
+      "applaud": "0", 
+      "auhtor": "Deborah Paterson", 
+      "date": "October 09, 2014, 21:47PM", 
+      "message": "\n    \tHi, thanks for posting this. Perhaps somethings to consider as you develop your idea - How much desiccant would be required for one suit do you think? How long would it extend the use by? How might we dispose of these in a non harmful and efficient way?Feel free to post questions and needs from the community so people know how to add value :)\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "jlocke8 .", 
+      "date": "October 09, 2014, 21:52PM", 
+      "message": "\n    \tHi Deborah, Thank you for guiding my thoughts and giving good feedback.  I not sure how to post questions.  Where can this be done at?\n    "
+    }, 
+    {
+      "applaud": "1", 
+      "auhtor": "jlocke8 .", 
+      "date": "October 10, 2014, 05:23AM", 
+      "message": "\n    \tI ran a couple quick calcs on your questions.  I believe the numbers may put this idea as a secondary method instead of a primary solution.An average person sweats a maximum of 1-2 liters per hour lets call it 1 liter/ hr for easy calculation.  The absorption rate of the best desiccants may absorb at roughly 10 grams of water per hour for 100 grams of desiccant.  The desiccant also maxes out absorption at a rough maximum of 30 grams of water per 100 grams of desiccant.  This means for the absorption rate of the desiccant to keep up with the rate of sweating, there would need to be a minimum of 100 times 100 grams or 10kg of desiccant that the care worker would have to pack to handle a maximum rate of sweating.  The desiccant would last roughly 3 hours before it would be totally saturated.  10kg is not exactly light weight when carried around for a few hours...Of course this calculation is just estimation as temperature, relative humidity, desiccant types, and how well desiccant is in contact with the humid air are all variables that have effect of absorption rates and maximum absorption.\n    "
+    }, 
+    {
+      "applaud": "1", 
+      "auhtor": "Rainer Winkler", 
+      "date": "October 19, 2014, 07:26AM", 
+      "message": "\n    \tWater has a  enthalpy of vaporization of 2260 kJ/kg, evaporating 1liter of water per hour causes a heat flow of 630 W. But a typical person produces only 100 W heat energy, so I suppose you do not need to evaporate so much, therefore you need less silicagel\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Rainer Winkler", 
+      "date": "October 28, 2014, 19:53PM", 
+      "message": "\n    \tThe problem with silica gel is, that the condensation energy of the water is released in the silica gel when the water is absorbed plus some more.So the silica gel has to be cooled. And most of the energy for this cooling has to be drawn from the outside of the PPE, otherwise there would be no cooling for the person.I have yet no good idea how to do this, so I prefer ice as cooling medium. Ice because it can probably absorb 50% more cooling power than phase change material.\n    "
+    }
+  ], 
+  "description": "<div class=\"description\">\n            One of the problems of wearing PPE besides it being very hot to wear is the humidity.\u00a0 As the user gets warmer they will sweat more.\u00a0 Complaints arise from goggles fogging up and to having a shortage of socks because they are drenched in sweat and give a maximum of 45 minute wear time between changes.\u00a0 http://www.npr.org/2014/10/07/354230895/ebola-protective-suits-are-in-short-supply\n<br/>\n<br/> The thought is that a 90 degree dry heat can be tolerable where as a 90 degree humid day is very uncomfortable.\u00a0 If the desiccant can keep PPE dry, this will extend the time the careworker can wear the suit.\n<br/>\n<br/> Some desiccants are readily available and quite cheap.\u00a0 Packs of these can be stored inside PPE during use then when user takes it off the desiccant can be recharged of its adsorption ability by heating off the adsorbed sweat --say over a fire ... or the packs can be thrown away and new packs be used.\n<br/>\n<br/> Some possible dessicants could include zeolite, silica gel, or calcium chloride.\n<br/> \u00a0\n        </div>", 
+  "id": "https://openideo.com/challenge/fighting-ebola/ideas/desiccant-embedded-ppe-suit-to-keep-ppe-dry-and-bearable", 
+  "media": [
+    {
+      "src": "//d3gyq8wptu1by3.cloudfront.net/media/0725fb6a-1592-4d03-9559-499a46985237.png", 
+      "type": "image"
+    }
+  ], 
+  "submitted": "October 09, 2014, 04:38AM", 
+  "summary": "My idea is to embed PPE with desiccant packs to absorb the sweat.  Desiccant readily absorbs liquid from air and can be worn underneath PPE to absorb a large amount of liquid depending upon the type of desiccant used.  Given that the environment is not at too high of a temperature to risk the user of getting hyperthermia, a desiccant PPE suit should greatly extend the time the user can wear it.", 
+  "tag": "/challenge/fighting-ebola/ideas#mission-strengthen-health-care-capacities2", 
+  "title": "Desiccant embedded PPE suit to keep PPE dry and bearable", 
+  "view_count": 97
+}

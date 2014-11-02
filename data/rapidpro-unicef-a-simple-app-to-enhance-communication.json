@@ -1,0 +1,56 @@
+{
+  "applause_count": 6, 
+  "author": "Andr\u00e9 Fernandes", 
+  "comment_count": 2, 
+  "comments": [
+    {
+      "applaud": "0", 
+      "auhtor": "Pulkit Verma", 
+      "date": "October 14, 2014, 03:44AM", 
+      "message": "\n    \tIts a great Idea for quick message and information transfer.But, I believe that, in the end, we would need internet / data / network connection for communication. This needs to be solved to provide a method where this work can be done in places where there is no network. Ebola may have spread to places and regions deep beyond the network reach and we need to effectively tackle that issue also.\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "William Faria", 
+      "date": "October 14, 2014, 09:43AM", 
+      "message": "\n    \tHi Pulkit, Those are good points. Have a look at EVDnet, if you haven't already, it does what you are describing. https://openideo.com/challenge/fighting-ebola/ideas/evdnet-a-networked-approach-to-fighting-ebolahttp://www.evdnet.org\n"
+    }
+  ], 
+  "description": "<div class=\"description\">\n<strong>How to work with RapidPro for Ebola outbreak?</strong>\n<br/>\n<br/> - Define local leaders who are going to be in charge to send the data in their neighbourhoods.\n<br/>\n<br/> - The local leaders are going to send the data based on the checklist sent via RapidPro, in a format as simple as possible. They're going to be the bridge between healthcare workers and local communities.\n<br/>\n<br/> - The RapidPro makes possible to track peer-to-peer transmission and rapid diagnostics in remote areas\n<br/>\n<br/> It's critical train the persons to be local leaders as it's essential a careful record keeping to find everyone in the neighbourhood who had close contact with an Ebola case. The persons idetified in contact with an Ebola case have to be tracked for 21 days ( \n<em>correct me if I'm wrong</em>).\n<br/>\n<br/> (It's similar to an idea sent about \n<a href=\"https://openideo.com/challenge/fighting-ebola/ideas/community-education-centers\">Community Education Centers</a>. In this case, the idea is to emphasize on the app, due to the infrastracture limitations in many countries affected by Ebola)\n<br/>\n<br/>\n<strong>Benefits</strong>:\n<br/>\n<br/> - Provide messages with useful informations to educate the people on how to prevent Ebola and what to do in specific situations.\n<br/>\n<br/> - Support statistical measures: calculate number of ongoing cases of Ebola, number of probable and suspected cases, include new cases\n<br/>\n<br/> - Assistance to home-based interventions in case if there's no hospital or bed avaiable\n<br/>\n<br/>\n<strong>Points to pay attention:</strong>\n<br/>\n<br/> - Local people and medical staffs without recent past experience with Ebola, which may cause erroneous diagnosis\n<br/>\n<br/> - Denial and resistances to the efforts to prevent Ebola (cultural aspects like death customs, folk remedies, associate the virus to superstitions, etc.):\u00a0\n<br/>\n<br/> - Lack of trust in local governments: as corruption in developing countries tends to be widespread, local people tend to distrust authorities, even more during crisis situations.\n<br/>\n<br/> ** \n<strong><em>Search for local influencers, cultural icons, celebrities, idols who could help to spread the messages to educate about Ebola and deal with denials to accept the message.</em></strong>\n<br/>\n<br/>\n<br/>\n<br/>\n<strong>Sources</strong>:\n<br/>\n<a href=\"http://rapidpro.io/\">\u00a0</a>\n<br/> UNICEF launches a new open-source software platform for international development\n<br/>\n<a href=\"http://www.unicef.org/innovation/innovation_75975.html\">http://www.unicef.org/innovation/innovation_75975.html</a>\n<br/>\n<br/> RapidPro page:\n<br/>\n<a href=\"http://rapidpro.io/\">http://rapidpro.io/</a>\n<br/>\n<br/> Ebola virus epidemic in West Africa:\u00a0\n<br/>\n<a href=\"http://en.wikipedia.org/wiki/Ebola_virus_epidemic_in_West_Africa\">http://en.wikipedia.org/wiki/Ebola_virus_epidemic_in_West_Africa</a>\n<br/> \u00a0\n        </div>", 
+  "id": "https://openideo.com/challenge/fighting-ebola/ideas/rapidpro-unicef-a-simple-app-to-enhance-communication", 
+  "media": [
+    {
+      "src": "https://www.youtube.com/embed/4Tm7Gylq1tA?wmode=opaque", 
+      "type": "video"
+    }, 
+    {
+      "src": "https://player.vimeo.com/video/72253940?wmode=opaque", 
+      "type": "video"
+    }, 
+    {
+      "src": "//d3gyq8wptu1by3.cloudfront.net/media/8bab898a-bedd-4c05-acde-aca65e63d316.jpg", 
+      "type": "image"
+    }, 
+    {
+      "src": "//d3gyq8wptu1by3.cloudfront.net/media/89e2d84d-1944-48a7-9ae1-94e66d7eb963.jpg", 
+      "type": "image"
+    }, 
+    {
+      "src": "//d3gyq8wptu1by3.cloudfront.net/media/95ef6afd-d62f-4416-81fc-92db3d5fe84a.jpg", 
+      "type": "image"
+    }, 
+    {
+      "src": "//d3gyq8wptu1by3.cloudfront.net/media/1ef429d3-213f-4c66-9f25-77e4169377e0.jpg", 
+      "type": "image"
+    }, 
+    {
+      "src": "//d3gyq8wptu1by3.cloudfront.net/media/80b99988-9abd-4775-82c0-8c224d0e618d.jpg", 
+      "type": "image"
+    }
+  ], 
+  "submitted": "October 09, 2014, 02:07AM", 
+  "summary": "RapidPro has been developed in collaboration with Nyaruka, a Rwandan software firm responsible for TextIt \u2013 an intuitive, visual interface for building mobile-based applications.Any government or partner can download these basic apps, customize them for their own country, and just like with iTunes, there is a quality control system.The app is an alternative to eventual communication barriers due to the lack of infrastructure and remote localization of many areas affected by Ebola outbreak, via mobile-based real-time data.One scenario to work with RapidPro for Ebola outbreak is to define local leaders who are going to be in charge to send the data in their neighbourhoods.", 
+  "tag": "/challenge/fighting-ebola/ideas#mission-boost-exposure-tracking-and-communication-abilities1", 
+  "title": "RapidPro/UNICEF: a simple app to enhance communication", 
+  "view_count": 203
+}

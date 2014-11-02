@@ -1,0 +1,30 @@
+{
+  "applause_count": 2, 
+  "author": "Shannon Impellicceiri", 
+  "comment_count": 1, 
+  "comments": [
+    {
+      "applaud": "0", 
+      "auhtor": "Deborah Paterson", 
+      "date": "October 13, 2014, 20:42PM", 
+      "message": "\n    \tHi Shannon, here's a couple of other ideas from the platform that I thought overlap with your solution.  https://openideo.com/challenge/fighting-ebola/ideas/solar-powered-fans-in-suitshttps://openideo.com/challenge/fighting-ebola/ideas/a-fan-base-boot-up-those-suitsMaybe you guys can form a team and develop your ideas together - feel free to add people to your team using the Teams feature at the bottom of your post. Also please feel free to post specific wants/needs/questions/clarifications you want from the community.Perhaps connecting with someone who could prototype the design of the garment would add value to your post. Good luck!\n    "
+    }
+  ], 
+  "description": "<div class=\"description\">\n            THE PROBLEM: Current PPE is made out of watertight plastic, which makes them impervious to contaminated liquids but hot, sweaty, and uncomfortable to wear.\n<br/>\n<br/> THE SOLUTION: Hydrophobic membranes are filtering materials that allow air to pass through but repel water. \u00a0If PPE gowns could be strategically vented (in armpits, etc.) with patches of hydrophobic membranes, the suits would be more breathable and healthcare workers would still be protected from contaminated bodily fluids.\n<br/>\n<br/> CURRENT MATERIAL APPLICATIONS:\n<br/> Hydrophobic membrane vents are currently available and used to protect electronics from moisture: \n<a href=\"http://www.gore.com/en_xx/products/venting/protective/protectivevents_faq.html\">http://www.gore.com/en_xx/products/venting/protective/protectivevents_faq.html</a>\n<br/>\n<br/> This material is also used for various medical filtering applications:\u00a0\n<br/>\n<a href=\"http://www.pall.com/main/oem-materials-and-devices/product.page?id=3948\">http://www.pall.com/main/oem-materials-and-devices/product.page?id=3948</a>\n<br/>\n<br/> PRICE / FEASIBILITY:\n<br/> I read here that current PPE suits are so sweltering that they can only be worn for 30-40 minutes at a time:\n<br/>\n<a href=\"http://www.npr.org/blogs/goatsandsoda/2014/07/24/334948345/this-suit-keeps-ebola-out-so-how-can-a-health-worker-catch-it\">http://www.npr.org/blogs/goatsandsoda/2014/07/24/334948345/this-suit-keeps-ebola-out-so-how-can-a-health-worker-catch-it</a>\n<br/>\n<br/> Just for the sake of argument, here is a listing for some hydrophobic membrane material that costs roughly $10 per 90mm diameter disc of the material:\n<br/>\n<a href=\"http://www.coleparmer.com/Product/Advantec_PTFE_Hydrophobic_Membranes_with_Support_90_mm_dia_0_20_m_25_PK/UX-02916-56?referred_id=778&amp;mkwid=7Xk5t5x6&amp;pcrid=49849374039&amp;gclid=CjwKEAjw5NihBRCZmdLkuuTHyWYSJACtCY0J206VcWi6_u57RKKLi3eIdfSRHaqXyFPKQGM-HyrGOBoCadnw_wcB\">http://www.coleparmer.com/Product/Advantec_PTFE_Hydrophobic_Membranes_with_Support_90_mm_dia_0_20_m_25_PK/UX-02916-56?referred_id=778&amp;mkwid=7Xk5t5x6&amp;pcrid=49849374039&amp;gclid=CjwKEAjw5NihBRCZmdLkuuTHyWYSJACtCY0J206VcWi6_u57RKKLi3eIdfSRHaqXyFPKQGM-HyrGOBoCadnw_wcB</a>\n<br/>\n<br/> That works out to about $3.13 per square inch based on a quick cursory search. It's a bit pricey, but it you add few small strategically placed patches and it extends the amount of time the healthcare worker is able to stand being inside the suit, it might justify the cost.\n<br/>\n<br/> \u00a0\n        </div>", 
+  "id": "https://openideo.com/challenge/fighting-ebola/ideas/hydrophobic-membrane-vents-let-air-through-but-repel-liquids", 
+  "media": [
+    {
+      "src": "//d3gyq8wptu1by3.cloudfront.net/media/0c4bd932-0e54-45be-ab53-7491a583f837.jpg", 
+      "type": "image"
+    }, 
+    {
+      "src": "//d3gyq8wptu1by3.cloudfront.net/media/b6160da9-a755-4041-b35a-7f8c2bc848e7.jpg", 
+      "type": "image"
+    }
+  ], 
+  "submitted": "October 10, 2014, 04:24AM", 
+  "summary": "Hydrophobic membranes are filtering materials that allow air to pass through but repel water.  If PPE gowns could be strategically vented (in armpits, etc.) with patches of hydrophobic membranes, the suits would be more breathable and healthcare workers would still be protected from contaminated bodily fluids.", 
+  "tag": "/challenge/fighting-ebola/ideas#mission-strengthen-health-care-capacities2", 
+  "title": "Hydrophobic Membrane Vents for PPE Clothing - Let air through but repel liquids", 
+  "view_count": 41
+}

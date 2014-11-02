@@ -1,0 +1,80 @@
+{
+  "applause_count": 7, 
+  "author": "David K", 
+  "comment_count": 10, 
+  "comments": [
+    {
+      "applaud": "0", 
+      "auhtor": "Rebecca Buechel", 
+      "date": "October 14, 2014, 13:40PM", 
+      "message": "\n    \tHere's the cnn chocolate example showing inadequacies in CDC protocol http://edition.cnn.com/video/?/video/health/2014/10/14/sgmd-gupta-ebola-suit-demo.cnn&video;_referrer=http%3A%2F%2Ft.co%2FqSWEdFoQhR\n"
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Chris Davies", 
+      "date": "October 13, 2014, 19:53PM", 
+      "message": "\n    \tOr if you don't have glowgerm, my idea on here is just to use plain old paint.\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Rebecca Buechel", 
+      "date": "October 14, 2014, 06:23AM", 
+      "message": "\n    \tDid you see on TV (cnn int'l) Dr. Sanjay did this exercise using CHOCOLATE as a marker & showed how even following the CDC protocol, two vulnerable spots occurred on his skin.\n    "
+    }, 
+    {
+      "applaud": "1", 
+      "auhtor": "David K", 
+      "date": "October 14, 2014, 11:55AM", 
+      "message": "\n    \tPaint and chocolate both sound like very cost-effective ways to do this! Perhaps a two-tier training system could use both, starting with paint to see what you're doing and then graduating to UV.\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Ursula", 
+      "date": "Edited on October 13, 2014, 07:47AM", 
+      "message": "\n    \tHi David, interesting idea! You may want to see these videos about donning and doffing the PPE to identify during which steps or on which elements of the suit should the chemical/substance be applied: Donning PPE: http://www.youtube.com/watch?v=T5knZceQ1xA Doffing PPE: http://www.youtube.com/watch?v=ls69Tib1PjU\n"
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "David K", 
+      "date": "October 13, 2014, 16:35PM", 
+      "message": "\n    \tThat looks quite tricky!\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Emily Nghiem", 
+      "date": "October 13, 2014, 02:57AM", 
+      "message": "\nhttp://www.inquisitr.com/1533349/xenexs-germ-zapping-robots-eradicate-ebola-mrsa-c-diff-in-minutes-with-ultraviolet-light/I read about UV machine used to disinfect whole rooms of Ebola traces.\n    "
+    }, 
+    {
+      "applaud": "1", 
+      "auhtor": "Jab Thorn", 
+      "date": "October 12, 2014, 03:40AM", 
+      "message": "\n    \tThis would be goo for training.  One doctor says it takes 14 hours to train how to put on and take off.  Anything that could cut the time down would be good.  They could perhaps disrobe under UV light so they could see exactly at what spot the contamination occurs.  I think you could also douse a manikin to see where the contamination is usually picked up.  How expensive and hard to make is the SYBR Green?  Could it be sprayed on vomit before being cleaned up to provide a trace in real circumstances?\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "David K", 
+      "date": "Edited on October 13, 2014, 03:01AM", 
+      "message": "\n    \tSYBR Green is probably way too expensive. Apparently they do this for radiation training; I looked up the compound that they use, it's called CalcoFluor. There's also a melamine bead suspension used in healthcare called GloGerm. I'll update the idea to reflect this. http://www.radpro.com/dye.pdf\n"
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "OpenIDEO", 
+      "date": "October 11, 2014, 19:31PM", 
+      "message": "\n    \tHi David, interesting post! Any chance you could find an image to go along with it? Images help grab attention and tell a story with higher impact. You should be able to use the Update Entry button on the right of your post and follow the instructions to add images from there. We know occasionally people have issues uploading images so let us know by hitting the Feedback button at the bottom of most pages of our site if you face any problems. Looking forward to seeing more of your inspiring insights on OpenIDEO. And here's some tips on adding visual goodness to your idea: http://ideo.pn/vis-uals plus more on evolving your thought-starter: http://ideo.pn/oi-evolve\n"
+    }
+  ], 
+  "description": "<div class=\"description\">\n            \u00a0\n        </div>", 
+  "id": "https://openideo.com/challenge/fighting-ebola/ideas/use-a-uv-visible-only-compound-to-assess-whether-healthcare-workers-are-inadvertently-contaminating-themselves-when-taking-off-protective-gear", 
+  "media": [
+    {
+      "src": "//d3gyq8wptu1by3.cloudfront.net/media/98181210-79ab-4220-b51d-064bce1a8c7c.jpg", 
+      "type": "image"
+    }
+  ], 
+  "submitted": "October 11, 2014, 19:08PM", 
+  "summary": "The idea is to use a UV visible-only, water-soluble compound, such as CalcoFluor or GloGerm, to assess whether healthcare workers are inadvertently contaminating themselves while putting on or taking off their clothing and performing tasks. Healthcare workers will douse their gloves in water containing this compound, perform required tasks, then take off their hazmat suit. After they have taken off their suit, a UV light will be turned on to evaluate whether they have inadvertently contaminated themselves or surfaces with this compound. This exercise will provide visual feedback on whether they are adhering to protocol and underscore how easy it is to contaminate surfaces.", 
+  "tag": "/challenge/fighting-ebola/ideas#mission-strengthen-health-care-capacities2", 
+  "title": "Use a UV visible-only compound to assess whether healthcare workers are inadvertently contaminating themselves when taking off protective gear.", 
+  "view_count": 138
+}

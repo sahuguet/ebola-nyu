@@ -1,0 +1,23 @@
+{
+  "applause_count": 1, 
+  "author": "Jason Friesen", 
+  "comment_count": 0, 
+  "comments": [], 
+  "description": "<div class=\"description\">\n            Becaon was developed to improve emergency medical dispatching for communities in developing countries without reliable access to emergency care and transport. While it's intent is to improve emergency medical response for \"routine\" emergencies - like car wrecks, childbirth and cholera et al. - the underlying principal of reducing response times applies to Ebola patients as well.\u00a0As mentioned above, however, it's effectiveness is only possible if communities are willing to report suspected ebola patients - which, in the early days of the outbreak, wasn't guaranteed.\n<br/>\n<br/> At its core, Beacon works exactly like Uber to crowdsource emergency medical response. Our philosophy of emergency medical response in developing countries is that a taxi driver is just as good as an ambulance to transport a critically ill or injured patient. Clearly, in the case of Ebola, regular taxis are not a safe alternative to trained first responders with appropriate PPE. http://www.scientificamerican.com/article/motorcycling-to-ebola-treatment-could-spread-the-infection1/\u00a0Therefore, Beacon's effectiveness would also be dependent upon the availability of appropriately protected first responders.\n<br/>\n<br/> If you have those two things - a willingess to report among the community, and adequate protections for first responders - Beacon would present an effective way to crowd-source emergency response in communities with minimal resources.\u00a0\n        </div>", 
+  "id": "https://openideo.com/challenge/fighting-ebola/ideas/sms-based-emergency-medical-dispatch", 
+  "media": [
+    {
+      "src": "//d3gyq8wptu1by3.cloudfront.net/media/ec04b250-088f-47d0-9f44-e59f03c89dc3.png", 
+      "type": "image"
+    }, 
+    {
+      "src": "https://www.youtube.com/embed/KANN4F8-4Fw?wmode=opaque", 
+      "type": "video"
+    }
+  ], 
+  "submitted": "October 17, 2014, 00:21AM", 
+  "summary": "BEACON is an SMS-based emergency medical dispatching software designed specifically for communities that cannot afford advanced dispatching technologies (i.e., \"911\").  By relaying SMS from the scene of an emergency (or suspected exposure*) to trained responders throughout the community, the software enables the nearest available emergency care providers to quickly locate, treat, and transport emergency victims to appropriate healthcare facilities.*Beacon's effectiveness in alerting authorities of suspected ebola cases is completely dependent on the willingness of local community members to report such cases.", 
+  "tag": "/challenge/fighting-ebola/ideas#mission-boost-exposure-tracking-and-communication-abilities1", 
+  "title": "SMS-based emergency medical dispatch", 
+  "view_count": 54
+}

@@ -1,0 +1,26 @@
+{
+  "applause_count": 2, 
+  "author": "Chris Davies", 
+  "comment_count": 1, 
+  "comments": [
+    {
+      "applaud": "0", 
+      "auhtor": "Deborah Paterson", 
+      "date": "October 14, 2014, 16:45PM", 
+      "message": "\n    \tHi Chris, interesting application of big data principles. There's a few similar ideas which would be good to check out - perhaps you can find an overlap and collaborate with the other contributors - https://openideo.com/challenge/fighting-ebola/ideas/rapidpro-unicef-a-simple-app-to-enhance-communication\n"
+    }
+  ], 
+  "description": "<div class=\"description\">\n            SMS messages are not public, so it's unlawful to track for keywords that would indicate the spread of a hot virus, like \"tired\" \"fever\" \"not today\" \"in bed\".\n<br/>\n<br/> 1. But the phone companies have this data. And they can provide it during an emergency.\n<br/>\n<br/> 2. They can make the data anonymous by removing the actual phone numbers, and just say, from the cell phone tower in this small area, the word \"flu\" appeared 400 times. This area, it appears 20 times.\n<br/>\n<br/> Hence,\n<br/> you can track ebola with aggregate SMS messages from the phone companies.\n<br/>\n<br/> \u00a0\n        </div>", 
+  "id": "https://openideo.com/challenge/fighting-ebola/ideas/sms-tracking-of-flu-tired-fever-emergency-powers", 
+  "media": [
+    {
+      "src": "//d3gyq8wptu1by3.cloudfront.net/media/5f27241a-b1de-4336-b666-eee28d45522e.jpg", 
+      "type": "image"
+    }
+  ], 
+  "submitted": "October 11, 2014, 17:24PM", 
+  "summary": "SMS messages are not public, so it's unlawful to track for keywords that would indicate the spread of a hot virus, like \"tired\" \"fever\" \"not today\" \"in bed\". 1. But the phone companies have this data. And they can provide it during an emergency.2. Or they can make the data anonymous by removing the actual phone numbers, and just say, from the cell phone tower in this small area, the word \"flu\" appeared 400 times. This area, it appears 20 times.Hence,you can track ebola with aggregate SMS messages from the phone companies.", 
+  "tag": "/challenge/fighting-ebola/ideas#mission-boost-exposure-tracking-and-communication-abilities1", 
+  "title": "SMS tracking of \"flu\" \"tired\" \"fever\" - emergency powers.", 
+  "view_count": 46
+}

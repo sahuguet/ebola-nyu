@@ -1,0 +1,39 @@
+{
+  "applause_count": 2, 
+  "author": "Alessandro Testori", 
+  "comment_count": 4, 
+  "comments": [
+    {
+      "applaud": "0", 
+      "auhtor": "OpenIDEO", 
+      "date": "October 15, 2014, 21:12PM", 
+      "message": "\n    \tHi Alessandro, interesting post! Any chance you could find an image to go along with it? Images help grab attention and tell a story with higher impact. You should be able to use the Update Entry button on the right of your post and follow the instructions to add images from there. We know occasionally people have issues uploading images so let us know by hitting the Feedback button at the bottom of most pages of our site if you face any problems. Looking forward to seeing more of your inspiring insights on OpenIDEO. And here's some tips on adding visual goodness to your idea: http://ideo.pn/vis-uals plus more on evolving your thought-starter: http://ideo.pn/oi-evolve\n"
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Mark Leney", 
+      "date": "October 15, 2014, 11:47AM", 
+      "message": "\n    \tA better approach to this same idea would be to sort the blood cells of survivors, isolate B-cells and clone the antibodies directly from the B-cells however getting potentially virus laden blood to a cell sorting facility might be a problem and in the end you might end up with antibodies that are basically similar in function to the ones already isolated (Z-Mapp etc..) which still leaves you with the problem of producing them at scale.  The post mentioned a lab made IVIG but the beauty of IVIG was always that it was made in people directly - we have a pool of survivors -and we can cut through the issue of other infectious viruses and blood type matching by using decades old technology to fractionate the antibody from convalescent serum and inactivate or remove any viruses that might be carried over.  This is a technology that might even been transplanted to West Africa given sufficient support.\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Alessandro Testori", 
+      "date": "October 15, 2014, 20:37PM", 
+      "message": "\n    \tHere is the Technology to clone antibodies directly from B_ cells:http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2243222/http://www.ncbi.nlm.nih.gov/pubmed/19716372One limitations of the antibodies found in the blood of survivors is that most of them would be directed against epitopes found on the outside of the virus.  One of the reasons we should make an effort to genetically engineer antibodies is that we could build them to attack viral targets inside the infected cells, which are typically hidden from antibodies circulating in the blood stream. We could accomplish this by attaching membrane translocation sequences (MTS)  to the engineered antibodies. the result would be something like this:http://www.newscientist.com/data/images/ns/cms/dn4881/dn4881-1_554.jpgThis technology would improve on Zmapp by increasing the number of targets and the numbers of targeted epitopes, and it would also allow the antibodies to disrupt the viral replication inside cells, as they could be targeted to viral polymerases.\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Alessandro Testori", 
+      "date": "October 15, 2014, 20:43PM", 
+      "message": "\n    \tThe plan describe above would require to clone the Polymerases and transcription factors of the virus (whose genome is now fully sequenced) and then use one of these proteins to challenge the immune system of a volunteer and cause an immune response. After antibodies to the polymerase have been produced, the MTS sequences are attached and the antibody is produced by recombinant DNA technology and is added to the cocktail mix. This could be done, one by one for all the proteins that are coded by the virus and that are not displayed on its surface.,\n    "
+    }
+  ], 
+  "description": "<div class=\"description\">\n            The technology to produce phage display libraries of \u201cFab Fragments\u201d (the variable regions of antibodies) is well developed. If it were possible to obtain blood samples from Ebola Survivors and use PCR primers specific for the variable regions to amplify the FAB fragments, we could use these to produce phage display libraries of anti-ebola antibodies. The most common anti-ebola antibodies of the survivors would be well-represented, and so we could probably produce a library of say the \u201cbest\u201d 100 anti-ebola antibodies, and use it to produce a \u201clab made IVIG product\u201d containing just the best 100 anti-ebola antibodies, using recombinant DNA technology. If the live virus is coated by a multitude of antibodies targeted to different antigens it would surely stand no chance.\u00a0 It would take only a small amount of blood (maybe 20 mls?) to created a phage display library from several survivors. Then the fab fragments can be used to build whole humanized antibodies and these can be produced in cell culture or in a tobacco plant like Z mapp. We can use these antibodies to make IVIG solutions of only those 100 antibodies and administer doses of say 5 to 10 grams to each patient,providing a HUGE amount of these anti-ebola antibodies. This is a lot of work of course, but given that there seem to be Ebola outbreaks almost every year, it may be wise to carry it out now, that there are hundreds of known survivors. One thing is for sure. Ebola, or its cousins will be back. The Black Death devastated the world in 1348-1353, and it still occasionally causes small outbreaks. Let us learn from history and prepare for the future. We do not want to\u00a0 repeat history...do we?\n        </div>", 
+  "id": "https://openideo.com/challenge/fighting-ebola/ideas/a-deadly-cocktail-for-the-virus", 
+  "media": [], 
+  "submitted": "October 15, 2014, 04:27AM", 
+  "summary": "We could isolate a number of the antibody species found in the blood of survivor and produce a mixture of, say the 100 most common anti-ebola antibodies found in the blood of Ebola survivors? It would be like a Z-Mapp on steroids, 100 guided missiles targeting Ebola. Pay back time!", 
+  "tag": "/challenge/fighting-ebola/ideas#mission-surprise-us8", 
+  "title": "A deadly cocktail for the virus", 
+  "view_count": 96
+}

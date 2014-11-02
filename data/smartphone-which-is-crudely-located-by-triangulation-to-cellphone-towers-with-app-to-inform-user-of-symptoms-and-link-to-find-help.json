@@ -1,0 +1,27 @@
+{
+  "applause_count": 3, 
+  "author": "frank ingle", 
+  "comment_count": 2, 
+  "comments": [
+    {
+      "applaud": "0", 
+      "auhtor": "OpenIDEO", 
+      "date": "October 30, 2014, 21:29PM", 
+      "message": "\n    \tHi Frank, interesting post! Any chance you could find an image to go along with it? Images help grab attention and tell a story with higher impact. You should be able to use the Update Entry button on the right of your post and follow the instructions to add images from there. We know occasionally people have issues uploading images so let us know by hitting the Feedback button at the bottom of most pages of our site if you face any problems. Looking forward to seeing more of your inspiring insights on OpenIDEO. And here's some tips on adding visual goodness to your idea: http://ideo.pn/vis-uals plus more on evolving your thought-starter: http://ideo.pn/oi-evolve\n"
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Stephanie Berry", 
+      "date": "October 29, 2014, 06:05AM", 
+      "message": "\n    \tWhat if your app enabled individuals with temperatures of 100 or higher to be located or request directions to the nearest treatment center? Also, would add app to take temperature.\n    "
+    }
+  ], 
+  "description": "<div class=\"description\">\n            Use present tools to estimate the approximate location of a cellphone by triangulation among nearby cellphone towers.\u00a0 When the caller uses an app which provides information about disease symptoms and where he can get help, he does not reveal his location or identify, but the cellphone provider can identify the general location of of the smartphone when the call is made.\u00a0 This information can be used to make a dynamic map of a region which shows the locations where calls originate, so health resources can be deployed there.\u00a0 it can also provide an indication of the rising level of concern by the users which will allow prediction of where the disease is spreading.\n        </div>", 
+  "id": "https://openideo.com/challenge/fighting-ebola/ideas/smartphone-which-is-crudely-located-by-triangulation-to-cellphone-towers-with-app-to-inform-user-of-symptoms-and-link-to-find-help", 
+  "media": [], 
+  "submitted": "October 28, 2014, 15:47PM", 
+  "summary": "A user with smartphone can obtain information about disease symptoms and a link to find more about treatment and where help is available.  The user is unaware that the approximate location of the cellphone can be estimated by triangulation among cellphone towers to within a hundred yards or so.  This information does not disclose the identity of the caller, but will be very useful for the local public health system in identifying disease hot spots so they can plan deployment of health resources.", 
+  "tag": "/challenge/fighting-ebola/ideas#mission-boost-exposure-tracking-and-communication-abilities1", 
+  "title": "Smartphone which is approximately  located by triangulation among cellphone towers, with app to inform user of symptoms and link to find help", 
+  "view_count": 33
+}

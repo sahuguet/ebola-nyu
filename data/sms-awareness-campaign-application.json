@@ -1,0 +1,30 @@
+{
+  "applause_count": 2, 
+  "author": "Danny Navarro", 
+  "comment_count": 1, 
+  "comments": [
+    {
+      "applaud": "0", 
+      "auhtor": "Deborah Paterson", 
+      "date": "October 09, 2014, 19:48PM", 
+      "message": "\n    \tHi Danny - great work! Andre posted a similar concept already implemented by UNICEF called RapidPRO - https://openideo.com/challenge/fighting-ebola/ideas/rapidpro-unicef-a-simple-app-to-enhance-communication.  Kate also had one for tracing contact - https://openideo.com/challenge/fighting-ebola/ideas/contact-tracing-for-medical-staff and Chuka had one about establishing a toll free SMS line https://openideo.com/challenge/fighting-ebola/ideas/the-ebola-toll-free-sms-helpline. It seems like your ideas would benefit from some collaboration around this idea. It would be great for you guys to connect. Check out their ideas and drop them a comment :)\n    "
+    }
+  ], 
+  "description": "<div class=\"description\">\n            Communication regarding the health risks concerning the ebola outbreak is weak. We can give organizations like the cdc the power to send custom SMS messages to people wherever they are in infected areas.\n<br/>\n<br/> I've finished the front end where a user can login, create, edit, and schedule sms messages to be sent.\u00a0\n<br/>\n<br/> Currently working on integrating with the twilio api and setting up a server that will host the app initially for demo purposes.\n<br/>\n<br/> This application / service is built in GO (golang).\n        </div>", 
+  "id": "https://openideo.com/challenge/fighting-ebola/ideas/sms-awareness-campaign-application", 
+  "media": [
+    {
+      "src": "//d3gyq8wptu1by3.cloudfront.net/media/c95a3e95-255b-43cc-9ff5-ad14da6e4b2b.png", 
+      "type": "image"
+    }, 
+    {
+      "src": "//d3gyq8wptu1by3.cloudfront.net/media/2b6368d5-0145-4871-bbee-313776610d97.png", 
+      "type": "image"
+    }
+  ], 
+  "submitted": "October 08, 2014, 18:49PM", 
+  "summary": "I'm developing an application that will allow an organization / healthcare workers to send subscribers updates on ebola information as well as healthful reminder tips through sms.This would be most effective if we could get a telecommunications company to give us a list of phone numbers in use in infected cities. Currently I'm developing it so that people can text a number and receive SMS messages on a defined basis in the app.", 
+  "tag": "/challenge/fighting-ebola/ideas#mission-boost-exposure-tracking-and-communication-abilities1", 
+  "title": "SMS Awareness Campaign Application", 
+  "view_count": 103
+}

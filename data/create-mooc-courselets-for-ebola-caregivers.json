@@ -1,0 +1,33 @@
+{
+  "applause_count": 4, 
+  "author": "John Warren", 
+  "comment_count": 3, 
+  "comments": [
+    {
+      "applaud": "0", 
+      "auhtor": "Deborah Paterson", 
+      "date": "October 13, 2014, 18:29PM", 
+      "message": "\n    \tValuable insight, John! How might we deliver this information with simpler technologies that are more wide spread in the affected communities? There is another post from Danny - https://openideo.com/challenge/fighting-ebola/ideas/sms-awareness-campaign-application using a much simpler SMS technology. Can you elaborate on what kind of information might be shared through these courses? How might we communicate that these courses exist or encourage the spread of this information?Feel free to update your post with any further developments/refinements you make as well as wants/needs/questions you need from the community to push this along.\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "OpenIDEO", 
+      "date": "October 11, 2014, 19:26PM", 
+      "message": "\n    \tHi John, interesting post! Any chance you could find an image to go along with it? Images help grab attention and tell a story with higher impact. You should be able to use the Update Entry button on the right of your post and follow the instructions to add images from there. We know occasionally people have issues uploading images so let us know by hitting the Feedback button at the bottom of most pages of our site if you face any problems. Looking forward to seeing more of your inspiring insights on OpenIDEO. And here's some tips on adding visual goodness to your idea: http://ideo.pn/vis-uals plus more on evolving your thought-starter: http://ideo.pn/oi-evolve\n"
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Arya Abdool", 
+      "date": "October 10, 2014, 16:06PM", 
+      "message": "\n    \tGreat thought! Not sure if training materials of the sort already exist either.However, after reading several thoughts here, it seems as though culture and lack of education about ebola to the general public in Western Africa (not only caregivers) greatly impacts the rate and degree to which the epidemic is spreading. Perhaps implementing training modules such as those you've suggested can be targeted to a more general audience and presented in an accessible manner to all levels of education and ages.Ideas for format or outline: https://openideo.com/challenge/fighting-ebola/ideas/wash-avoid-report\n"
+    }
+  ], 
+  "description": "<div class=\"description\">\n            Infrastructure---this already exists.\n<br/> Training Materials--WHO and CDC have or we can make fast and furiously\n<br/> Translations--can be done quickly with native speakers,\n<br/> Questions\n<br/> -does this already exists and I am not aware of it?\n<br/> -would it be better to have a series of short \"courselets\"?\n<br/> Use this as a basis for doing worldwide health training and sharing that can be accessible by anyone, any time with no hassles.\n<br/> \u00a0\n        </div>", 
+  "id": "https://openideo.com/challenge/fighting-ebola/ideas/create-mooc-courselets-for-ebola-caregivers", 
+  "media": [], 
+  "submitted": "October 10, 2014, 00:51AM", 
+  "summary": "MOOCs are accessed easily over all the world.  Use CDC and other training to create an intense 5-day MOOC Courselet on various aspects of addressing Ebola and dealing with its effects.  Think of this as a \"Kahn Academy\" for Ebola caregivers and then expand it to wide variety of other global (and local) health needs.Can be done VERY fast and the platforms like Coursera, Udacity, etc. can each host it easily at no cost.  Then the MOOC(s) can be used anywhere in the world.  Sessions can include short videos and related materials can be accessible as lecture notes, etc.  With intense crowdsourcing, translations can be done by specific native language speakers based anywhere (ask TED about their experience on translating TED Talks)", 
+  "tag": "/challenge/fighting-ebola/ideas#mission-strengthen-health-care-capacities2", 
+  "title": "Create MOOC Courselets For Ebola Caregivers", 
+  "view_count": 43
+}

@@ -1,0 +1,21 @@
+{
+  "applause_count": 1, 
+  "author": "Pulkit Verma", 
+  "comment_count": 1, 
+  "comments": [
+    {
+      "applaud": "0", 
+      "auhtor": "OpenIDEO", 
+      "date": "October 09, 2014, 16:49PM", 
+      "message": "\n    \tHi Pulkit, thanks for joining the conversation. We'd love to understand more about your idea through visuals. Have you got anything you could upload that would help the community get their heads around your idea better.  If you need inspiration - check out our getting visual guide http://ideo.pn/vis-uals.\n    "
+    }
+  ], 
+  "description": "<div class=\"description\">\n            1. To be carried by health supervisors:\u00a0\n<br/> Initially, to identify a possible place or area of infection, and to identify the severity of the situation, a small health care team may be sent with this device. Health care personnel can use this device to scan and count and send back the location where an Ebola patient is situated, along with an urgency signal related to the patient. Thus, in a particular region, small teams may identify the symptoms and may prompt for the necessary action. The data sent by these devices may be monitored remotely, and thus, if a region is identified with any hint of outbreak, the team may be sent.\n<br/>\n<br/> 2. To be worn by patients:\n<br/> If symptoms of ebola are found out in patietns, the person, if the healthcare is not available immidiaitely, may hand over this device to the person. This device can be worn by the patients and this would send across their real-time position. As soon as the medical team or the treatment is available, teh person may be sent a signal or may be tracked down.\n<br/>\n<br/> Thus, with these methods an approximate guess of an outbreak and cluster may be identified. The number of patients in a region ay also be approximated.\n<br/>\n<br/> Device: The device should be small of sizes like an Ipod Mini. Essential functions may include just a GPS based tracker or GPS sensor, which may identify the coordinates. Along with this the device should also contain an SOS button which may be used by health professionals or the patients themselves.\n        </div>", 
+  "id": "https://openideo.com/challenge/fighting-ebola/ideas/an-ebola-tracking-spreading-and-clustering-device", 
+  "media": [], 
+  "submitted": "October 09, 2014, 02:02AM", 
+  "summary": "A simple device, small and very handy, like an small battery powered music player which can just send back its location. This can be implemented in 2 aspects:1. To be carried by health supervisors2. To be worn by patientsThus, with these methods an approximate guess of an outbreak and cluster may be identified.", 
+  "tag": "/challenge/fighting-ebola/ideas#mission-strengthen-health-care-capacities2", 
+  "title": "An Ebola tracking, spreading, and clustering device", 
+  "view_count": 40
+}

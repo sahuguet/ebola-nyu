@@ -1,0 +1,56 @@
+{
+  "applause_count": 2, 
+  "author": "Natarajan Venkatakrishnan", 
+  "comment_count": 6, 
+  "comments": [
+    {
+      "applaud": "0", 
+      "auhtor": "Rebecca Buechel", 
+      "date": "October 14, 2014, 12:53PM", 
+      "message": "\n    \tcould they walk through a UV tunnel to avoid shadow areas & to ensure proper distance from light ?\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Natarajan Venkatakrishnan", 
+      "date": "October 14, 2014, 14:17PM", 
+      "message": "\n    \tThat is a very good idea for light distribution and also for efficiency\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Rebecca Buechel", 
+      "date": "October 14, 2014, 14:21PM", 
+      "message": "\n    \tare the lights costly or is it affordable ?\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Natarajan Venkatakrishnan", 
+      "date": "October 14, 2014, 14:56PM", 
+      "message": "\n    \tUv lights using ceramic metal halides or fluorescent is well known and very cost effective Cost is No different than any lighting\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Rebecca Buechel", 
+      "date": "October 14, 2014, 15:02PM", 
+      "message": "\n    \tThen they should be put EVERYWHERE in the treatment areas, hospitals right ? & what's the efficiency on destruction of virus ?\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Natarajan Venkatakrishnan", 
+      "date": "October 14, 2014, 15:39PM", 
+      "message": "\n    \tVery good destruction - it kills viruses in 2 mins - especially ebolaIt is not everywhere because prolonged exposure is bad for humans, causes skin cancerGoogle thishttp://news.discovery.com/tech/robotics/ebola-zapping-robots-unleashed-in-hospitals-141011.htminstead of an expensive robot, make a room or light tunnel, makes removing contaminated PPE much easier\n    "
+    }
+  ], 
+  "description": "<div class=\"description\">\n            This is an idea for reducing the time required to doff PPE. The idea is very simple, make three rooms in a 40 ft container. Each room will have UV lamps to disinfect everything within that room. Health care workers returning from the field will go though the three rooms in sequence to doff their PPE. First room will have very high intensity UV to remove the outer layer. The next room will have medium intensity UV to remove the inner layer. The third room will have low intensity UV plus bleach so that the person can stand there for 3 mins as rinse their hands in bleach. This way the time taken to doff PPE can be reduced by a lot\n        </div>", 
+  "id": "https://openideo.com/challenge/fighting-ebola/ideas/reducing-time-to-doff-ppe", 
+  "media": [
+    {
+      "src": "//d3gyq8wptu1by3.cloudfront.net/media/b1230197-0264-4d2d-9914-5f493ce05f4f.jpeg", 
+      "type": "image"
+    }
+  ], 
+  "submitted": "October 14, 2014, 10:29AM", 
+  "summary": "This is an idea for reducing the time required to doff PPE. The idea is very simple, make three rooms in a 40 ft container. Each room will have UV lamps to disinfect everything within that room. Health care workers returning from the field will go though the three rooms in sequence to doff their PPE. First room will have very high intensity UV to remove the outer layer. The next room will have medium intensity UV to remove the inner layer. The third room will have low intensity UV plus bleach so that the person can stand there for 3 mins as rinse their hands in bleach. This way the time taken to doff PPE can be reduced by a lot", 
+  "tag": "/challenge/fighting-ebola/ideas#mission-strengthen-health-care-capacities2", 
+  "title": "Reducing time to Doff PPE", 
+  "view_count": 106
+}

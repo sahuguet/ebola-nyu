@@ -1,0 +1,32 @@
+{
+  "applause_count": 2, 
+  "author": "Anthony Davis", 
+  "comment_count": 2, 
+  "comments": [
+    {
+      "applaud": "1", 
+      "auhtor": "Rik Ganju", 
+      "date": "October 30, 2014, 19:55PM", 
+      "message": "\nhttps://openideo.com/challenge/fighting-ebola/research/this-is-really-simple-i-own-a-120-000-research-grade-thermal-imaging-camera\n"
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Anthony Davis", 
+      "date": "Edited on October 30, 2014, 21:09PM", 
+      "message": "\n    \tOne problem I can see is with the flimsy material in current PPE suits - a rupture may occur if the wearer accidentally moves out of radius. Coiled hoses would allow for more stretch but an accidental rupture could theoretically still occur.  Maybe a safety quick release if pulled could be incorporated.Also, with narrow gauge tube for the air - sufficient pressure would have to be generated to supply the lines. An air conditioning unit on it's own may not be enough.If anyone has input on this please leave a comment.\n    "
+    }
+  ], 
+  "description": "<div class=\"description\">\n<img alt=\"\" src=\"http://www.naturalnews.com/gallery/articles/Level-4-biohazard-suit.jpg\" style=\"width: 520px; height: 390px;\"/>Extension of already used methods.\n<br/>\n<br/>\n<br/> Problems that have been highlighted are - lack of mobility over self powered cooling units which is an important point. I had envisioned healthcare workers detaching from the air line - moving on to the next bed - and reattaching if necessary (it may not be necessary to be cooled all the time as in during transit to another ward)\n<br/>\n<br/> This method best suits wards or med tents but in theory a small 12v A/C compressor unit could be run from the inbuilt cigarette lighter in the vehicle - where workers engaged in towns or outside the hospital could 'plug in' for periods of time until they are sufficiently cool to begin work again. It would avoid removal of the ppe to cool down.\u00a0 It could also in theory be pre installed into body armour for 'plug in' cool down but that's a different project.\n        </div>", 
+  "id": "https://openideo.com/challenge/fighting-ebola/ideas/attachment-points-for-cooled-air-from-ceiling", 
+  "media": [
+    {
+      "src": "//d3gyq8wptu1by3.cloudfront.net/media/cd05caeb-f5b3-441c-8954-a91e497e6b9e.png", 
+      "type": "image"
+    }
+  ], 
+  "submitted": "October 30, 2014, 17:48PM", 
+  "summary": "Full credit to Denise Denise for inspiration for this one. As far as I know these already exist in top labs but could be made available using a cheap air conditioning unit, small compressor and some flexible hose or IV line in order to cool PPE suits.Secure method for attachment to the suit using a one way valve is needed along with a minor vent to stop ballooning.", 
+  "tag": "/challenge/fighting-ebola/ideas#mission-strengthen-health-care-capacities2", 
+  "title": "'Plug n play' A/C Cool Air Hoses  Detachable/Attachable", 
+  "view_count": 47
+}

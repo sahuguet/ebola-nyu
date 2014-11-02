@@ -1,0 +1,134 @@
+{
+  "applause_count": 5, 
+  "author": "Denise Denise", 
+  "comment_count": 19, 
+  "comments": [
+    {
+      "applaud": "0", 
+      "auhtor": "Rainer Winkler", 
+      "date": "October 24, 2014, 19:32PM", 
+      "message": "\n    \tHi Denise,filtered air is sucked into the lungs of the health care workers, and they accept this. So sucking filtered air into the PPE to vent it, they should also accept.Sounds great.The details are to be discussed. I would remove \"stitching\" into the inside of the PPE. Let me cite http://blog.pksafety.com/protective-clothing-and-ppe-for-ebola-virus/ speaking about the suits, \"They have taped seams to guard against liquid incursion which is mission-critical for Ebola virus protection.\". You will not want to stitch holes in that.But venting the suit from outside might be a key idea. It would simplify the cooling problem dramatically. The lung, which does not provide a barrier to Ebola, is vented from outside. Why not venting the skin, as it is a good barrier for Ebola, from outside? At least in hot climate.With kind regardsRainer\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Denise Denise", 
+      "date": "October 24, 2014, 20:09PM", 
+      "message": "\n    \tHello, Rainer;  thanks for checking-in and for your insightful comments.Yes, I'd read the article about the vital necessity to tape the suit's seams.  So - tell me what you think:   will a piece of Air-Vent line (i.e., made out of lightweight, fabric-quality PVC or other impermeable material), once stitched into the suit as I'd indicated, affect the imperviousness of the seaming-structure?  I've done a bit of sewing myself, and the seams of any outfit are the areas where the Sides of the body/sleeves of the item are joined.  So that if the Air-Vent lines are placed - say on the inside of the suit - but AWAY FROM THE SEAMS, there should not be any breach.  Your alternative suggestion - to place the vents on the EXTERIOR of the suit, sounds interesting.  I really cannot think of any good reason why it cannot work just as well as being placed inside.  On a related aside:  my key impetus for honing-in on Ventilation as a critical enhancement, stems from the practical reasoning that persons - HCWs included, perform at their optimum under the right/amenable Climatic Conditions.  I've been wondering if all of the seemingly unbelievable Safety Breaches that are being made by the HCWs are not somehow related to their high level of personal discomfort being experienced within the hot, sweaty, stifling confines of the PPEs.  After all, Humanity has not coined such sage bits of wisdom as: \"Keeping a COOL Head,\" versus its antithesis: \"All HOT and Bothered\" for nothing.\n    "
+    }, 
+    {
+      "applaud": "1", 
+      "auhtor": "Rainer Winkler", 
+      "date": "October 24, 2014, 21:31PM", 
+      "message": "\n    \tHi Denise,I think the stitching discussion is not critical in the moment. I only mentioned it because it sounded for me like punching holes, and I did not wanted readers to be irritated of this.I just read the Email from the openIDEO, they reminded, that ideas should be fast to implement, easy to produce and simple to adopt. And this is what I see in your proposal. It is not finished, but the obstacles that remain should be solvable.With kind regards,Rainer\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Rainer Winkler", 
+      "date": "October 24, 2014, 21:51PM", 
+      "message": "\n    \tThere might be some confusion regarding the air flow.Option 1: Use filtered and dryer air from the outside to vent the PPE.Option 2: Let the air circulate inside the PPE.I believe in option 1, this should cool better.Option 2 would cool less, but would still be an improvement. But would it be worth the effort?\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Denise Denise", 
+      "date": "October 25, 2014, 11:17AM", 
+      "message": "\n    \tHi, Rainer;  .http://..as stated, I appreciate all of the comments from every member of the Team.  Your input show you all to be smart, thoughtful people with whom I am pleased (...and honestly grateful!...) to be working.About your query, Rainer:  I see where you are going with it, but while we can control air-filtering within a closed space, that won't be the case when the HCWs have to move around their various work-environments. (i.e., going from indoors to outdoors).  Let me know what you think about this.  I'm sorry the workings of my Diagram seem to be unclear, but let me try to clear things up:* The Blue Vent-lines were shown Outside purely for visual immediacy, but will actually be structured into the Inside of the suit, and attached to the battery-operated Micro-Fan which is worn in a case strapped around the waist.* The idea is for the Micro-fan to circulate external air-flow into the suit, through these internally-positioned Ventilation lines.  * The Vent-lines (which are Double-Perforated to allow maximum ventilation) will therefore be directly against the HCW's skin - since placed Internally (...or next to whatever underbody clothing is worn), meaning that the Air-flow as it circulates inside the Suit, will also be in direct contact with the HCW's body.* This Air-flow is to be picked up from whichever environment the HCW happens to be working in at the time (natural or air-filtered)), and gets pulled into the Interior of the PPE via the Micro-fan, to enable the Cooling Process.* The manually operated ON/OFF toggle switch gives necessary control to the Wearer, as there may be times when they do not require the Air-Flow (i.e., no matter how warm we get in Summer, sometimes we all need to switch-off the Fan even if it is just for a moment).Hope this clears matters up, and do feel free to keep the questions, suggestions and yes - also the critiques, coming!   I welcome the interaction.\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Rainer Winkler", 
+      "date": "October 25, 2014, 20:12PM", 
+      "message": "\n    \tHi Denise, I tried to assess the air volume that is required for cooling. I come to rather high values in the order of 10 liter per second, which is rather high (https://openideo.com/challenge/fighting-ebola/research/microclimate-cooling-in-a-ppe). So I am not sure whether venting works well in the hot and humid climate of West Africa. Someone should check my calculations, but I see no one on openIDEO who does this kind of calculations.With kind regardsRainer\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Denise Denise", 
+      "date": "Edited on October 25, 2014, 23:52PM", 
+      "message": "\n    \tHi, Rainer; I was reviewing your own article, and took especial note of this section:  \u201cThe worker starts to sweat, but as the humidity is trapped inside the PPE only a small quantity of the sweat can evaporate. The moist will then condense at cooler parts, for instance the inside of the PPE. When 1 kg of water evaporates 2260kJ are required. When this water condenses on a surface, the same quantity is released as heat. So the condensing water heats the outside of the PPE. Another part of the energy is transfered by convection of by radiation. But the flow of thermal energy from the person to the outside is too small, so the working time is limited.Most of the sweat cannot evaporate and is flowing to the bottom of the clothing. This sweat is useless for cooling but causes loss of water and salt.\u201dIf I understand your theory correctly, the essential problem of Heat-Retention within the PPE, resides in the inability of excess volumes of trapped perspiration to escape its air-tight confines.  Therefore, as long as some countering effect is enabled \u2013 say:  the constant drying effect of piped-in Air flowing against, and constantly evaporating this perspiration, Heat-Retention should cease to be a problem.  (\u2026feel free to correct any of my assumptions, Rainer;  as I am very much a layperson in this field!...)I\u2019ve been checking around on the net for some guidance on How Perspiration Evaporates From The Body, and came across the following article which, in my opinion, seems to posit that \u2013 under conditions where external temperatures are higher than body temperatures, the Evaporation of perspiration from the skin; becomes one of two viable options (the other option being that of \u201cevaporative cooling from exhaled moisture.\u201d).  As such \u2013 and taking your assumption into consideration:  once the Micro-Fan is distilling its constant supply of Dry Air directly onto, and all around the HCW\u2019s body mass, there should not be that much of an opportunity for the type \u2013 and volume of condensation that you foresee as eventually leading to excess sweat collecting within, and pooling at the bottom of the PPE.[The Georgia State University extract is copied below:\u00a0http://hyperphysics.phy-astr.gsu.edu/hbase/thermo/sweat.html#c1Extract from Georgia State University.Perspiration Cooling of Body\u201cWhen the ambient temperature is above body temperature, then radiation, conduction and convection all transfer heat into the body rather than out. Since there must be a net outward heat transfer, the only mechanisms left under those conditions are the evaporation of perspiration from the skin and the evaporative cooling from exhaled moisture. Even when one is unaware of perspiration, physiology texts quote an amount of about 600 grams per day of \"insensate loss\" of moisture from the skin.The cooling effect of perspiration evaporation makes use of the very large heat of vaporization of water. This heat of vaporization is 540 calories/gm at the boiling point, but is even larger, 580 cal/gm, at the normal skin temperature.\u201d\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Guichingdin Palmei", 
+      "date": "October 24, 2014, 00:58AM", 
+      "message": "\n    \tHello! I am wondering if one of OpenIDEO Team is aware of the changes you have made to your updated idea.\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Denise Denise", 
+      "date": "October 24, 2014, 12:38PM", 
+      "message": "\n    \tI really don't know.  I believe that they are (...or should be..?) monitoring the site. As you will note, it is not as if I have CHANGED my original idea, all of my updates made are not in any way substantial, but merely incorporated to further explain certain elements of the workings of the suit more clearly.  For example, noting that the DIAGRAM shown represents the INTERIOR of the suit, so that no one thinks that the Air Vents will actually be on the OUTSIDE.  It was easier to just state this, than include two more diagrams.  Anyhow, I'll check with their \"contact\" option, and see what the formal procedure is for making cosmetic changes to one's Original idea.\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Denise Denise", 
+      "date": "October 24, 2014, 19:29PM", 
+      "message": "\n    \t...Hi, Guichingdin:    as promised, I emailed the OpenIDEO Team, and have copied their response below:\"Hi Denise,Yes! We HIGHLY encourage refinement and iterations throughout this process. Please do go ahead and make the idea more clear, and also feel free to make updates & adjustments per community feedback. This is not a grant application; it's a collaborative space to grow and develop your idea with the help of a community of people who also care about the call to action. Good luck!  \"\n    "
+    }, 
+    {
+      "applaud": "1", 
+      "auhtor": "Alexander Martin", 
+      "date": "October 21, 2014, 23:04PM", 
+      "message": "\n    \tThe fan will need some sort of filter or device to kill the Ebola so as not to spread it all over the body  when circulated with the air lines.\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Denise Denise", 
+      "date": "October 21, 2014, 23:13PM", 
+      "message": "\n    \tSince the photos shown so far never depict the HCWs in oxygen masks, I don't think that the air circulating within their work environments is a concern.  If it was, then would they not be contracting the virus thru' inhalation?  And that is certainly not the case.  Thanks anyway, Alexander!\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Evelina Cohn Ph.D.", 
+      "date": "October 24, 2014, 11:45AM", 
+      "message": "\n    \tAlexander, there are ideas regarding existing protection equipment to fight Ebola, by impregnating the material with different solutions. Please take a look at https://openideo.com/challenge/fighting-ebola/ideas/a-good-way-of-preventing-is-the-only-way-of-inhibiting-a-deadly-disease#\n"
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Anthony Davis", 
+      "date": "Edited on October 30, 2014, 17:42PM", 
+      "message": "\n    \tGreat idea Denise, applauded.  What would you think of 'air conditioned -air lines' hanging from the ceiling which can be clipped into the back of the PPE suit instead of a fan? These can all be fed from an outside filtered and ventilated air source ($100 air conditioning unit) and transported with low cost IV line to multiple PPE wearers. I'm just thinking out loud here. Would love to see your idea go further as I believe it's a possible way forward. A vent would also be needed with any positive air system ( including your fan) - to stop ballooning of the PPE suit. And then there's the method of attachment for either fan or IV line to a plastic suit, we'd have to find a safe way. I'll draw it up - have a look. Credit to you for idea and inspiration.\n    "
+    }, 
+    {
+      "applaud": "1", 
+      "auhtor": "Denise Denise", 
+      "date": "October 30, 2014, 18:06PM", 
+      "message": "\n    \tHello, Anthony;Thanks for your encouragement.  I like your \"air-lines\" option - and realize that you are just fleshing out the idea. However,  I think that mobility would suffer once the lines were anchored; eg. suppose the HCW had to move outdoors, or from one area to another?  Remember that these workers operate in some rather makeshift compounds, so while the ceiling-anchored air lines would be an excellent idea for a First World health unit, it might not function as well in Third World environments.    Care to join my Team?   I'd love to have you!  Cheers.\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Anthony Davis", 
+      "date": "Edited on October 30, 2014, 19:31PM", 
+      "message": "\n    \tThanks Denise.  Love to join a team. Absolutely no idea how to join or send team invites though..! Maybe you can guide me on it.Back on point - You're right about the mobility issue and I'd be concerned over the risk of contamination by frequent attachment/detachment of the hoses. If you can think of any more pro's and con's please let me know - I need to play around with it.  https://openideo.com/challenge/fighting-ebola/ideas/attachment-points-for-cooled-air-from-ceilingAnd more on point - back your idea. If the fan was higher (back of neck maybe) it might be less prone to be hindered by spillages or if a patient vomits on the worker. \u00a0One slight drawback would be the ambient heat from air in Africa but it would definitely be cooler than what's in the suit. I'd also wonder if  a build up of air pressure in suit might increase resistance for the micro fan making it less efficient.  A vent may be necessary.The fan would also need to be high powered due to the narrowness of the supplying tubes, I'm certain of that. \u00a0But even if these minor things prove true - they are not big things that can't be overcome.  \u00a0I don't see these as big issues, they can be adapted and overcome.\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Denise Denise", 
+      "date": "October 30, 2014, 19:19PM", 
+      "message": "\n    \tAnother great Team Member - Guichingdin Palmei, sent me the following info. on how to add persons to the Team.  Please see his advice below.\"You can click on \"Manage Team\" then search for the name  that you would like to add and then just drag it to the left-hand side.\"I'll review your Idea more thoroughly, and see whether I can suggest anything helpful.\n    "
+    }, 
+    {
+      "applaud": "1", 
+      "auhtor": "Denise Denise", 
+      "date": "October 30, 2014, 19:21PM", 
+      "message": "\n    \t....don't worry about the Team process; I've gone ahead and added you to mine.\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Anthony Davis", 
+      "date": "October 30, 2014, 19:35PM", 
+      "message": "\n    \tThanks Denise. I updated that earlier post - I hadn't time to write fully earlier.  Please feel free to be as critical as possible as it's a good cause and the earlier we find problems the sooner they get fixed!\n    "
+    }
+  ], 
+  "description": "<div class=\"description\">\n            HOW THE \"AEROTARD\" WORKS:\n<br/>\n<br/> 1.\u00a0 Incorporate thin, flexible Ventilation Lines into \n<strong>INTERIOR</strong> Front/Back, Sleeves and up Neck of PPE.\n<br/>\n<br/> 2. Attach these Vent-Lines to a portable, lightweight, noiseless and *Battery-Operated* \n<strong>MICRO-FAN.</strong>\n<br/>\n<br/> 3.\u00a0 Micro-Fan to be housed within a clear, \n<strong>PVC POUCH</strong> (i.e., CARRYING-CASE) \u00a0to which Belt Straps are attached for unit to be worn around waist.\u00a0 Micro-Fan has a slightly Protruding ON/OFF toggle switch, for wearer to operate at will.\n<br/>\n<br/> WHY THE \"AEROTARD\" WILL SUCCEED:\n<br/>\n<br/> A.\u00a0 It is EASY to incorporate into existing PPE designs.\n<br/>\n<br/> B.\u00a0 It will be CHEAP to manufacture; and\n<br/>\n<br/> C.\u00a0 All of the above means that it will be FAST to roll-out.\n<br/>\n<br/> QUESTIONS FOR THE COMMUNITY:\n<br/>\n<br/> The Question that I want to pose to the Community, is an ESSENTIAL QUESTION that needs to be seriously considered in light of today's lamentably 'throw-away' society, and\u00a0is one that I have asked - and honestly answered, myself: \n<em><strong>\"Why Re-Invent The Wheel?\"</strong></em>\u00a0\u00a0 In other words: why waste Time, Effort and material Resources to CREATE a brand new PPE, when so much of this \n<em>SAME</em> Time, Effort and Resources have ALREADY gone into the PPEs currently available?\n        </div>", 
+  "id": "https://openideo.com/challenge/fighting-ebola/ideas/introducing-the-aerotard-comfort-ventilated-safety-bodysuit", 
+  "media": [
+    {
+      "src": "//d3gyq8wptu1by3.cloudfront.net/media/38d7fa8c-cdcf-4dda-a1e3-167c93d9874b.jpg", 
+      "type": "image"
+    }
+  ], 
+  "submitted": "October 21, 2014, 22:48PM", 
+  "summary": "Since so much excellent technology, expensive materials and design time and effort have ALREADY gone into constructing EXISTING PPEs, I have opted to ENHANCE  and not Re-Design these suits.   My DIAGRAM is attached to this post, but the basic details are as follows:1.  Incorporate thin, flexible Air Vent lines into *INTERIOR* of PPE suit.  Ventilation lines to run (...ONE EACH SIDE, and from Shoulder to Mid-Leg...) up the FRONT, BACK, SLEEVES and up into curve of the NECK.   This placement allows for almost TOTAL COOL-AIR COVERAGE within the suit.2.   Air Vent lines attached to a Portable, Lightweight, Noiseless, *Battery-Operated* MICRO-FAN.3. MICRO-FAN housed in clear, PVC pouch attached by BELT-STRAPS around wearer's waist", 
+  "tag": "/challenge/fighting-ebola/ideas#mission-strengthen-health-care-capacities2", 
+  "title": "Introducing....the \"AEROTARD\" COMFORT-VENTILATED SAFETY BODYSUIT.", 
+  "view_count": 188
+}

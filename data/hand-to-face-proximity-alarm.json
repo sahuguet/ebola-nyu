@@ -1,0 +1,44 @@
+{
+  "applause_count": 6, 
+  "author": "Travis Good", 
+  "comment_count": 4, 
+  "comments": [
+    {
+      "applaud": "1", 
+      "auhtor": "David Clark", 
+      "date": "October 17, 2014, 11:33AM", 
+      "message": "\n    \tI think this is a good idea and could be easily done with Near Field Communication stickers .. They are cheap and programmable. .. Stick one each side of mask and wear a lightweight wrist band with vibration receiver.\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Travis Good", 
+      "date": "October 17, 2014, 14:52PM", 
+      "message": "\n    \tDo you know of any such NFC-triggered wristbands? I'd imagine a properly tuned RFID sticker/transceiver combo would work too.  Time to do a little web searching!\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Nicole Daphne Tricoukes", 
+      "date": "October 15, 2014, 23:53PM", 
+      "message": "\n    \tTravis, I think 1) a new hood design is required to reduce the overall amount of PPE in the field, thus reducing the exposure of on/off of several parts of equipment.  2) I do think a warning sensor for heat exhaustion or exposure to prolonged suit use is a requirement with air circulation in the hood to prevent precipitation, etc.  I wanted to see a cheap use of sensor that could be disposable for quick reads - similar to sensor tape or other embedded devices that could easily be made ruggedized for external application for others to see.  In short, we need a better overall system for PPE against Ebola: 1) external covering easy on/off, 2) wick-away internal skin gear like an under armour that could be washed but absorb sweat, etc (no more cotton scrubs), and 3) 1-piece hood system.  This would provide best-in-class protection in field or in hospitals with easy to understand and very simple training - in the form of videos or leaflets.  Lemme know what you think!\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Travis Good", 
+      "date": "October 15, 2014, 23:58PM", 
+      "message": "\n    \tI think you've identified at least three additional posts! :-)\n    "
+    }
+  ], 
+  "description": "<div class=\"description\">\n            See summary above ...\n        </div>", 
+  "id": "https://openideo.com/challenge/fighting-ebola/ideas/hand-to-face-proximity-alarm", 
+  "media": [
+    {
+      "src": "//d3gyq8wptu1by3.cloudfront.net/media/c86b3315-4873-4ac1-9317-a804a870dc5d.png", 
+      "type": "image"
+    }
+  ], 
+  "submitted": "October 15, 2014, 22:43PM", 
+  "summary": "One risk that surfaces is from habits we don't even think about. My nose itches so I scratch it. My glasses slip down my nose so I push them up. All harmless under normal circumstances but potentially deadly to someone in a PPE around Ebola.This idea is to put reusable wrist bands on caregivers which will trigger a warning chirp if they get within 12 inches of their goggles where a proximity sensor with speaker will be attached. Both wristbands and goggle proximity sensor should:\u00a0\u00a0\u00a0- be reusable after immersion in disinfectant\u00a0\u00a0\u00a0- run on inexpensive, long life industry-standard batteries\u00a0\u00a0\u00a0- have increasing rate and pitch as the distance closes This would be a fairly easy hack but it needs to be small and elegant.", 
+  "tag": "/challenge/fighting-ebola/ideas#mission-strengthen-health-care-capacities2", 
+  "title": "Hand-to-Face Proximity Alarm", 
+  "view_count": 81
+}

@@ -1,0 +1,62 @@
+{
+  "applause_count": 3, 
+  "author": "Jan Hajek", 
+  "comment_count": 7, 
+  "comments": [
+    {
+      "applaud": "0", 
+      "auhtor": "Jan Hajek", 
+      "date": "October 22, 2014, 19:03PM", 
+      "message": "\n    \tOpen concept wards would also DEMISTIFY to locals what is going on behind the closed tents.\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "John", 
+      "date": "October 18, 2014, 19:26PM", 
+      "message": "\n    \tYou might accomplish something similar using an existing (non open) facility and a Skype(TM) like Video Audion link.  I know Skype(TM) can run on an Android Tablet.  Privacy would be handled by having to answer.  Questions could be addressed remotely in many cases and a suited worker could be dispatched if necessary.\n    "
+    }, 
+    {
+      "applaud": "1", 
+      "auhtor": "Jan Hajek", 
+      "date": "October 18, 2014, 20:44PM", 
+      "message": "\n    \tFor sure - excellent point!  Tablets and skype would be excellent to improve communication with those in the tent.  Even walkie talkies or cctv.  They could also be  useful for staff to transmit information to others outside the ward.  They could be made available to the field to use them right away!  They are already  being used on very small scale - with careful attention to infection control to make sure they do not cross-contaminate or go from \"dirty\" to \"clean\" areas.      But,  tablets may not work well for everyone, the majority of patients with Ebola virus disease become very asthenic - they even have trouble lifting up cups of water to drink.  Maybe its not one or the other - and for existing closed wards we should be taking more advantage of tablets or other technology to improve communication with those inside.\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Rebecca Buechel", 
+      "date": "October 18, 2014, 20:52PM", 
+      "message": "\n    \tsomeone mentioned the \"babysitting\" intercoms as well, which might be cheap & quick? http://www.aliexpress.com/item/Babysitting-Handheld-2-4G-digital-wireless-intercom-surveillance-camera-with-temperature-sensors-baby-hypnosis/1982539562.html\n"
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Jan Hajek", 
+      "date": "October 18, 2014, 21:04PM", 
+      "message": "\n    \tWow - that's brilliant!  That seems ready to go!\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "John", 
+      "date": "October 19, 2014, 14:57PM", 
+      "message": "\n    \tIf you want to observe both audio and video that is a great idea.  One concern may be the one way nature of baby monitors.  You might at audio coming back in to the patient.Do baby monitors have enough operating frequencies?  Or can they work over WIFI.\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Jan Hajek", 
+      "date": "October 19, 2014, 18:58PM", 
+      "message": "\n    \tI am not familiar with baby monitors \u2013 but I think they are equipped for 2-way audio communication over short distance.  Some even have remote controlled cameras, although there still may be practical issues of limited views and positioning.  They are likely designed for monitoring one baby in a quiet room \u2013 not 10 \u2013 50 sick people in a tent.  Psychiatry-wards also have \"built-in\" A/V monitors for some patient rooms that require 24 hour observation.An \u201copen concept\u201d facility may still be useful \u2013 as it may be easier to see and communicate over a short distance in person, and less prone to failure, then through electronic monitors.  That said, remote A/V monitors seem ready for use immediately to help in existing closed wards.\n    "
+    }
+  ], 
+  "description": "<div class=\"description\">\n            To limit the time I had to wear PPE, and maximize the time I spent with patients, I began to do my rounds by first seeing all the patients who were well enough to walk outside of their tents.\u00a0 I could talk to these patients safely while I stood in the low risk zone, separated by 2 rows of orange fencing, distance of 2 metres, comfortably, without any PPE.\u00a0 Then, when I entered in full PPE I could concentrate more on those very weak who needed more attention and physical contact.\u00a0\n<br/>\n<br/> With the existing isolation ward structures, the \"talking at a distance\" for patient rounds works well for patients well enough to get up and sit outside.\u00a0 However, for patients that were too sick to walk and bed-ridden, we couldn\u2019t see them or know what was going on in the tents, until we entered the ward dressed in all our PPE gear.\u00a0\n<br/>\n<br/> Perhaps innovative \u201copen concept\u201d facilities with open walls or alternate ways to see inside and communicate with patients at a distance without wearing full PPE could maximize verbal and visual communication and improve patient care.\n        </div>", 
+  "id": "https://openideo.com/challenge/fighting-ebola/ideas/open-concept-isolation-wards", 
+  "media": [
+    {
+      "src": "//d3gyq8wptu1by3.cloudfront.net/media/8d1a11d4-07c4-4377-b65f-8077870e14e3.jpg", 
+      "type": "image"
+    }
+  ], 
+  "submitted": "October 18, 2014, 08:46AM", 
+  "summary": "Perhaps \"open concept\u201d wards with open walls or other ways to see inside from a distance could let us see patients safely, at a distance without having to wear full PPE.  We could know what is going on inside the tents at times, not just when in full PPE.We could maximize verbal and visual communication with patients - plan ahead and concentrate more on the very sick when we enter the wards in full PPE.", 
+  "tag": "/challenge/fighting-ebola/ideas#mission-strengthen-health-care-capacities2", 
+  "title": "\"Open Concept\" Isolation Wards", 
+  "view_count": 53
+}

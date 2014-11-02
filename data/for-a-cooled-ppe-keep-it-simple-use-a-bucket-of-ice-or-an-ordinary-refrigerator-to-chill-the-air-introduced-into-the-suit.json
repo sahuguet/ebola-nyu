@@ -1,0 +1,27 @@
+{
+  "applause_count": 3, 
+  "author": "frank ingle", 
+  "comment_count": 2, 
+  "comments": [
+    {
+      "applaud": "0", 
+      "auhtor": "OpenIDEO", 
+      "date": "October 30, 2014, 21:33PM", 
+      "message": "\n    \tHi Frank, interesting post! Any chance you could find an image to go along with it? Images help grab attention and tell a story with higher impact. You should be able to use the Update Entry button on the right of your post and follow the instructions to add images from there. We know occasionally people have issues uploading images so let us know by hitting the Feedback button at the bottom of most pages of our site if you face any problems. Looking forward to seeing more of your inspiring insights on OpenIDEO. And here's some tips on adding visual goodness to your idea: http://ideo.pn/vis-uals plus more on evolving your thought-starter: http://ideo.pn/oi-evolve\n"
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Anthony Davis", 
+      "date": "Edited on October 30, 2014, 10:14AM", 
+      "message": "\n    \tIt's a good idea Frank, I like it. It would suit temporary hospitals perfect. The only issue I can see would possibly be the limitation of movement due to hoses but it might be countered if the hoses are suspended from the ceiling and could be removed and reattached at different areas, possibly one beside each bed.  (Hoses stem from a single refrigeration unit )\n    "
+    }
+  ], 
+  "description": "<div class=\"description\">\n            Apparatus consisting of means to filter the incoming air by hepa filtration; means to pressurize air using a low pressure air pump; means to regulate pressure to \u00a0to insure that the pressure cannot become too high; means to split the air flow into two streams; means to chill the first\u00a0stream of\u00a0air by means of a ordinary kitchen refrigerator or a bucket of ice; means to remove water condensation from the chilled first air stream; means to control the flow of a second stream of air which is not chilled; and means to combine the chilled and unchilled airflow; means to measure the temperature of the combined stream of\u00a0partly chilled air; means to control the proportions of air from\u00a0the first air stream and the second air stream \u00a0in order to\u00a0adjust the temperature of the air entering the bunny suit without changing the pressure of the resulting airstream; means for the assisting staff to adjust the temperature setpoint of the combined chilled air stream to provide maximum comfort for the person wearing the PPE.\u00a0 The second stream of airflow can be passed through a countercurrent heat exchanger to chill it, remove the condensed water, then reheat it to nearer ambient temperature.\u00a0 The result will be delivery of filtered \u00a0air which is chilled to the desired temperature and is not saturated with water vapor, thus reducing the likelihood that the inside of the transparent mask will fog up.\u00a0 This apparatus will be very inexpensive because it relies on a locally available refrigerator for chilling.\u00a0 All the apparatus except the umbilical hose will be outside the controlled environment.\u00a0 In addition, a second pump and pressure control may be added to maintain the pressure inside the controlled environment slightly below ambient pressure. This will reduce the likelhood that contamination will be spread through gaps in the enclosure.\u00a0 The pumping apparatus will be outside the controlled environment.\u00a0 A\u00a0hepa filter to filter the air removed from the controlled environment will be installed at the end of hose which is inserted through a port in the wall.\u00a0 When it is to be changed, the hose segment leading to the\u00a0controlled environment will be detached from the pump and withdrawn into the environment, and then disposed of with the other contaminated materials inside. A new hose with filter at the distal end will then be inserted through the port and into the controlled environment.\u00a0\n        </div>", 
+  "id": "https://openideo.com/challenge/fighting-ebola/ideas/for-a-cooled-ppe-keep-it-simple-use-a-bucket-of-ice-or-an-ordinary-refrigerator-to-chill-the-air-introduced-into-the-suit", 
+  "media": [], 
+  "submitted": "October 29, 2014, 17:57PM", 
+  "summary": "Use an ordinary kitchen refrigerator or a bucket of ice  to chill the air which will be then filtered by a hepa filter and sent to the suit.  This keeps the apparatus for filtering, pumping, and chilling the air outside the patient treatment area, and reduces the cost of the suit and its supporting apparatus as low as possible.  One cooing apparatus might supply multiple positive pressure bunny suits and also permit a \"hot swap\" of source air to a battery powered unit carried by the suited up person to facilitate movement of medical personnel.", 
+  "tag": "/challenge/fighting-ebola/ideas#mission-strengthen-health-care-capacities2", 
+  "title": "For a cooled PPE, keep it simple: use a bucket of ice or an ordinary refrigerator to chill the air introduced into the suit.", 
+  "view_count": 23
+}

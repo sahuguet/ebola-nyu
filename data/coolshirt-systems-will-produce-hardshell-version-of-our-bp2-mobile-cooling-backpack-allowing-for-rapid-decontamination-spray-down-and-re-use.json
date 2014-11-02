@@ -1,0 +1,45 @@
+{
+  "applause_count": 2, 
+  "author": "Jay Buckalew", 
+  "comment_count": 5, 
+  "comments": [
+    {
+      "applaud": "0", 
+      "auhtor": "OpenIDEO", 
+      "date": "October 30, 2014, 21:37PM", 
+      "message": "\n    \tHi Jay, interesting post! Any chance you could find an image to go along with it? Images help grab attention and tell a story with higher impact. You should be able to use the Update Entry button on the right of your post and follow the instructions to add images from there. We know occasionally people have issues uploading images so let us know by hitting the Feedback button at the bottom of most pages of our site if you face any problems. Looking forward to seeing more of your inspiring insights on OpenIDEO. And here's some tips on adding visual goodness to your idea: http://ideo.pn/vis-uals plus more on evolving your thought-starter: http://ideo.pn/oi-evolve\n"
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Jay Buckalew", 
+      "date": "October 30, 2014, 21:45PM", 
+      "message": "\n    \tYes, we will be posting images ASAP... Thank you again for this awesome collaboration opportunity... This is our first and not last time to join the community.\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Nfn They", 
+      "date": "October 30, 2014, 17:47PM", 
+      "message": "\n    \tI like where this is going. A Solar 'boost' and a hard shell would add unit endurance in a daytime environment.Couple of questions if I may; What stage of development is this design?What kind of ABS resin are you using? I would think a hardened plastic would be best suited when you know these things are going to be taking a beating.Secondly, most ABS \"surfaces\" are kinda rough when you look up close, and to a Microbe, great hiding places (note: if you're a Microbe, you know who you are).\u00a0A hardened/coated surface would really help with decon.Speaking of decon, I wonder if an \"anti-bacterial\" chemical could be added to the resin mix? (self-decon effect?) As I recall, there are products like Cutting Boards that are anti-microbial impregnated.Polymers and ABS aren't that terribly different... ?Sidebar thought(s);I'm not familiar with your construction materials, so pls forgive if it's redundant -- do you use round tubing for your thermal distribution?I crunched some numbers a found a flattened, \"ribbon-like\" tubing increased thermal transfer (exposed square surface area) significantly vs. round.Only limitation was some lateral bending limitation along the y axis, but unless you're wanting to do hard 90's, it shouldn't be much of an issue.Another note; I been giving some thought to low-power pump designs. Have a few thoughts., but I'd like your input at the ground-level before I invest much time.NOTE: Author rambles from time-to-time. :/\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Jay Buckalew", 
+      "date": "October 30, 2014, 18:03PM", 
+      "message": "\n    \tGreat questions.... The ABS will be coated with no porous coating. The  Polymers are a little proprietary (secrete sauce ) we use a patented tubing that has a no-kink feature with baffles for flow control... remember COLD is unconformable COOL and consistent is much more effective :) The system is being tested as we speak for thermal regulation and ice life.. It runs the same exact pumps etc as our hard 12 & 18 Liter Hospital/Surgeon Cooling Systems... We just designed a wearable ergonomic backpack... It has been on our product roadmap for 18 months...\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Jay Buckalew", 
+      "date": "October 30, 2014, 16:19PM", 
+      "message": "\n    \tLCG=Liquid Cooled Garments... Sorry for all the acronyms :)\n    "
+    }
+  ], 
+  "description": "<div class=\"description\">\n            This system will weigh only 3.5lbs and solve the combined problem of dehydration and overheating while providing a 3X time in the care POD.\n        </div>", 
+  "id": "https://openideo.com/challenge/fighting-ebola/ideas/coolshirt-systems-will-produce-hardshell-version-of-our-bp2-mobile-cooling-backpack-allowing-for-rapid-decontamination-spray-down-and-re-use", 
+  "media": [], 
+  "submitted": "October 30, 2014, 15:01PM", 
+  "summary": "Responding to requests of our customers we will produce a ABS Hard-shell Back Pack featuring an integrated solar recharge panel version of  our Mobile Cool BP2 System that will allow for rapid decontamination and re-use. The system will be powered via Lithium Ion  AC &  Solar rechargeable 8hr battery. The system will also feature a hydration bladder that will piggyback the cooling feature to provide COOL  fluids to the wearer. This system will pump the CDC recommended 5% Chlorine decontamination solution thru our LCG hooded vest to provide torso and head cooling for up to 3.5hrs .", 
+  "tag": "/challenge/fighting-ebola/ideas#mission-strengthen-health-care-capacities2", 
+  "title": "COOLSHIRT SYSTEMS will produce HARDSHELL Version of our BP2 Mobile COOLING Backpack allowing for rapid decontamination spray down and re-use.", 
+  "view_count": 50
+}

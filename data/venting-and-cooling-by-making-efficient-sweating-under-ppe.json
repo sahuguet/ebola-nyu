@@ -1,0 +1,26 @@
+{
+  "applause_count": 4, 
+  "author": "Rainer Winkler", 
+  "comment_count": 1, 
+  "comments": [
+    {
+      "applaud": "0", 
+      "auhtor": "Anthony Davis", 
+      "date": "October 27, 2014, 19:28PM", 
+      "message": "\n    \tHi Rainer,  I like your thinking on vents but was wondering how effective a ventilation fan would be in a non pressurized ppe suit that clings to the body. Would it create a 'suction effect' which prevents the outward flow of air and how can this be overcome?\n    "
+    }
+  ], 
+  "description": "<div class=\"description\">\n            Water has a Enthalpy of vaporization (heat of evaporation) of 2260 kJ/kg. Evaporating 1 kg of water per hour cools with an heat current of 630 W. A person at rest produces only about 100 W of heat.\n<br/> It was proposed to used commercially availiable products for venting under cloth: https://openideo.com/challenge/fighting-ebola/ideas/equipping-and-empowering-the-care-community-to-fight-ebola (http://www.kuchofuku-products.com/index.html).\n<br/> But connecting the air flow used for venting directly to the outside creates problems. Infectious material may enter the system and would be directly blown to the skin.\n<br/> The moist that is created by evaoporation of the sweat has therefore to be removed. This can happen by:\n<br/> a) Using silica gel or zeolite to dry the air. This may create problems, if the heat that is released duing the absorption heats the PPE too much\n<br/> b) Pumping the air through a bottle with ice or cold water. This will dry the air. Problems are, that liquid water may leave accidentially the bootle and may cause problems under the PPE.\n<br/>\n<br/> For venting a radial fan could be used. A small radial fan creates more pressure than the axial fans used in most (but not all) computers. So it will be easier to vent clothing that is not optimized for venting. The model I have makes 2 mbar overpressure.\n<br/>\n<br/> The radial fan coupled with 100g of silica gel absorbed in a first test 0.5mg Water per second at 16\u00b0C and 60% humidity, this is equivalent to 1W of cooling. It heated itself to about 30\u00b0C, about 15\u00b0C higher than the ambient temperature. A working device might therefore require about 10kg of silica gel, to have a sufficient absorption rate. I am shure it should be possible to saturate the silica gel faster, in that case less gel would be required. But I gave here only the numbers I measured.\n<br/>\n<br/> For cooling using ice I guess that about 1.5 kg of ice is needed to absorb 160g Water vapor per hour, leading to a cooling power of 100 W.\n<br/> \u00a0\n        </div>", 
+  "id": "https://openideo.com/challenge/fighting-ebola/ideas/venting-and-cooling-by-making-efficient-sweating-under-ppe", 
+  "media": [
+    {
+      "src": "//d3gyq8wptu1by3.cloudfront.net/media/90a89c19-8a20-4f9f-bcc6-37512708f0b6.JPG", 
+      "type": "image"
+    }
+  ], 
+  "submitted": "October 19, 2014, 08:28AM", 
+  "summary": "To cool the worker under a PPE I propose to combine venting and drying to enable efficient sweating.", 
+  "tag": "/challenge/fighting-ebola/ideas#mission-strengthen-health-care-capacities2", 
+  "title": "Venting and drying for efficient sweating under PPE", 
+  "view_count": 100
+}

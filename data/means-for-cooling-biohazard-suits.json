@@ -1,0 +1,45 @@
+{
+  "applause_count": 3, 
+  "author": "Larry Ward", 
+  "comment_count": 5, 
+  "comments": [
+    {
+      "applaud": "0", 
+      "auhtor": "OpenIDEO", 
+      "date": "October 11, 2014, 19:25PM", 
+      "message": "\n    \tHi Larry, interesting post! Any chance you could find an image to go along with it? Images help grab attention and tell a story with higher impact. You should be able to use the Update Entry button on the right of your post and follow the instructions to add images from there. We know occasionally people have issues uploading images so let us know by hitting the Feedback button at the bottom of most pages of our site if you face any problems. Looking forward to seeing more of your inspiring insights on OpenIDEO. And here's some tips on adding visual goodness to your idea: http://ideo.pn/vis-uals plus more on evolving your thought-starter: http://ideo.pn/oi-evolve\n"
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Kien Ly", 
+      "date": "Edited on October 10, 2014, 09:17AM", 
+      "message": "\n    \tCan't the fan be fix to a belt and worn inside the suit with the battery plug outside? Less weight on the head; more comfortable to wear. It can also work with any modified PPE and Hazmat suit. It would look something similar to http://www.fullsource.com/north-safety-ca201d/  except all you see from the outside would be a ventilation port and the battery plug.\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Larry Ward", 
+      "date": "October 10, 2014, 16:00PM", 
+      "message": "\n    \tYes, that would work, certainly. For economy, I was considering available lightweight fans and HEPA filter material, adapted and sealed to existing suits. There are numerous lightweight fans adapted for \"solar\" use that would work with battery, too. I agree with other posters that direct solar drive not practical for the use intended- any ventilation offset by need to be in the sun in West Africa.\n    "
+    }, 
+    {
+      "applaud": "1", 
+      "auhtor": "Deborah Paterson", 
+      "date": "October 09, 2014, 20:36PM", 
+      "message": "\n    \tHi Larry, thanks for posting this! Have you seen these other posts which are also fighting to solve the problem of overheating PPE suits? https://openideo.com/challenge/fighting-ebola/ideas/solar-powered-fans-in-suitshttps://openideo.com/challenge/fighting-ebola/ideas/a-fan-base-boot-up-those-suitsIt would be interesting to see how we might do this with existing resources in the context of the affected areas. How might we do this without a power source?\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Kien Ly", 
+      "date": "Edited on October 10, 2014, 08:48AM", 
+      "message": "\n    \tSolar powered battery recharger?\n    "
+    }
+  ], 
+  "description": "<div class=\"description\">\n            1. Install a battery-op fan and HEPA filter intake on top of the head piece of a Biohazard suit. Exhaust check valve or HEPA filter in lower part of suit or, alternatively, at wrists and ankles.\n<br/> 2. Attach a kinetic flexion/extension generator to wearer's elbow or knee to maintain battery charge for fan. Normal motion generates power for fan to cool. \u00a0\n<br/> 3. Head down air motion also helps prevent fogging.\u00a0\n<br/>\n<br/> Could also work simply with larger rechargeable battery, but that increases weight.\n        </div>", 
+  "id": "https://openideo.com/challenge/fighting-ebola/ideas/means-for-cooling-biohazard-suits", 
+  "media": [], 
+  "submitted": "October 09, 2014, 18:33PM", 
+  "summary": "An adaptation for current biohazard suits to allow extended air cooling.", 
+  "tag": "/challenge/fighting-ebola/ideas#mission-strengthen-health-care-capacities2", 
+  "title": "Means for cooling Biohazard suits", 
+  "view_count": 86
+}

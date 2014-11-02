@@ -1,0 +1,51 @@
+{
+  "applause_count": 3, 
+  "author": "Deidre Crowell", 
+  "comment_count": 6, 
+  "comments": [
+    {
+      "applaud": "0", 
+      "auhtor": "OpenIDEO", 
+      "date": "October 11, 2014, 19:27PM", 
+      "message": "\n    \tHi Deidre, interesting post! Any chance you could find an image to go along with it? Images help grab attention and tell a story with higher impact. You should be able to use the Update Entry button on the right of your post and follow the instructions to add images from there. We know occasionally people have issues uploading images so let us know by hitting the Feedback button at the bottom of most pages of our site if you face any problems. Looking forward to seeing more of your inspiring insights on OpenIDEO. And here's some tips on adding visual goodness to your idea: http://ideo.pn/vis-uals plus more on evolving your thought-starter: http://ideo.pn/oi-evolve\n"
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Jab Thorn", 
+      "date": "October 11, 2014, 00:35AM", 
+      "message": "\n    \tWhat about face mask material in underarms and back area (under a flap).  If it could be placed in areas unlikely to get contaminated but which open during movement.\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Deidre Crowell", 
+      "date": "October 11, 2014, 05:50AM", 
+      "message": "\n    \tThat's a good thought. If it could be a bit more flexible than the face mask material, that would be ideal for mobility and comfort.\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Jamie Beck", 
+      "date": "October 10, 2014, 18:07PM", 
+      "message": "\n    \tGreat thinking, Deidre! We look forward to seeing this idea evolve. What might you need from the community to help prototype?\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Deidre Crowell", 
+      "date": "October 11, 2014, 05:47AM", 
+      "message": "\n    \tHaving one of the PPE suits currently in use would be a huge help.  Also input from anyone with more knowledge of ultrafiltration fabric would be very welcome.\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Jamie Beck", 
+      "date": "October 13, 2014, 03:00AM", 
+      "message": "\n    \tAbsolutely, Deidre! Stay tuned - we're working on bringing in more on-the-ground insights by experts will be able to answer specific questions about wearing PPE.\n    "
+    }
+  ], 
+  "description": "<div class=\"description\">\n            I am inspired by this idea because it connects with my interests in material science and filtration membranes. \u00a0\u00a0\n<br/>\n<br/> The second part of this idea is to use a source of clean air under pressure, such as the HEPA filtered backpack unit described in Bob Hauck's contribution. \u00a0The idea is that pressurized air will keep viruses from infitrating the PPE. Also, moving air provides for convective heat transfer, cooling the wearer. I like Bob Hauck's idea of venting through the armpits.\u00a0\u00a0\n<br/>\n<br/> HEPA standards may not be sufficient, as they are rated to remove 99.97% of particles 0.3 microns (300 nm). A lot depends upon the shape the virus coils itself into.\u00a0\n<br/>\n<br/> I'm also wondering if there would be another way to power the fan, such as rechargeable batteries and a portable solar power unit.\u00a0\n        </div>", 
+  "id": "https://openideo.com/challenge/fighting-ebola/ideas/positive-pressure-ppe-as-virus-barrier-using-ultra-filtration-fabric", 
+  "media": [], 
+  "submitted": "October 10, 2014, 17:48PM", 
+  "summary": "There has been a lot of talk about preventing the spread of Ebola by avoiding contact with body fluids of the infected patient. However, Ebola virus is about 80 nm in diameter and 970 nm long, much larger than water molecules about 0.3 nm. If we use a membrane which is permeable to water and air molecules but not to viruses, we could offer protection to the wearer, but also increase comfort.", 
+  "tag": "/challenge/fighting-ebola/ideas#mission-strengthen-health-care-capacities2", 
+  "title": "Positive Pressure PPE as Virus Barrier using Ultra Filtration fabric", 
+  "view_count": 86
+}

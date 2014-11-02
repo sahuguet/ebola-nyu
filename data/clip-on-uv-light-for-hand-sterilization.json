@@ -1,0 +1,38 @@
+{
+  "applause_count": 4, 
+  "author": "Alberto Olivas", 
+  "comment_count": 3, 
+  "comments": [
+    {
+      "applaud": "1", 
+      "auhtor": "Rebecca Buechel", 
+      "date": "October 14, 2014, 22:40PM", 
+      "message": "\n    \tAlso, could have a UV light to disinfect hands (on the wall like  a public bathroom hand dryer) so healthcare workers could sterilize their gloves before taking off their gear.\n    "
+    }, 
+    {
+      "applaud": "1", 
+      "auhtor": "Jayant Menon", 
+      "date": "October 14, 2014, 22:22PM", 
+      "message": "\n    \tHow would you protect the patients being exposed to high-strength UV light?\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Alberto Olivas", 
+      "date": "October 14, 2014, 23:56PM", 
+      "message": "\n    \tI'm thinking it would have to always be an affirmatively activated feature as opposed to having an automatic setting as I initially described it. Partly to avoid accidental activation while the light is pointed at one's own face/eyes, or when nearby children, seated persons, etc. So the activator should prevent accidental activation by requiring more than just a push button, perhaps a twist-and-push button, or a double or triple tap to activate?\n    "
+    }
+  ], 
+  "description": "<div class=\"description\">\n            The device will need to be small and lightweight enough not to be obstructive to the work of healthcare professionals. It should have a rechargeable battery, perhaps recharged by the motion of the wearer as they walk, gesture, etc.\n        </div>", 
+  "id": "https://openideo.com/challenge/fighting-ebola/ideas/clip-on-uv-light-for-hand-sterilization", 
+  "media": [
+    {
+      "src": "//d3gyq8wptu1by3.cloudfront.net/media/4b16620f-f228-4902-904e-13460ff6406f.jpg", 
+      "type": "image"
+    }
+  ], 
+  "submitted": "October 14, 2014, 18:25PM", 
+  "summary": "Liquid and gel hand sanitizers are expensive and bulky to transport and have to be replenished. An inexhaustible alternative could be a small clip on UV device that can be attached to a sleeve or bracelet on the dominant hand that can destroy pathogens on or near the hand(s), especially during handshakes, or handling hazardous material. It can be activated by a bluetooth remote control button worn on the opposite hand or wrist, or set to automatically activate when the hand is raised, such as when shaking hands at a meeting or large function. This would also effectively make the hand a portable sterilization device for anything you are pointing at.", 
+  "tag": "/challenge/fighting-ebola/ideas#mission-strengthen-health-care-capacities2", 
+  "title": "Clip on UV light for hand sterilization", 
+  "view_count": 55
+}

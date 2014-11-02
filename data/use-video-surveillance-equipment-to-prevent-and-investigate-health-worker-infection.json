@@ -1,0 +1,50 @@
+{
+  "applause_count": 4, 
+  "author": "John", 
+  "comment_count": 5, 
+  "comments": [
+    {
+      "applaud": "0", 
+      "auhtor": "Chris Davies", 
+      "date": "October 13, 2014, 20:01PM", 
+      "message": "\n    \tRight, for example, we should have had 100% video recordings in Dallas at a minimum and we should be now able to look at the precise moment the Dallas Nurse got infected. Record is all now, at a minimum, and we can analyze it later.\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "OpenIDEO", 
+      "date": "October 13, 2014, 16:21PM", 
+      "message": "\n    \tHi John, interesting post! Any chance you could find an image to go along with it? Images help grab attention and tell a story with higher impact. You should be able to use the Update Entry button on the right of your post and follow the instructions to add images from there. We know occasionally people have issues uploading images so let us know by hitting the Feedback button at the bottom of most pages of our site if you face any problems. Looking forward to seeing more of your inspiring insights on OpenIDEO. And here's some tips on adding visual goodness to your idea: http://ideo.pn/vis-uals plus more on evolving your thought-starter: http://ideo.pn/oi-evolve\n"
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "William Rasmussen", 
+      "date": "October 13, 2014, 00:21AM", 
+      "message": "\n    \tI like the idea but having been in the situation-its so subtle that it would be hard to pick up on-the person watching would have to be focused on the process as the person doing the procedure-I can't see any one doing that for very long---about the best trick is to have like blue chalk on the hands that goes where people shouldnt put their hands-but thats not practicle. Most of the time its a problem that someone touches with a contaminated hand something  then retouches it without protection-like a bed frame-a wall switch-even the cloths they wear.We just need to improve the infection control methods to make it error proof as much as possible\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "John", 
+      "date": "October 13, 2014, 00:36AM", 
+      "message": "\n    \tYou would want a fresh and experienced person doing the monitoring.  Maybe multiple people.  If an infection still occurred, a very careful study of all the video might point out how.  The monitor, being in another room would not need to deal with the discomfort of suiting up, or the anxiety of being exposed.Having two health worker infections in the West, after treating a hand full of patients, studying how protocols are used in reality might prevent future infections when there are more active cases.\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "John", 
+      "date": "November 01, 2014, 15:27PM", 
+      "message": "\n    \tAndy Williams pointed out on a different idea that mirrors might be useful to the person suiting up or unsuiting.  In a cost constrained environment, a single recording camera and multiple full length mirrors might be used .  While the information of such mirrors might be overload in real time if not used correctly they might be invaluable in determining how an infection occurred after the fact.    Something like what is used in a clothing store might be appropriate.  At least mirrors at 45 degree angles to each side allowing the camera to have a clear view of the sides.\n    "
+    }
+  ], 
+  "description": "<div class=\"description\">\n            Video sureveilence Video Surveillance is a mature technology and widely used to protect life and property.\u00a0 It is used live where an operator observes live. Recordings are cpatured for review after an incidence occurs.\n<br/> This\u00a0 same video technology could be used to both prevent infection of a health worker attending to an Ebola patient, and to understand the cause of such an infection after the fact.\n<br/> Multiple recorded video links could be placed in each room where a health worker is at risk of contamination providing a head to toe view of the worker at all times.\u00a0 A \u201cspotter\u201d knowledgeable about infection prevention protocols could remotely and safely monitor the health worker using video in a remote location.\u00a0 The spotter woould have at least one joy stick controlled camera with zoom capability, in addition to fixed cameras assuring full coverage.\u00a0 An audio link would allow interactive communication between the spotter and worker, allowing the spotter to give warnings when a protocol violation was about to occur such as inproperly wearing safety equipment, or touching a contaminated glove to the facce.\u00a0\n<br/> When a health worker \u00a0infection occurred, there would be a video record of all the time when infection was possible which could be studied to determine the likely cause of the infection.\n<br/>\n<br/> Video showing actual violations or unsafe practices could be used in training material and to develop better equipment and protocols.\n<br/> Additionally, an audio video link could be maintained with the patient allowing communication to occur without entering the infected area.\n<br/> \u00a0\n        </div>", 
+  "id": "https://openideo.com/challenge/fighting-ebola/ideas/use-video-surveillance-equipment-to-prevent-and-investigate-health-worker-infection", 
+  "media": [
+    {
+      "src": "//d3gyq8wptu1by3.cloudfront.net/media/28bb8203-fc6d-4241-8e95-2e9a098a1f69.jpg", 
+      "type": "image"
+    }
+  ], 
+  "submitted": "October 12, 2014, 23:11PM", 
+  "summary": "Video surveillance is widely used to protect life and property.  It could be used to protect health worker live while working with infected patients, and to study interactions after the fact.  Due to its cost, this may be most practical in the West when new infections have thus far been to health workers treating those infected in Western Africa.With the addition of an audio link such as a cell phone with wireless head set, a \"spotter\" could monitor the worker using a video monitor and warn the worker when a risky behavior such as touching the face with a soiled glove was about to occur.When an infection did occur, the video could be carefully reviewed to determine the root cause.", 
+  "tag": "/challenge/fighting-ebola/ideas#mission-boost-exposure-tracking-and-communication-abilities1", 
+  "title": "Use Video Surveillance  Equipment to Prevent and Investigate Health Worker Infection", 
+  "view_count": 62
+}

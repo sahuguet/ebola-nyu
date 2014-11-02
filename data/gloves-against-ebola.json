@@ -1,0 +1,58 @@
+{
+  "applause_count": 4, 
+  "author": "Ariel Mart\u00edn P\u00e9rez", 
+  "comment_count": 5, 
+  "comments": [
+    {
+      "applaud": "1", 
+      "auhtor": "Craig Provost", 
+      "date": "October 22, 2014, 15:24PM", 
+      "message": "\n    \tCoolio concept, this is a detail but what do you think about making the rings bigger so it is easier for the health worker ( who may be extremely hot and tired) to hook the gloves onto the post for removal. It could be cool to also add a wide base or weights to the bottom of the bucket so when the user is pulling to remove the gloves there is a reduced risk of the bucket tipping over.\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Ariel Mart\u00edn P\u00e9rez", 
+      "date": "October 22, 2014, 19:07PM", 
+      "message": "\n    \tHello Mr Provost,Yes, I think there is a balance to be found in the size of the rings, so they're small enough not to get attached to every pointy surface, but big enough so exhausted doctors don't take too much time trying to hook them. This other project I've seen already adresses similar questions: http://makezine.com/2014/10/19/makers-against-ebola-zipper-extenders/ so maybe the diameter of the ring can be inferred from it. I'm going to try to make a prototype later this week so I can test taking off gloves with different people.As for the stability of the bucket, I was thinking that the hook should be attached to the structure of the tent or to the wall just above the discarded glove bucket, and not to the bucket itself. But I think that's an important point too.Thank you for your meaningful insight.\n    "
+    }, 
+    {
+      "applaud": "1", 
+      "auhtor": "Evelina Cohn Ph.D.", 
+      "date": "October 21, 2014, 20:56PM", 
+      "message": "\n    \tI like the idea.  However people should be very attentive when discard the bin full of gloves. Do you have a solution for that? Thanks\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Ariel Mart\u00edn P\u00e9rez", 
+      "date": "October 21, 2014, 21:20PM", 
+      "message": "\n    \tHello Ms Cohn,I did this drawings after seeing this report about how the Doctors Without Borders NGO is preparing to treat the epidemics: http://www.lemonde.fr/sante/visuel/2014/09/16/a-bruxelles-les-humanitaires-se-forment-au-combat-contre-ebola_4487941_1651302.htmlAs you can see at the end of the image gallery, gloves are collected into open plastic bins and then burnt in order to erase the virus (along with other disposable materials). Other medical equipment is cleaned with chlorinated water before being used again. Unfortunately, burning materials implies pollution, and more secure ways of discarding contaminated items are still to be found. This question is not issued by this particular project, but it could be an interesting track to explore.Thank you for your insight.\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Ariel Mart\u00edn P\u00e9rez", 
+      "date": "October 30, 2014, 09:58AM", 
+      "message": "\n    \tUPDATE : I've also posted a new idea about how to treat contaminated medical materials once they are in the bin, by using locally-sourced plants. it still needs lots of research but that's a start : https://openideo.com/challenge/fighting-ebola/ideas/fighting-ebola-with-natural-chlorine-sources\n"
+    }
+  ], 
+  "description": "<div class=\"description\">\n<strong>How to take off gloves without producing additional biological contamination? </strong>This glove design pursues to take off gloves without using your hands.\n<br/>\n<br/> Gloves are renforced around the border and they have a small ring (1). By hooking the ring on a hook (2) and pulling the glove sideways, it can be taken off without using the other hand. Afterwards, a small touch is enough for it to fall from the hook and into a biological waste bin. There are hooks pointing both ways so one glove can be taken before the other. A security seal on the rings could be implemented so they don't get hooked on other elements of the hospital.\n<br/>\n<br/>\n<strong>Update 31/10/2014: </strong>\n<br/>\n<br/> I've tried making two prototypes, one with washing gloves, tape and elastic string (pictured) and another one with disposable medical gloves and sewn elastic string (not pictured). By now, the problem seems to be that they're too tight to be taken off without using the hands (the disposable glove teared off when I tried to pull it off only by pulling the elastic string). Larger gloves may be needed, or either I still haven't found the right brand and model.\n        </div>", 
+  "id": "https://openideo.com/challenge/fighting-ebola/ideas/gloves-against-ebola", 
+  "media": [
+    {
+      "src": "//d3gyq8wptu1by3.cloudfront.net/media/79bc1fe4-15e2-44d9-befd-3c97745ff804.jpg", 
+      "type": "image"
+    }, 
+    {
+      "src": "//d3gyq8wptu1by3.cloudfront.net/media/66bd6c0a-922f-4049-bfae-cd66d102b2ba.jpg", 
+      "type": "image"
+    }, 
+    {
+      "src": "//d3gyq8wptu1by3.cloudfront.net/media/c5ad0de3-720e-461e-98d8-62044a7c5331.jpg", 
+      "type": "image"
+    }
+  ], 
+  "submitted": "October 21, 2014, 16:01PM", 
+  "summary": "How to take off gloves without producing additional biological contamination ? This glove design allows to take off gloves without touching them.", 
+  "tag": "/challenge/fighting-ebola/ideas#mission-strengthen-health-care-capacities2", 
+  "title": "Gloves against Ebola", 
+  "view_count": 95
+}

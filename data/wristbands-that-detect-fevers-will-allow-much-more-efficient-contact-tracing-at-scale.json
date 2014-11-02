@@ -1,0 +1,57 @@
+{
+  "applause_count": 20, 
+  "author": "Javed Qadrud-Din", 
+  "comment_count": 7, 
+  "comments": [
+    {
+      "applaud": "0", 
+      "auhtor": "Steven Dettwiler", 
+      "date": "October 31, 2014, 04:40AM", 
+      "message": "\n    \tFor individuals in quarantine or those who fear they may have been incidentally exposed this would be an invaluable monitoring option.   Temperature as measured at the wrist would be somewhat unreliable, but perhaps a similar concept could be applied as an in-ear temperature monitoring device?  That would allow for accurate temperature measurement while also being relatively unobtrusive.  -Could be modeled after a Bluetooth headset/earbud.   In fact using Bluetooth 4.0 low energy would provide an effective way of offloading temperature data while optimizing battery life.\n    "
+    }, 
+    {
+      "applaud": "1", 
+      "auhtor": "Janene Michaelis", 
+      "date": "October 31, 2014, 02:16AM", 
+      "message": "\n    \tThis is a great idea!  I am not sure how accurately temperature can be taken at the wrist.  This concept could also be used in the US for monitoring travelers from West Africa.  There would no longer be any need for unnecessary quarantine.  People would be free to go about their business if they agree to wear the monitor.  Only when they reach critical temperature and the alarm goes off would they need to contact or be contacted by local healthcare and taken under quarantine and special care.\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Sara Zozaya", 
+      "date": "October 29, 2014, 15:47PM", 
+      "message": "\n    \tBetween some  ideas that people have came up with for dealing with the problem I must say that this is one of the most originals. From one side, I consider early detection to be the most important thing in terms of fighting the disease so this wristbands would be a perfect solution for that as there would be an immediate reaction in the health care system. Anyways, I don't find it that  easy to create such a perfect product as you propose  as there are many factors that could be quite difficult to get as the mentioned long duration battery.\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Mike Haun", 
+      "date": "October 22, 2014, 19:38PM", 
+      "message": "\n    \tI'm glad that someone else came up with this idea. I would expand on the idea by not being concerned about the wristband's appearance.  I would design it so that it could not be removed or if it was removed, the authorities would be alerted. I would further design it to send continuous (hourly) temperature information to medical staff. This would eliminate the need for twice daily temperature monitoring in person of potentiall exposed people. These wristbands could also be required for all persons arriving from Ebola endemic areas.  After 21 days they could be removed. I do not know if the wrist is an acceptable location to monitor temperature, but someone may know or could research this.\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Lisa Johnson", 
+      "date": "October 21, 2014, 06:26AM", 
+      "message": "\n    \tI think this is wonderful. The bracelets could be sponsored by (and bear the names/logos/images) of superstars in the various countries, like Diamond in Nigeria, so that they would be cool. :) Perhaps the stars would then donate and that would defray some, if not all of, the cost. :) Good thinking here!\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "OpenIDEO", 
+      "date": "October 20, 2014, 17:48PM", 
+      "message": "\n    \tHi Javed, interesting post! Any chance you could find an image to go along with it? Images help grab attention and tell a story with higher impact. You should be able to use the Update Entry button on the right of your post and follow the instructions to add images from there. We know occasionally people have issues uploading images so let us know by hitting the Feedback button at the bottom of most pages of our site if you face any problems. Looking forward to seeing more of your inspiring insights on OpenIDEO. And here's some tips on adding visual goodness to your idea: http://ideo.pn/vis-uals plus more on evolving your thought-starter: http://ideo.pn/oi-evolve\n"
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Howard Boyle", 
+      "date": "October 18, 2014, 07:25AM", 
+      "message": "\n    \tAn idea would be that the wristband has a flashing LED so that I can know that the person next to me has a fever.\n    "
+    }
+  ], 
+  "description": "<div class=\"description\">\n            To try to stop the disease, health authorities need to do contact tracing and monitoring, which, at 9000 cases, assuming 20 contacts per case, is already 180,000 contacts. I'm pretty sure health authorities in West Africa have no way to monitor that many people already, and if we hit 10k cases per week (as WHO says we may), any manually-run contact tracing system will be entirely overwhelmed.\n<br/>\n<br/> What if you could give wristbands to everyone who was potentially exposed that could monitor their body temperatures? If a fever is detected, the wristband will start broadcasting its GPS signal, and health officials can pick that person up the same day they start showing a fever. If everyone who was exposed is picked up the same day they start showing a fever, the transmission rate will be greatly reduced because fever is one of the first symptoms, occurring before the patient starts shedding the virus in large quantities. It also gives the greatest chance of a cure because the patient will start receiving care early. Health officials can't possibly follow up this many contacts, but machines can keep track of those numbers and send alerts when needed.\n<br/>\n<br/> The wristbands would need the following features: 1. Able to reliably determine if wearer has a fever 2. Cheap 3. Robust - waterproof and resistant to being dropped, etc. 4. Not need a battery change for 6 months-1 year of operation 5. Comfortable to wear 6. Also be a watch or something useful so that people will actually wear it.\n<br/>\n<br/> I'd be happy to help out in building devices like this on the software end, but I have little idea of how to put together hardware. I'm putting this idea out there in hopes that someone who does can pick it up. This project would be necessarily short-term since, hopefully, there won't be a need for it in a few months because they will have gotten the outbreak under control.\n<br/>\n<br/> A few things that need to be considered: 1. Is this actually needed? Seems useful to me, but perhaps contact tracing has already been abandoned since they don't have enough beds to treat everyone who comes to the hospitals anyway. 2. Can this be produced in large enough quantities fast enough to matter? 3. Can fever reliably be determined by a thermometer on the wrist? 4. Funding? 5. It's creepy to be tracked like this so maybe people would refuse to wear the wristbands.\n<br/>\n<br/> For 1 and 2 above, if someone who knows can comment, that'd be amazing. For 3, maybe a technique can be employed where the device spends its first day getting a baseline set of readings and then will detect a change from baseline rather than measuring temperature directly, or the band could go around the upper thigh rather than the wrist--that would also address the issue of whether people would want to be seen wearing something like this, since it may advertise that they could be infected. For 4, Kickstarter or large charities can probably provide the money. For 5, if anyone has a sense of whether people in West Africa would be willing to wear something like this, please comment.\n<br/> \u00a0\n        </div>", 
+  "id": "https://openideo.com/challenge/fighting-ebola/ideas/wristbands-that-detect-fevers-will-allow-much-more-efficient-contact-tracing-at-scale", 
+  "media": [], 
+  "submitted": "October 17, 2014, 02:08AM", 
+  "summary": "Give a wristband to anyone who might have been exposed to ebola.  The wristband monitors the person's body temperature and, if the person develops a fever, the wristband starts broadcasting its GPS coordinates.  Health authorities will be able to pick up the signal and send an ambulance directly to the person's location.  This will stop that person from spreading the disease, since they'll be picked up just before or shortly after they become contagious and will also allow treatment to begin early, giving them the best possible chance for survival.", 
+  "tag": "/challenge/fighting-ebola/ideas#mission-boost-exposure-tracking-and-communication-abilities1", 
+  "title": "Wristbands that detect fevers will allow much more efficient contact-tracing at scale.", 
+  "view_count": 111
+}

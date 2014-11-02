@@ -1,0 +1,35 @@
+{
+  "applause_count": 2, 
+  "author": "Sophie L.", 
+  "comment_count": 0, 
+  "comments": [], 
+  "description": "<div class=\"description\">\n            Criteria when selecting biosensor species: \n<ul>\n<li>must be locally common and unable to act as disease vector (in case of accidental releases)</li>\n<li>response behaviour must be unambiguous, specific to Ebola</li>\n<li>robust \u2013 animals must be able to cope with stressful conditions in biosensor device (heat, crowding, confinement, vibration, light and temperature fluctuations, etc.), without accuracy losses in screening</li>\n<li>long-lived and resilient \u2013 to allow repeated use and minimise need for conditioning (lifespan of worker bees ~ up to 1 month)</li>\n<li>receptive to human body odours</li>\n<li>easy to obtain many (genetically similar) specimens locally, to save time and money for setting up test populations</li>\n<li>known and \"endorsed\" by local healers <strong>--&gt; make links to traditional (medical) folklore about the species, to create confidence in and increase acceptance of screening results</strong></li>\n</ul>\n<br/> Honey bees fulfil most of these criteria and handheld devices - with bees inside them as sensors - have already been developed for detecting drugs and hazardous chemicals, e.g. by a UK-based company: \n<ul>\n<li>http://news.bbc.co.uk/2/hi/technology/6972526.stm#bees</li>\n<li>http://www.thenakedscientists.com/HTML/articles/article/humble-honey-bee-in-national-security/</li>\n</ul> \u00a0\n<br/> The simple conditioning method: Bees are repeatedly exposed to the target smell. At each exposure, they are rewarded with sugar. When confronted with the smell again later in the test device, they stick out their tongues in expectation of the reward.\n<br/> \u00a0\n<br/> It has also been demonstrated already that bees can be trained in the same way to detect human infectious diseases. Bodily fluids of patients infected with Ebola will have a characteristic smell. When there is a suspected case, swabs or saliva samples should be collected hygienically in disposable small containers for sampling. Breath sampling (see http://www.oddly-even.com/2013/11/21/bees-can-detect-cancer-in-minutes-_/) would however be more difficult to carry out safely, and is thus not recommendable.\n<br/>\n<br/> Descriptions of the concept: \n<ul>\n<li>http://en.wikipedia.org/wiki/Biosensor#Examples_and_applications</li>\n<li>http://en.wikipedia.org/wiki/Hymenoptera_training \u00a0\"[\u2026] <em>Bees have been shown to detect and respond to more than 60 different odours including methamphetamine, uranium, and tuberculosis. They have been used to detect lung and skin cancers, diabetes, and to confirm pregnancy</em> [\u2026]\"</li>\n<li>http://www.thenakedscientists.com/HTML/articles/article/humble-honey-bee-in-national-security/</li>\n</ul>\n<br/> All images obtained from Creative Commons. Image locations:\n<br/> 1) http://fastestlabs.com/php-oak/themes/global/documents/images/drug-test-mouth-swab.jpg\n<br/> 2 &amp; 4) http://www.thefloridastandard.com/2013/01/29/whats-that-buzzing-noise/\n<br/> 3) http://www.nhm.ac.uk/natureplus/blogs/diptera-blog/tags/inscentinel?fromGateway=true\n<br/> 5) http://en.wikipedia.org/wiki/Traditional_African_medicine\n<br/>\n<br/> \u00a0\n        </div>", 
+  "id": "https://openideo.com/challenge/fighting-ebola/ideas/cheap-biosensors-for-rapid-in-situ-screening-and-detection-sniffing-out-ebola-infections", 
+  "media": [
+    {
+      "src": "//d3gyq8wptu1by3.cloudfront.net/media/6b7c36c2-f999-42c3-a50f-2829c437bf32.jpg", 
+      "type": "image"
+    }, 
+    {
+      "src": "//d3gyq8wptu1by3.cloudfront.net/media/be3e3df3-1dba-4bb7-9198-75814674d954.jpg", 
+      "type": "image"
+    }, 
+    {
+      "src": "//d3gyq8wptu1by3.cloudfront.net/media/076e8fa6-969d-472a-ac7e-8dfbbf905309.jpg", 
+      "type": "image"
+    }, 
+    {
+      "src": "//d3gyq8wptu1by3.cloudfront.net/media/8c6e2d8a-fedd-4b52-82a5-bf61ea2c0b23.jpg", 
+      "type": "image"
+    }, 
+    {
+      "src": "//d3gyq8wptu1by3.cloudfront.net/media/dca2f7b9-7ab1-46ec-b26a-9e19cffb7819.jpg", 
+      "type": "image"
+    }
+  ], 
+  "submitted": "October 18, 2014, 22:37PM", 
+  "summary": "Infections affect our cell metabolism and thus change our smell (breath, skin, body products). Animal with a sufficient sense of smell & capacity to learn can be trained to respond to specific odours caused by an Ebola infection. Bees, e.g., are capable of detecting  infectious diseases in humans; bee-based biosensors  already exist, i.e. could be quickly adapted for this.Other kewords: sentinels; rapid in-situ testing, early detection; olfactometer, volatile organic compounds (VOCs)Purpose: - complement body temperature screening- help target, prioritise & speed up resource allocation to isolation & lab testing of most likely new Ebola cases- communicate the need to rapidly isolate infected patients, involving local healers", 
+  "tag": "/challenge/fighting-ebola/ideas#mission-surprise-us8", 
+  "title": "\u201cSMELL-TALE\u201d: sniffer insects for rapid Ebola screening = low-tech solution with a folklore advantage?", 
+  "view_count": 113
+}

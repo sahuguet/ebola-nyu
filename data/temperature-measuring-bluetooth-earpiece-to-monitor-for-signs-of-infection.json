@@ -1,0 +1,27 @@
+{
+  "applause_count": 3, 
+  "author": "Steven Dettwiler", 
+  "comment_count": 2, 
+  "comments": [
+    {
+      "applaud": "0", 
+      "auhtor": "Janene Michaelis", 
+      "date": "November 01, 2014, 00:38AM", 
+      "message": "\n    \tAn intriguing solution!  I like the discretion of an earpiece and its potential to safely reduce stigma.\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Rebecca Buechel", 
+      "date": "October 31, 2014, 19:04PM", 
+      "message": "\n    \tYeah! Great tweak on the numerous thermometer ideas on the platform. I imagine it would obviously also light up, or make a sound for the wearer to learn of his/her fever to then do a 15-minute home test for the disease ? As announced on French TV: https://openideo.com/challenge/fighting-ebola/research/quick-easy-test-for-ebola-found\n"
+    }
+  ], 
+  "description": "<div class=\"description\">\n            A special Bluetooth earpiece could be used to monitor temperature of individuals who are believed to be at risk of infection. When a rise in temperature is detected it could alert the individual and/or medical personnel that further action and/or quarantine may be advisable.\n<br/>\n<br/> Since one of the early signs of infection is a rise in body temperature health care workers have been diligently trying to monitor the temperature of anyone at risk to aid in early detection of infection.\n<br/>\n<br/> One possible way to reliably gather temperature would be to create a specialized Bluetooth 4.0 LE earpiece that could record temperature and wirelessly relay that data to a base station or a smartphone.\u00a0\u00a0 Using in-ear temperature sensing allows for relatively accurate measurement of temperature . . . much better than available surface measurements of skin temperature.\u00a0\u00a0 Additionally it could be relatively discrete, removing some of the stigma that might be associated with being flagged as 'at risk' &amp; thus worthy of monitoring.\u00a0\u00a0\n<br/>\n<br/> In-ear thermometers used to be a relatively specialized tool only seen in hospitals or doctor's offices, but recently they've been available relatively inexpensively for home use . . . this simply extends that concept to a miniaturized version that can actually be worn in the same way that a Bluetooth earpiece/headset would be worn.\u00a0\u00a0 This would allow for nearly continuous monitoring of temperatures throughout the day and/or night.\n<br/> \u00a0\n<br/> Could see this being useful as both a monitoring technology for at-risk populations and as a tool for returning medical personnel who otherwise might have to adhere to a more strict quarantine procedure.\u00a0 In either case it would allow for early detection and thus reduced risk of spread of infection and improved chance of survival.\n<br/>\n<br/> If paired with a smartphone you could also choose to geo-locate the individual as soon as a fever is detected and use that information to identify closest treatment locations, as well as record a trail of where &amp; when the infected person may have been a risk to others, thus allowing quick containment &amp; testing of anyone who may have been in the area &amp; had a small risk of exposure.\n        </div>", 
+  "id": "https://openideo.com/challenge/fighting-ebola/ideas/temperature-measuring-bluetooth-earpiece-to-monitor-for-signs-of-infection", 
+  "media": [], 
+  "submitted": "October 31, 2014, 05:09AM", 
+  "summary": "A special Bluetooth earpiece could be used to monitor temperature of individuals who are believed to be at risk of infection.  When a rise in temperature is detected it could alert the individual and/or medical personnel that further action and/or quarantine may be advisable.", 
+  "tag": "/challenge/fighting-ebola/ideas#mission-boost-exposure-tracking-and-communication-abilities1", 
+  "title": "Temperature measuring Bluetooth earpiece to monitor for signs of infection.", 
+  "view_count": 26
+}

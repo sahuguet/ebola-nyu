@@ -1,0 +1,44 @@
+{
+  "applause_count": 4, 
+  "author": "Jay Buckalew", 
+  "comment_count": 4, 
+  "comments": [
+    {
+      "applaud": "0", 
+      "auhtor": "OpenIDEO", 
+      "date": "October 31, 2014, 20:07PM", 
+      "message": "\n    \tHi Jay, thanks for joining the conversation with your great ideas. We're really impressed with your fresh thinking and collaboration. This idea looks like it's ready to be considered for USAID's Grand Challenge. You can download the submission guidelines and submit your proposal at http://www.ebolagrandchallenge.net/. OpenIDEO does not officially endorse ideas, but we're excited to see you push your idea forward and look forward to seeing your story in the impact phase.\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Rik Ganju", 
+      "date": "October 24, 2014, 04:40AM", 
+      "message": "\n    \tGreat post.  Would you mind posting the research pointing to the carotid artery as the most reliable location for measuring skin surface temperature. Thanks, I'm curious.   And wouldn't the rectal be core body temp and not skin temp.  What is the known offset between the two, or isn't there one?\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Jay Buckalew", 
+      "date": "Edited on October 24, 2014, 11:26AM", 
+      "message": "\n    \tYou are correct Rik, This is skin temperature and not core...And we all know rectal is the gold standard for measuring. What we did is built a AR around 250k data points reading core (rectal) against skin in the temporal artery region. The technology is much the same as the temporal scanners used by millions today. The obvious difference is IR verses thermistor. IR has its limitations as well as the readings will differ if sweat is present. As you know if you take temperature three times you will get a small variations every time.  Our device simply tracks and alerts on spikes.\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Jay Buckalew", 
+      "date": "October 23, 2014, 14:53PM", 
+      "message": "\n    \tApologies for spelling.... Getting the turn it off now look on the plane #inahurry\n    "
+    }
+  ], 
+  "description": "<div class=\"description\">\n            This solution is available now it is less than $50.00 USD\n        </div>", 
+  "id": "https://openideo.com/challenge/fighting-ebola/ideas/reusable-heat-stress-sensor-this-size-of-a-quarter", 
+  "media": [
+    {
+      "src": "//d3gyq8wptu1by3.cloudfront.net/media/1f48f753-6651-43f7-a022-49597d10114e.jpg", 
+      "type": "image"
+    }
+  ], 
+  "submitted": "October 23, 2014, 14:49PM", 
+  "summary": "The SafeTemp Sensor detects a spike in ISST.. Isolated skin surface temperature  from the temporal arteries, If the sensor detects a rise in the preset threshold a 60dB alert sounds and RED LED begins to flash. The sensor is mounted to the skin via a medical grade 3M adhesive  disc that is easily removed after each use. The sensor is hermetically sealed and can be submeresed in the 5% decontamination fluid and reused with a battery life of one year, and never needs recharging. It could be used by both caregivers in the extremely hot Hazmat suits to warn of potential heat stroke and high risk caregivers in the 21 day self monitor period.", 
+  "tag": "/challenge/fighting-ebola/ideas#mission-strengthen-health-care-capacities2", 
+  "title": "Reusable heat stress sensor the size of a quarter www.coolshirt.com", 
+  "view_count": 104
+}

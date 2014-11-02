@@ -1,0 +1,50 @@
+{
+  "applause_count": 18, 
+  "author": "Shashwath Murthy", 
+  "comment_count": 5, 
+  "comments": [
+    {
+      "applaud": "1", 
+      "auhtor": "Evelina Cohn Ph.D.", 
+      "date": "October 24, 2014, 12:01PM", 
+      "message": "\n    \tAre you talking of embedded antibodies that recognize the specific glycoproteins? This would work. Or do you think of something else?\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Shashwath Murthy", 
+      "date": "Edited on October 24, 2014, 22:07PM", 
+      "message": "\n    \tYes, the QD's would be bio-conjugated with an antibody. KZ52, Fab(CL) , and Fab(UNCL) can be used to bind the QD's to the unique proteolytic forms of the envelope's glycoproteins. (http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3684266/)\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Evelina Cohn Ph.D.", 
+      "date": "October 31, 2014, 22:31PM", 
+      "message": "\n    \tThank you for your response. Is the procedure expensive ?  How long will be ? Similar time with  ELISA ? I guess so. Anyway this is a nice detection procedure !\n    "
+    }, 
+    {
+      "applaud": "1", 
+      "auhtor": "Lisa Johnson", 
+      "date": "October 21, 2014, 06:45AM", 
+      "message": "\n    \tWould the fact that UV light kills Ebola have any negative impact  on the results? I'm not a scientist, so if that's a dumb question I apologize in advance. :)I like this idea.\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Shashwath Murthy", 
+      "date": "Edited on October 24, 2014, 15:42PM", 
+      "message": "\n    \tYour question is perfectly legitimate . Even if the UV light kills the viral particles, the test only looks for the proteins that are released by the virus when its inside of a host cell. So even if the virus dies, the proteins which they left behind can be tagged with the QD's.\n    "
+    }
+  ], 
+  "description": "<div class=\"description\">\n            Quantum dots (QD) are small semiconductors that have florescent properties. Several bio-imaging applications for QD currently exist, for instance, QD's have been used to detect the progression of the Respiratory Syncytial Virus (RSV). QD synthesis and protien-conjugation is\u00a0inexpensive and simple.QD's would be covered in a polymer shell with embedded protiens which will target and bind to the glycoproteins that are secreted by cells infected with the virus. Testing would be short and involve the collection a small blood sample that would be exposed it to the QD solution. If the sample retains QD's, it will glow when exposed to UV/IR light,\u00a0 and indicate the presence of an Ebola infection. With enough support and resources, we can deploy testing kits at a fairly low cost and provide a more reliable test (as opposed to testing for a fever).\n        </div>", 
+  "id": "https://openideo.com/challenge/fighting-ebola/ideas/using-quantum-dots-for-rapid-detection-of-ebola-infections", 
+  "media": [
+    {
+      "src": "//d3gyq8wptu1by3.cloudfront.net/media/561c52d4-116f-4a1f-91d8-c8f3803cc7e2.jpg", 
+      "type": "image"
+    }
+  ], 
+  "submitted": "October 16, 2014, 20:56PM", 
+  "summary": "Quantum dots (QD) are small semiconductors that have florescent properties. The QD's are covered in a polymer shell with protein embedded proteins which will target specific glycoproteins. Protien-Conjugated QD's can be used for rapid Ebola detection.", 
+  "tag": "/challenge/fighting-ebola/ideas#mission-strengthen-health-care-capacities2", 
+  "title": "Using Quantum Dots for Rapid Detection of Ebola Infections", 
+  "view_count": 372
+}

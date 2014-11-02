@@ -1,0 +1,32 @@
+{
+  "applause_count": 3, 
+  "author": "Betty", 
+  "comment_count": 2, 
+  "comments": [
+    {
+      "applaud": "0", 
+      "auhtor": "OpenIDEO", 
+      "date": "October 09, 2014, 17:06PM", 
+      "message": "\n    \tHi Betty, have you got an image you could attach to your post to give the community a better idea of what kind of a space you were envisioning? If you need inspiration on visual content, check out our getting visual guide here - http://ideo.pn/vis-uals.\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Michelle L'Archeveque", 
+      "date": "October 08, 2014, 14:48PM", 
+      "message": "\n    \tYou raised some very interesting questions. I hope others will help to provide some additional context! Another thing to keep in mind is that in more remote areas, these \"community\" centers serve people from sometimes up to several kilometers away - I wonder if people would be willing to travel these distances (it can be hard to encourage this for preventative care).\n    "
+    }
+  ], 
+  "description": "<div class=\"description\">\n            Community centers can help strengthen community bonds and not make anyone feel afraid about asking for or getting necessary care. Centers should be be open in design (separate from health care centers), feel inviting and familiar, and be organic in architectural design within the community.\n<br/> Questions:\n<br/> 1. Are there already areas of assembly that offer such education within the community? Or can education be added to such centers?\n<br/> 2. Should such centers be near schools and/or health care centers?\n<br/> 3. Will such education centers be welcomed by members of the community, or will it instill more fear or reluctance to seek care? How can the education center's design be more organic to the community in a way that will encourage discussion, collaboration, and further education on Ebola and other health care issues?\n<br/> \u00a0\n        </div>", 
+  "id": "https://openideo.com/challenge/fighting-ebola/ideas/community-education-centers", 
+  "media": [
+    {
+      "src": "//d3gyq8wptu1by3.cloudfront.net/media/8d79ccde-2cd8-4cd9-9ac3-4c1c855dcca3.jpg", 
+      "type": "image"
+    }
+  ], 
+  "submitted": "October 08, 2014, 12:53PM", 
+  "summary": "Build community centers that provide education about Ebola and offer information on what to do, where to go for care, etc.", 
+  "tag": "/challenge/fighting-ebola/ideas#mission-promote-care-seeking2", 
+  "title": "Community Education Centers", 
+  "view_count": 77
+}

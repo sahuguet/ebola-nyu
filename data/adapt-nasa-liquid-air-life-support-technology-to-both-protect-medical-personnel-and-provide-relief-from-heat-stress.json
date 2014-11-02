@@ -1,0 +1,54 @@
+{
+  "applause_count": 5, 
+  "author": "David Bush", 
+  "comment_count": 3, 
+  "comments": [
+    {
+      "applaud": "0", 
+      "auhtor": "jlocke8 .", 
+      "date": "October 10, 2014, 05:43AM", 
+      "message": "\n    \tI really like this idea because it actually works and is proven.  Is the liquid easy to transport; does it need to be kept cryogenicaly frozen?  What would be a rough price for a system?\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "David Bush", 
+      "date": "October 14, 2014, 14:58PM", 
+      "message": "\n    \t1. Liquid air can be transported from either US or Europe in large Dewars.2. There are plants in West Africa that make liquid Nitrogen and Liquid Oxygen.  It could be sourced locally and mixed.3. We have a portable storage and manufacturing station design that we hope to prototype and test soon.  Plug this unit in and it will make Liquid air from ambient air.The price of the system depends on how you implement.  Hoseline would be the cheapest, SCBA type pack would be more expensive.  It is certainly more expensive and complex than the current solution, but it allows workers to work longer and provides better protection --> happy workers--> more workers.Also, the system would be reusable.  The idea would be to use as much off the shelf products.  There are encapsulated Level B suits that would work for $200, then add either the hoseline system or the Liquid Air SCBA packs.\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "OpenIDEO", 
+      "date": "October 08, 2014, 01:25AM", 
+      "message": "\n    \tHi David, interesting post! Any chance you could find an image to go along with it? Images help grab attention and tell a story with higher impact. You should be able to use the Update Entry button on the right of your post and follow the instructions to add images from there. We know occasionally people have issues uploading images so let us know by hitting the Feedback button at the bottom of most pages of our site if you face any problems. Looking forward to seeing more of your inspiring insights on OpenIDEO. And here's some tips on adding visual goodness to  your idea: http://ideo.pn/vis-uals plus more on evolving your thought-starter: http://ideo.pn/oi-evolve\n"
+    }
+  ], 
+  "description": "<div class=\"description\">\n<strong>History</strong>\n<br/> NASA has used cryogenic liquid air for many years to support ground operations. \u00a0Primarily in either crew rescue or in hazmat roles. \u00a0The technology provides both air and cooling to the user. \u00a0The technology has been proven operationally for many years. \u00a0It has several \"form factors\": \u00a0SCBA like demand based mask/pack without suit, protective suit fed via hoseline, or protective suit with 2 hr recirculating air pack for autonomy. \u00a0While very safe and reliable, the technology has not gone commercial for a variety of reasons. \u00a0In 2011 we were approached by NIOSH to develop new cryogenic life support technologies based on the existing sytems to provide emergency egress and rescue life support systems for mines. \u00a0Under this cooperative program we have adressed many of the technical issues with the older generation of cryogenic life support equipment and made prototypes to demonstrate the concepts. \u00a0We feel that the technology level is nearly ready for commercialization. \u00a0It would be ideal for this type of situation.\n<br/>\n<br/>\n<strong>Propsals</strong>\n<br/> We have three leading concepts that we feel could be beneficial in combating the Ebola outbreak:\n<br/> 1. Use current 2 hr recirculating packs (ECU) in off the shelf Level A suits. \u00a0These packs provide cooling and autonomous operation. \u00a0We have some ECUs available now, and we have a working relationship with the manufacturer. \u00a0They could begin manufacturing these again.\n<br/> 2. Use hoseline fed Level A suits in appropriate situations. \u00a0These suits can either be fed with compressed gas (traditional but hot) or liquid air (provides cooling for hot environments). \u00a0This has the advantage of indefinite operations and cooling.\n<br/> 3. Use a 1 hr demand based (mask) pack with either a Level A suit or a encapsulated Level B suit. \u00a0The system provides cool air to the face of the user and when the pack is encapsulated under the suit, it takes the heat it needs to vaporize the air from the users environment, thus providing cooling to the body. \u00a0The 1 hr pack is light enough that it shouldn't encumber the user, and it has a Quick Disconnect (QD) on the side that allows it to be refilled quickly while the user is still breathing on it. \u00a0In this concept the user would be untethered, cooled, and could operate indefinitly with periodic refills. \u00a0A partnership with a suit manufacturer would have to be developed to customize the fill port penetration, but it is certainly feasible.\n<br/>\n<br/> \u00a0\n        </div>", 
+  "id": "https://openideo.com/challenge/fighting-ebola/ideas/adapt-nasa-liquid-air-life-support-technology-to-both-protect-medical-personnel-and-provide-relief-from-heat-stress", 
+  "media": [
+    {
+      "src": "//d3gyq8wptu1by3.cloudfront.net/media/281b52e6-109f-455a-8fa2-1cdd14d6e9c0.png", 
+      "type": "image"
+    }, 
+    {
+      "src": "//d3gyq8wptu1by3.cloudfront.net/media/7ef9b7cc-86d4-447d-bf2e-382cb71b4c83.png", 
+      "type": "image"
+    }, 
+    {
+      "src": "//d3gyq8wptu1by3.cloudfront.net/media/f88e43ce-14e4-498b-af1b-0aa816c9e307.JPG", 
+      "type": "image"
+    }, 
+    {
+      "src": "//d3gyq8wptu1by3.cloudfront.net/media/39ef7c57-0186-404d-8801-b98767e0ab0d.JPG", 
+      "type": "image"
+    }, 
+    {
+      "src": "//d3gyq8wptu1by3.cloudfront.net/media/c64ef639-ccaa-4bb2-8ccb-85fabf4257c0.jpg", 
+      "type": "image"
+    }
+  ], 
+  "submitted": "October 08, 2014, 00:42AM", 
+  "summary": "NASA has used liquid air based life support equipment to support the space program for many years.  We deal with hot (think Florida in summer) dangerous (think highly toxic fuels) environments on a regular basis.  Vaporization of liquid air, to provide breathing air,  requires heat.  The heat can be taken from the worker to provide effective cooling.  The technology can be used in a variety of different ways depending on the specific need.  Some aspects of this technology could be made available on a limited scale almost immediately (gear leftover from Space Shuttle program).", 
+  "tag": "/challenge/fighting-ebola/ideas#mission-strengthen-health-care-capacities2", 
+  "title": "Adapt NASA liquid air life support technology to both protect medical personnel and provide relief from heat stress.", 
+  "view_count": 125
+}

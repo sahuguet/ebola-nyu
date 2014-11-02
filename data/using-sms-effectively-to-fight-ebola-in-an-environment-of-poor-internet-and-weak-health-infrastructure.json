@@ -1,0 +1,19 @@
+{
+  "applause_count": 1, 
+  "author": "Zakir Hussain", 
+  "comment_count": 0, 
+  "comments": [], 
+  "description": "<div class=\"description\">\n            Please see description of how the technology would work in helping control ebola.\n        </div>", 
+  "id": "https://openideo.com/challenge/fighting-ebola/ideas/using-sms-effectively-to-fight-ebola-in-an-environment-of-poor-internet-and-weak-health-infrastructure", 
+  "media": [
+    {
+      "src": "https://www.youtube.com/embed/BA-I8S2h3OY?wmode=opaque", 
+      "type": "video"
+    }
+  ], 
+  "submitted": "October 24, 2014, 12:33PM", 
+  "summary": "This is a software program which helps doctors immediately communicate with patients in a secure mode in an environment where everyone has mobile phones.  It enables 2 way communications between patients and doctors and doctors to doctors while providing real time information on any outbreaks to administrators so immediate decisions can be taken on resource allotment.  Tracking and communications is enabled in real time leveraging the social habits of mobile societies.", 
+  "tag": "/challenge/fighting-ebola/ideas#mission-boost-exposure-tracking-and-communication-abilities1", 
+  "title": "Using SMS effectively to fight Ebola in an environment of poor internet, and weak health infrastructure", 
+  "view_count": 39
+}

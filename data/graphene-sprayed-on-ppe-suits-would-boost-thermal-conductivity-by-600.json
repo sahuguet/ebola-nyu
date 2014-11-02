@@ -1,0 +1,26 @@
+{
+  "applause_count": 3, 
+  "author": "Anthony Davis", 
+  "comment_count": 1, 
+  "comments": [
+    {
+      "applaud": "1", 
+      "auhtor": "Rik Ganju", 
+      "date": "October 30, 2014, 19:56PM", 
+      "message": "\n    \tVery cool.  https://openideo.com/challenge/fighting-ebola/research/this-is-really-simple-i-own-a-120-000-research-grade-thermal-imaging-camera\n"
+    }
+  ], 
+  "description": "<div class=\"description\">\n<br/>\n<br/> It may also be sprayed on existing plastic PPE suits to boost thermal conductivity of the common plastic polyethylene terephthalate (PET) by up to 600 times.\n<br/>\n<br/> Even if the graphene PPE gear did heat up eventually it could be dispersed with liquid coolant (water,bleach,etc)\n<br/>\n<br/> Can now be mass produced -http://www.thejournal.ie/graphene-irish-researchers-major-breakdown-mass-production-1424843-Apr2014/\n<br/>\n<br/> Properties -http://gizmodo.com/graphene-could-absorb-an-unlimited-amount-of-heat-1575583993\n<br/>\n<br/> Graphene boosts plastic thermal conductivity -- http://physicsworld.com/cws/article/news/2014/oct/28/graphene-boosts-thermal-conductivity-of-popular-plastic\n<br/>\n<br/> Sidenote for development: recent studies using graphene suspended in copper chloride have generated electricity from ambient heat energy which in my opinion paves the way for a self powered PPE suit which may run a cooling unit directly from the heat generation of the wearer. The hotter the temperature the more power which would be ideal for warm climes.\n<br/>\n<br/> http://www.technologyreview.com/view/427140/graphene-battery-turns-ambient-heat-into-electric-current/\n        </div>", 
+  "id": "https://openideo.com/challenge/fighting-ebola/ideas/graphene-sprayed-on-ppe-suits-would-boost-thermal-conductivity-by-600", 
+  "media": [
+    {
+      "src": "//d3gyq8wptu1by3.cloudfront.net/media/40228acb-ce72-4183-93e4-83a7bb4ef994.png", 
+      "type": "image"
+    }
+  ], 
+  "submitted": "October 28, 2014, 21:30PM", 
+  "summary": "Unlike plastic which insulates, graphene can potentially absorb unlimited amounts of heat. Graphene can generate electric power from ambient heat such as the heat inside a ppe suit which opens the door for self powered cooling suits. Full suits may be made from graphene.An Irish lab found a way to mass produce graphene.Again, all input by fellow members is greatly appreciated and welcomed. Feel free to comment and speculate, whether positive or negative - it's all helpful", 
+  "tag": "/challenge/fighting-ebola/ideas#mission-strengthen-health-care-capacities2", 
+  "title": "Graphene on PPE suits allows plastic to absorb 600% more heat. It also generates electricity from ambient heat paving the way for self powered PPE suits.", 
+  "view_count": 55
+}

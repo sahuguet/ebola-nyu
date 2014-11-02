@@ -1,0 +1,33 @@
+{
+  "applause_count": 4, 
+  "author": "Kate Rushton", 
+  "comment_count": 3, 
+  "comments": [
+    {
+      "applaud": "1", 
+      "auhtor": "Chris Davies", 
+      "date": "October 11, 2014, 16:43PM", 
+      "message": "\n    \tThe data is there. It's never released by the phone companies because of privacy issues, but laws could be put in place for emergency times\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "OpenIDEO", 
+      "date": "October 09, 2014, 17:43PM", 
+      "message": "\n    \tGreat idea Kate - do you have an image you could add to your post to make it even more engaging? Here's a guide for getting visual if you need it :) http://ideo.pn/vis-uals\n"
+    }, 
+    {
+      "applaud": "1", 
+      "auhtor": "John", 
+      "date": "October 12, 2014, 23:48PM", 
+      "message": "\n    \tMany mobile devices have GPS  and other ways to determine location.  An individual could use an application to proactively log their movements.  If the CDC released the movements of an exposed person who later became infected, the user could use an application to look for overlaps with the infected person.\n    "
+    }
+  ], 
+  "description": "<div class=\"description\">\n            With the permission of mobile phone providers and the relatives of infected individuals, a service could be provided whereby the phone records of an infected patients could be cross-referenced with the people in their phone contacts list.\n<br/>\n<br/> An alert could be sent to anyone who has been in contact with the infected individual in the past 21 days to contact a local medical provider for further information, just in case.\n<br/>\n<br/> Only the medical staff would know who was alerted.\n<br/>\n<br/> This is could potentially halt the spread of the disease.\u00a0\n        </div>", 
+  "id": "https://openideo.com/challenge/fighting-ebola/ideas/contact-tracing-for-medical-staff", 
+  "media": [], 
+  "submitted": "October 08, 2014, 23:00PM", 
+  "summary": "A system that uses mobile phone 'pings' to quickly trace who ebola patients have been in contact with to slow the spread of the disease.", 
+  "tag": "/challenge/fighting-ebola/ideas#mission-boost-exposure-tracking-and-communication-abilities1", 
+  "title": "Contact Tracing for Medical Staff", 
+  "view_count": 56
+}

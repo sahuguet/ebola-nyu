@@ -1,0 +1,60 @@
+{
+  "applause_count": 7, 
+  "author": "Derrick Riley", 
+  "comment_count": 6, 
+  "comments": [
+    {
+      "applaud": "0", 
+      "auhtor": "Jab Thorn", 
+      "date": "October 11, 2014, 02:49AM", 
+      "message": "\n    \tAre these parachuted into locations or landed at airports and then moved?\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Derrick Riley", 
+      "date": "October 15, 2014, 14:34PM", 
+      "message": "\n    \tJab, the intention was to have the kits parachuted directly into locations, especially remote ones with little access to medical care. We initially designed the kit for aid relief for earthquakes and natural disasters, so some new considerations would need to be made for Ebola.\n    "
+    }, 
+    {
+      "applaud": "1", 
+      "auhtor": "Michelle L'Archeveque", 
+      "date": "October 08, 2014, 12:40PM", 
+      "message": "\n    \tThanks for the idea, Derrick! It would be great to think about the types of shelters being used currently (quite a range) and how they could be optimized for Ebola care. For example, what types of surfaces, etc. would need to be inside this shelter? Could they be included as part of the construction so care workers would not have to seek additional supplies? Can the materials be easily cleaned/sanitized? How is the ventilation inside the shelter? Are there sharp corners that could snag PPE?\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Derrick Riley", 
+      "date": "October 08, 2014, 13:49PM", 
+      "message": "\n    \tThanks Michelle! Actually, the project hasn't even been prototyped little beyond what's seen in the video. Initially, we wanted to kit to function as an emergency surgical shelter to provide care post-triage. We never really got into the specifics of what the kit would contain. We estimated the total volume for storage to be around 80 cubic feet. Within that space, we planned on including basic surgical items plus folding stretchers. Really, that space can be equipped with whatever might be necessary to satisfy longer-term isolation requirements. We researched France's D\u00e9partement des Urgences Sanitaires Poste Sanitaire Mobile (http:// http://www.sante.gouv.fr/IMG/pdf/PSM2_categories_2013_2_.pdf ) to get an approximate idea of the types of items we would need. No one on our team is directly involved in with any medical-related programs, so most of our work was based on assumption. That being said, we would love to see this project move further in whatever fashion that may be.\n    "
+    }, 
+    {
+      "applaud": "1", 
+      "auhtor": "Meena Kadri", 
+      "date": "October 08, 2014, 03:02AM", 
+      "message": "\n    \tNice one, Derrick. Was this ever implemented? If so, what did you learn during implementation? If it were to be adapted for the Ebola crisis, what do you think could be added / taken away. Let's get moving on this to see if we can get it to stage where it could be ready for funding and implementation!\n    "
+    }, 
+    {
+      "applaud": "1", 
+      "auhtor": "Derrick Riley", 
+      "date": "October 08, 2014, 03:28AM", 
+      "message": "\n    \tHi Meena! That's very exciting to hear! We worked on this project for nearly a year, but the development has stopped at pretty much where it is in the video. We've cleaned some things up in regards to our process, but the product has more or less stayed the same. We haven't really gone any further because four of the six on our team, including myself, graduated in the midst of finishing it. However, I am completely on board with making things happen and getting things moving. This is my first endeavor into moving a project like this from conceptual into prototype, so I'll certainly need help and some pointers, but I think the potential outcomes are immense.\n    "
+    }
+  ], 
+  "description": "<div class=\"description\">\n            CHALLENGE\n<br/> The 2014 Biomimicry Design Challenge brief directed groups to find a solution to any transportation problem, by researching and emulating natural organisms and systems, in order to synthesize down their basic design concepts and principles. We sought to create a system of aid relief and delivery to minimize casualties in areas with inadequate infrastructure.\n<br/>\n<br/> SOLUTION\n<br/>\n<br/> Because our design statement geared us toward systemic strategies, we primarily studied organisms which relied on coordination or decentralization to be effective. The most promising idea came from studying the human body, particularly the lymphatic system which can use one item to identify and react to multiple phenomena.\n<br/>\n<br/> RESULT\n<br/>\n<br/> The best decentralized relief strategy proved to come through existing transportation methods. Our model is equipped to provide medical units by providing facilities equipped with C-130\u2019s with one or a series of medical units. When an earthquake occurs in a region, the nearest equipped areas respond by loading the equipment into the aircraft. Because a C-130 is equipped to handle six pallets, multiple medical units can be sent, or sent in combination with food and water pallets, plus medics and paratroopers. This system is designed for both military response and NGO\u2019s with their own aircraft, like the UN, WHO, or the Red Cross.\n<br/>\n<br/> Complete project proposal &amp; process available \n<a href=\"http://j.mp/1pNzbJE\">here:\u00a0j.mp/1pNzbJE</a>\u00a0\n<br/>\n<br/> Project Group Members: Ali Murtaza, Hannah Ma, Drew Hofmann, James Wu, and myself Derrick Riley at the Savannah College of Art &amp; Design, under professor Regina Rowland.\n        </div>", 
+  "id": "https://openideo.com/challenge/fighting-ebola/ideas/emergency-medical-kit", 
+  "media": [
+    {
+      "src": "//d3gyq8wptu1by3.cloudfront.net/media/82668411-8156-4863-a6d4-be61350c6462.jpg", 
+      "type": "image"
+    }, 
+    {
+      "src": "https://player.vimeo.com/video/85123046?wmode=opaque", 
+      "type": "video"
+    }
+  ], 
+  "submitted": "October 07, 2014, 21:50PM", 
+  "summary": "This project was completed by myself and my team for the 2014 Biomimicry Design Challenge. We focused our efforts on providing emergency medical supplies that could quickly be deployed in the most remote areas. The project focused on emergency disasters like earthquakes, but could similarly be applied to something like the Ebola epidemic. The project functions as one basic pallet, to be deployed from C-130 and similar aircraft. Once landed, the kit unfolds into an emergency medical shelter, capable of holding two patients. It has been designed for disasters to be deployed immediately following zero hour until more adequate facilities like Doctors Without Borders or hospital ships are established.Watch the video:", 
+  "tag": "/challenge/fighting-ebola/ideas#mission-strengthen-health-care-capacities2", 
+  "title": "Emergency Medical Kit", 
+  "view_count": 186
+}

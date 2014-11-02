@@ -1,0 +1,56 @@
+{
+  "applause_count": 4, 
+  "author": "Stephan Erickson", 
+  "comment_count": 6, 
+  "comments": [
+    {
+      "applaud": "0", 
+      "auhtor": "Chris Davies", 
+      "date": "October 13, 2014, 19:58PM", 
+      "message": "\n    \tcell phones are tracked in this way by cell phone towers, but that information is private. It could be made public during such an emergency.\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Stephan Erickson", 
+      "date": "October 14, 2014, 00:57AM", 
+      "message": "\n    \tIndeed cell phones can be tracked, and in the US at least this information can be use by the police for life threatening situations with a warrant from a judge. I heard about %40 own cell phones at the moment in Liberia, therefore the remaining %60 would need to be provided with cell phones or proximity devices.\u00a0I am not sure if cell phone companies have ever been asked to perform data mining to gather lists of individuals exposed to ebola patients based on location, more realistically they could provide list of calls made from and to the patient but not more (if someone knows details on this I'd like to find out).  I suspect that finding intercepting paths from  movements of all cell phone customers in the last 30 days is a difficult problem because it involves scanning all historical data of all customers of all competing phone companies for a given area. I'm not sure that cell phone companies store historical GPS data to begin with for older phones.The approach I am presenting uses range detection with inexpensive radio and local storage, much cheaper and simple solution to the same problem\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "OpenIDEO", 
+      "date": "October 13, 2014, 16:22PM", 
+      "message": "\n    \tHi Stephan, interesting post! Any chance you could find an image to go along with it? Images help grab attention and tell a story with higher impact. You should be able to use the Update Entry button on the right of your post and follow the instructions to add images from there. We know occasionally people have issues uploading images so let us know by hitting the Feedback button at the bottom of most pages of our site if you face any problems. Looking forward to seeing more of your inspiring insights on OpenIDEO. And here's some tips on adding visual goodness to your idea: http://ideo.pn/vis-uals plus more on evolving your thought-starter: http://ideo.pn/oi-evolve\n"
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Stephan Erickson", 
+      "date": "Edited on October 14, 2014, 01:14AM", 
+      "message": "\n    \tThe device would be a black box the size of a USB drivecontaining solid state memory and low cost radio chip, ideally less than a few dollars to make in large scale\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "OpenIDEO", 
+      "date": "October 14, 2014, 16:22PM", 
+      "message": "\n    \tThat's great, can you find an image of something that approximates what it looks like or how it works? Thanks for the contribution!\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Stephan Erickson", 
+      "date": "October 15, 2014, 01:30AM", 
+      "message": "\n    \tGot it - thanks\n    "
+    }
+  ], 
+  "description": "<div class=\"description\">\n            Each device (size of keychain) has a unique identification number.\n<br/> Associated contact information for this device (first name, last name, address, contact phone and email) is stored in a secure database available to field level health officials only.\n<br/>\n<br/> When device A is within 10 feet of another device B, both devices will exchange IDs and log timestamp of exchange. History of these logged exchanges would be limited to 3 weeks.\n<br/>\n<br/> If the owner of device A is tested positive for Ebola, health officials will have access to contact information of all individuals this person had contact with in the last 3 weeks. High frequency of contact individuals can be brought in for testing. Low frequency of contact individuals can be advised to keep themselves in isolation via other means such as phone or email.\n<br/>\n<br/> For this to work the entire population would need to be given this device subsidized by government program. Low cost FSK transceivers can be as low as 3$ per unit sold individually. Flash storage and 8 bit microcontrollers are in the same price range.\u00a0\n<br/>\n<br/> Using cell phone GPS records is an alternate way of finding out the same information and can also be used to to obtain similar data, however this approach is much more resource intensive because of the amount of data needed to process, and cell phones are more costly to puchase.\n<br/>\n<br/> Out of concern for privacy this information should only only be shared on a need to know basis. One way of handling this would be for the ID to contact database to be completely closed (no access except for IT admins), and the process of notifying the frequent contacts be automated.\n<br/>\n<br/> Given that the Ebola cases have been doubling every 2 weeks (at this rate we could see billion+ people infected in just a few years) a more scientifically accurate way of managing the spread of the disease is warranted.\n<br/> \u00a0\n        </div>", 
+  "id": "https://openideo.com/challenge/fighting-ebola/ideas/low-cost-electronic-device-for-proximity-tracking", 
+  "media": [
+    {
+      "src": "//d3gyq8wptu1by3.cloudfront.net/media/451f0e9a-5378-42b9-8ffe-1542402a6c14.jpg", 
+      "type": "image"
+    }
+  ], 
+  "submitted": "October 13, 2014, 03:31AM", 
+  "summary": "One of the difficulties epidemiologists face in gaining control over the spread of a disease is tracking who was in contact with a known infected person during the time-frame they were contagious. My understanding is that this is done by interviews with family, friends, coworkers etc.. however this can be error prone, inaccurate, and time consuming.The current proposal involves large scale manufacturing of  low cost devices which can provide information about who an infected individual was in contact with in the last days during the incubation period, providing an ordered list of highest frequency of contacts, facilitating quick alerting to those in most danger of being infected.", 
+  "tag": "/challenge/fighting-ebola/ideas#mission-boost-exposure-tracking-and-communication-abilities1", 
+  "title": "Low Cost Electronic Device for Proximity tracking", 
+  "view_count": 84
+}

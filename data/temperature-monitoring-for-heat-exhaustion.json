@@ -1,0 +1,50 @@
+{
+  "applause_count": 3, 
+  "author": "Bettina Fliegel", 
+  "comment_count": 5, 
+  "comments": [
+    {
+      "applaud": "0", 
+      "auhtor": "Deborah Paterson", 
+      "date": "October 14, 2014, 19:35PM", 
+      "message": "\n    \tHey Bettina, maybe this other contribution by David might be interesting to you - https://openideo.com/challenge/fighting-ebola/ideas/use-commercially-available-equipment-to-monitor-heat-stress-in-healthcare-workers - another interesting area to explore might be existing or prototypes of wearable technology, especially in sports wear or maybe even firefighting protective gear? Thanks for the contribution!\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Bettina Fliegel", 
+      "date": "October 15, 2014, 01:01AM", 
+      "message": "\n    \tThanks for the suggestions and the link Deborah.  I will check them out and see what they inspire!  What exactly do you mean by \"wearable technology?\"  I might pop by a fire station and ask some firefighters what they are using.\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Deborah Paterson", 
+      "date": "October 15, 2014, 15:37PM", 
+      "message": "\n    \tNo problem! Wearable technology refers to anything that is some kind of computer that you wear. It might be embedded in the fabric, be something like a smart watch or things like google glass. There is a lot of growth around biometric sensing fabric currently. Does that help? That's a great research idea to share with the community!\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Bettina Fliegel", 
+      "date": "October 15, 2014, 16:04PM", 
+      "message": "\n    \tHi.  I did some research last night about these topics.  I found an article about a temperature monitor that attaches to the arm/temple of the goggles and enters the ear canal.  (Measuring one's temperature using a tympanic thermometer gives a very accurate read of core temp.  We use it often in medicine.)  I thought this might be something to learn more about.I also found info on the sensors that you are mentioning.  Are you suggesting a separate post on this stuff?  or adding it above?Thanks!\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Bettina Fliegel", 
+      "date": "October 15, 2014, 16:06PM", 
+      "message": "\n    \tand thanks for featuring the post yesterday!!\n    "
+    }
+  ], 
+  "description": "<div class=\"description\">\n<h6 class=\"h6_class\">\u00a0</h6>\n<h6 class=\"h6_class\">Heat Monitoring Devices for Health Care Workers</h6> In my work as a pediatrician we order and receive vaccines for children through a CDC program and via the NYC Department of Health. \u00a0Vaccines are transported under set guidelines. They are transported in styrofoam boxes, wrapped in layers of plastic, surrounding by cold packs placed in the box. \u00a0The cold chain must be maintained to preserve vaccine viability. \n<em>\u00a0Within the box there is a temperature monitoring device. </em>\u00a0They are small, constructed of paper with some chemical component. \u00a0 \n<br/> They use colors to indicate temperature ranges.\u00a0 \n<br/> (Not sure how it works. \u00a0I did not think much about it other than as part of the procedure used for vaccine transport until I read on this site the large problem of heat exhaustion in these workers and thoughts around how to control or monitor for this. ) \u00a0 \n<br/>\n<br/>\n<strong><em>Can these devices be modified in some way to be worn on the body of a health care worker so that he/she can be aware of body temperatures that are either rising quickly, or are reaching dangerous ranges? \u00a0<br/> Can something like this be made for little cost?</em></strong>\n<br/>\n<em>Body temperature is sometimes measured in the armpit. (This is not the most accurate measure but it is used at times.) \u00a0Perhaps this object can be worn on the wrist and the worker can put their wrist under the armpit to get an approximate measurement?\u00a0</em>\n<br/>\n<br/> Here are some links to information about the temperature monitors. \n<br/>\n<a href=\"http://www.dphhs.mt.gov/publichealth/han/2009/2009-383MMonitorMarkIndicator05-05-09.pdf\">Vaccine Temp Monitor </a>- an indicator of temperature exposure \n<br/>\n<br/>\n<a href=\"http://www.unicef.org/supply/files/Temperature_Monitoring_Devices_Vaccine_Storage_and_Distribution.pdf\">Unicef - Temperature Monitoring Devices</a> Vaccine Storage and Distribution \u00a0see 3.7 (Cold Chain Monitor) \n<br/>\n<br/> WHO document on: \n<br/>\n<a href=\"http://www.who.int/medicines/areas/quality_safety/quality_assurance/TS-temp-control-transport-final-sign-off-a.pdf\">Temperature and Humidity Monitoring Systems for Transport Operations \u00a0</a>\n<br/> (for vaccines for example) \u00a0See pg. 6 for the below. \n<br/>\n<em><strong>Time-Temperature Integrators (TTI\u2019s): Are generally chemically impregnated onto a pulp or paperboard substrate. </strong></em>Their reaction rate or diffusion process is used to estimate a temperature equivalent integrated over time. Thus, TTIs provide a measure of accumulated heat rather than instantaneous temperature such as a spike or critical threshold (see Chemical Indicators). The reactions generally are irreversible\u2014once a colour change, colour development, or diffusion process has taken place, exposure to low temperatures will not restore the indicator to its original state. The accuracy and precision of these indicators depend to some extent on human interpretation. They change colour, or are marked by a hue progression in intensity (generally from light to dark) in response to cumulative changes in temperature, such as heat, at a rate dependent on the Arrhenius Equation. A TTI accumulates all of the temperature conditions experienced by the product to which it is affixed. The colour development can be customized based on the known stability of the product, and in much the same way that most biologics and \n<br/>\n<br/> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \n<strong>\u00a0 \u00a0Ideas? \u00a0Thoughts? \u00a0</strong>\n</div>", 
+  "id": "https://openideo.com/challenge/fighting-ebola/ideas/temperature-monitoring-for-heat-exhaustion", 
+  "media": [
+    {
+      "src": "//d3gyq8wptu1by3.cloudfront.net/media/a074d229-27ec-4f3a-868b-25ca10ac99d3.png", 
+      "type": "image"
+    }
+  ], 
+  "submitted": "October 12, 2014, 20:49PM", 
+  "summary": "Health workers wear PPE to prevent risk of exposure to Ebola Virus.  Wearing this in the humid climates that they are working in causes exposure to high temperatures and risk of heat exhaustion.  Can health care workers monitor their temperature by wearing a device somewhere on their body?", 
+  "tag": "/challenge/fighting-ebola/ideas#mission-strengthen-health-care-capacities2", 
+  "title": "Temperature Monitoring of Health Workers to  Prevent Heat Exhaustion", 
+  "view_count": 116
+}

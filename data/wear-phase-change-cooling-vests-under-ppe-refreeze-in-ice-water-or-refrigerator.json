@@ -1,0 +1,98 @@
+{
+  "applause_count": 10, 
+  "author": "Jab Thorn", 
+  "comment_count": 11, 
+  "comments": [
+    {
+      "applaud": "1", 
+      "auhtor": "Jeff Belin", 
+      "date": "Edited on October 31, 2014, 17:35PM", 
+      "message": "\n    \tGreat post Jab. We at TechNiche International manufacture multiple cooling technologies including Phase Change, Evaporative and Circulatory Cooling. We would recommend the use of Phase Change Cooling under PPE suits for a variety of reasons outlined on our IDEA page. https://openideo.com/challenge/fighting-ebola/ideas/cooling-vests-to-keep-ebola-heat-care-workers-safe-from-heat-stress\n"
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Tina Cornely", 
+      "date": "October 25, 2014, 22:51PM", 
+      "message": "\n    \tGreat idea for hospitals. But for low tech settings where money is an issue a potential solution is a kool patch for the forehead. This and having a sipping device inside the suit will help so they can stay hydrated. Not perfect but cost effective for emergency situations.\n    "
+    }, 
+    {
+      "applaud": "1", 
+      "auhtor": "Jab Thorn", 
+      "date": "October 26, 2014, 01:00AM", 
+      "message": "\n    \tMoney is an issue with everything but we hope that a phase change vest can double the length of time someone in a low tech setting can stay in PPE.  This means fewer opportunities for contamination during doffing and fewer disposable PPEs that need to be burned.  Doug Frost with the TechKewl vests has some figures on his thread.https://openideo.com/challenge/fighting-ebola/research/cooling-vests-for-health-care-workers-in-west-africa#c-469bfd49e7418387057ce42524574af7\n"
+    }, 
+    {
+      "applaud": "1", 
+      "auhtor": "Rainer Winkler", 
+      "date": "October 25, 2014, 20:04PM", 
+      "message": "\n    \tHi Jab,do I have the figures right, the cool pads weight about 5lb (2.27 kg),I can assume the heat of fusion to be in the order of 200 kJ / kg. So the vests can absorb about 450 kJ of  thermal energy. I guess they will mostly melt due to condensation of water vapor, as they are much cooler than the dew point. If the pads melt in an hour, the cooling power would be 126 W. What I do not know is how much cools the body and how much is lost.I would say, the vests should be put under a PPE in hot environment to test the cooling and to find out what the optimal configuration is.With kind regards,Rainer\n    "
+    }, 
+    {
+      "applaud": "1", 
+      "auhtor": "Jab Thorn", 
+      "date": "October 26, 2014, 00:57AM", 
+      "message": "\n    \tHi Rainer,  these vests are already manufactured and are in use by firefighters, police, and in the case of TechKewl vests they have already been shipped to Ebola first responders.  I really don't think we need to do additional research, we just need to get them to use them and help them understand that you don't need to cool them as much as regular ice.  There are 20-30 fluid/solids that can act as phase changers.  Only 1 or 2 do so at a temperature that is bearable to human skin. Have you looked at the attached/downloadable file?  It has quite a bit of the science behind the phase change vests and probably some of the testing results you are interested in.\n    "
+    }, 
+    {
+      "applaud": "1", 
+      "auhtor": "Jab Thorn", 
+      "date": "October 25, 2014, 13:08PM", 
+      "message": "\n    \tUpdate: In the research section Doug Frost from Techniche International has posted that some of his companies vests have already been sent to Africa.  The vests, called TechKewl, are available on Amazon as well as the Techniche website.   I've updated this idea to reflect\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Rik Ganju", 
+      "date": "October 24, 2014, 04:47AM", 
+      "message": "\n    \tGood one\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Rainer Winkler", 
+      "date": "October 20, 2014, 16:15PM", 
+      "message": "\n    \tHi Jab, thanks for posting and for the links. I will check them and think about feedback.\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Rainer Winkler", 
+      "date": "Edited on October 20, 2014, 17:05PM", 
+      "message": "\n    \tI did send a request to Glacier Tek asking for technical details about cooling power and latent heat of the material.\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Denise Denise", 
+      "date": "October 20, 2014, 16:05PM", 
+      "message": "\n    \tHi, Jab Thorn Like your idea about the PCM vests; however I wonder whether getting in ice-stocks from the city would be as easy as it sounds?  Sometimes there are considerable distances involved in transporting stocks, especially in rural areas.  What about the weight: I'm not sure the Health Workers, especially the men and women of small stature, would be keen on adding even 5 more pounds to the already cumbersome suits they wear.  Finally, are these vests constructed of materials that allow them to be disinfected - multiple times in harsh chlorine, without degrading the fabric?\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Jab Thorn", 
+      "date": "October 20, 2014, 16:36PM", 
+      "message": "\n    \tThe vests themselves are fabric and worn under the PPE.  It would be washed and reused just like other undergarments of the heath workers.Now the packets of PCM material themselves are just enclosed in a heavy plastic.  I don't know how that plastic would hold up.  But an option would be to put them in a ziplock bag before inserting them into the vest.  Throw away the ziplock and then a little capful of bleach in the cooler with icewater ought to be plenty.\n    "
+    }
+  ], 
+  "description": "<div class=\"description\">\n            Update: In the research section Doug Frost from Techniche International has posted that some of his companies vests have already been sent to Africa. \u00a0The vests, called TechKewl, are available on Amazon as well as the Techniche website. \u00a0\n<br/>\n<br/> http://www.techniche-intl.com/catalogus/phase-change-cooling.html\n<br/>\n<br/> http://www.amazon.com/TECHKEWL-Phase-Change-Cooling-Vest/dp/B0002EWKTS\n<br/>\n<br/> Research thread is\u00a0https://openideo.com/challenge/fighting-ebola/research/cooling-vests-for-health-care-workers-in-west-africa#c-469bfd49e7418387057ce42524574af7\n<br/>\n<br/> Health workers in PPEs only have 20 to 40 minutes that they can stay in PPEs without getting overheated and sick. \u00a0If we can double that time we can reduce the number of times workers have to go thru the disrobing process. \u00a0This in turn reduces the chances of getting sick as well as reducing throw away items. \u00a0A recent article says that a 30 bed tent hospital throws away 120 PPEs a day.\n<br/>\n<br/> Phase Change Materials (PCM) are liquids that change form (solid to liquid and back) at a certain temperature. \u00a0Water is a PCM but since it freezes at 32f (0c) it is difficult to freeze in areas w/o or minimal electricty. \u00a0And this low temperature also damages human skin when a ice vest is worn underneath clothing.\n<br/>\n<br/> PCMs are available that \"freeze\" at higher temperatures like in a refrigerator or ice water. \u00a0And because of this they also freeze faster, 20 minutes in ice water and an hour in a fridge. \u00a0Their freezing/melting point is between 58 and 65 degrees meaning they will not harm human skin when worn in close contact and yet since they are below body temperature they will provide cooling. \u00a0A couple of bags of ice in coolers brought out to an Ebola camp from the city would be able to refreeze this material throughout the day as needed.\n<br/>\n<br/> The great thing about this is that we do not have to recreate or reengineeer anything. \u00a0Bags of this PCM material and vests to hold them are already available on the market and weigh in at less than 5 pounds. \u00a0They are being used by Firefighters, Military, First Responders, Welders, and Surgeons. \u00a0They simply have not been put in use for this Ebola crisis. \u00a0Perhaps because of the cost. \u00a0\n<br/>\n<br/> Vests retail at $170 with the PCM material taking up the bulk of that so they may be hard to justify at first until you add up all the savings that that they would also provide because they are reuseable even up to several times a day. \u00a0Also when people think of cooling vests they automatically think of ice which as discussed above is not easy to create or easy to wear. \u00a0Phase change material that freezes at a temperature easy to obtain in the African bush is perfect and needs to be used. \u00a0(And American hospitals should have absolutely no excuse to not make these available to aid workers)\n<br/>\n<br/> -- I'm adding the seamstress thread here because the available vests are rather plain and boring. \u00a0Because the PCM material is removed from the vest to be \"refreshed/frozen\" then individuals could have their very own reusable vests in native cloth.\n<br/>\n<br/> Ok on to the reading material:\n<br/>\n<br/> A review of several types of vests (gel, water, phase) and comfort of the wearer: http://www.activemsers.org/gear/testcoolingvests.html\n<br/>\n<br/> Glacier Tek (knows as RPCM) a biobased Green phase change vest at 58f degrees\u00a0http://www.glaciertek.com/\n<br/>\n<br/> Other places to buy: \u00a0www.polarproducts.com \u00a0 www.texascoolvest.com\n<br/>\n<br/> The company that makes all these PCM materials - did you know you can put phase changing materials into building walls to help cool the house? \u00a0\u00a0http://www.pcmproducts.net/Phase_Change_Material_Development.htm\n<br/>\n<br/> - article on # of PPEs used in a day\u00a0http://www.irinnews.org/report/100716/day-in-the-life-of-a-kenema-ebola-treatment-centre\n<br/>\n<br/> And I've uploaded a research paper that shows the phase changing materials as working best under humid conditions which if sweating inside PPE isn't enough then adding a wet tshirt would do the trick.\n<br/>\n<br/> \u00a0\n        </div>", 
+  "id": "https://openideo.com/challenge/fighting-ebola/ideas/wear-phase-change-cooling-vests-under-ppe-refreeze-in-ice-water-or-refrigerator", 
+  "media": [
+    {
+      "src": "//d3gyq8wptu1by3.cloudfront.net/media/ce8546c7-7813-4f8a-be1c-4e99831ace3c.jpg", 
+      "type": "image"
+    }, 
+    {
+      "src": "//d3gyq8wptu1by3.cloudfront.net/media/1b4e600a-60d4-4421-b7fa-e6052fc40f90.jpg", 
+      "type": "image"
+    }, 
+    {
+      "src": "//d3gyq8wptu1by3.cloudfront.net/media/c6b0c984-8d80-4d2f-bbcc-5524718e6445.jpg", 
+      "type": "image"
+    }, 
+    {
+      "src": "//d3gyq8wptu1by3.cloudfront.net/media/d8807f4e-4a9d-4ffb-9794-0525b2f997c2.jpg", 
+      "type": "image"
+    }
+  ], 
+  "submitted": "October 20, 2014, 14:35PM", 
+  "summary": "Already in use by Firefighters, Surgeons, & Military these cooling vests \"freeze\" at a higher temperature than water and yet still provide 58 degrees of cooling for 3 hours.", 
+  "tag": "/challenge/fighting-ebola/ideas#mission-strengthen-health-care-capacities2", 
+  "title": "Wear already available Phase Change Cooling Vests under PPE - ReFreezeable in Ice Water or Refrigerator", 
+  "view_count": 151
+}

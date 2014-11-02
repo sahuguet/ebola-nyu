@@ -1,0 +1,44 @@
+{
+  "applause_count": 2, 
+  "author": "Anthony Davis", 
+  "comment_count": 4, 
+  "comments": [
+    {
+      "applaud": "1", 
+      "auhtor": "Rainer Winkler", 
+      "date": "October 28, 2014, 21:56PM", 
+      "message": "\n    \tI just searched on google for - ppe ebola cooling - , congratulations, your proposal is the first in the list!\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Anthony Davis", 
+      "date": "October 28, 2014, 22:35PM", 
+      "message": "\n    \tha, that's nuts! Hard be first in anything on google! Cool. Thanks for letting me know\n    "
+    }, 
+    {
+      "applaud": "1", 
+      "auhtor": "Rainer Winkler", 
+      "date": "October 28, 2014, 20:05PM", 
+      "message": "\n    \tHi Anthony, I also thought about cooling the health care workers from outside. I do not know whether a shower works, again because virus particle may be drawn to places where they are not wanted. So personally I would prefer a solution where the head is not wetted. But to have a method to cool the workers down, before the PPE has to be removed, would be good.\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Anthony Davis", 
+      "date": "October 28, 2014, 20:45PM", 
+      "message": "\n    \tThanks Rainer.  I really appreciate the input. Valid points. I wonder is there a work around.\n    "
+    }
+  ], 
+  "description": "<div class=\"description\">\n            Simple and cheap is what I'm aiming for.\n        </div>", 
+  "id": "https://openideo.com/challenge/fighting-ebola/ideas/cheap-decon-and-ppe-cooling-chamber", 
+  "media": [
+    {
+      "src": "//d3gyq8wptu1by3.cloudfront.net/media/e2db23b4-d951-4f94-b08f-0a6087efdf80.png", 
+      "type": "image"
+    }
+  ], 
+  "submitted": "October 28, 2014, 17:29PM", 
+  "summary": "Cooled decontamination shower for use with overhead full length PPE gear (pictured) to cool and disinfect medical staff.Pros: Cheap, easily transportable, reuses already short supplies and provides out of the way places with disposable decon chambers.  Bleach/agent can be chilled so it acts as a cooling down system also.  Step in - cool down, decontaminate. Cons : Possible vapors in enclosed space. Advice and input most welcome, Ideo is after all a group project.  Please point out any flaws, upgrades, questions or proposed modifications in the comments below", 
+  "tag": "/challenge/fighting-ebola/ideas#mission-strengthen-health-care-capacities2", 
+  "title": "Cooled PPE Decontamination Shower", 
+  "view_count": 43
+}

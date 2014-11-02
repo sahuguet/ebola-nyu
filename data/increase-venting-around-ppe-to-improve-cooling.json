@@ -1,0 +1,32 @@
+{
+  "applause_count": 3, 
+  "author": "Rainer Winkler", 
+  "comment_count": 2, 
+  "comments": [
+    {
+      "applaud": "0", 
+      "auhtor": "Anthony Davis", 
+      "date": "October 28, 2014, 21:43PM", 
+      "message": "\n    \tHi Rainer, I've used your concepts to try find a material that would disperse heat from inside through outside cooling.  Currently researching graphene.\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Rainer Winkler", 
+      "date": "October 29, 2014, 17:43PM", 
+      "message": "\n    \tHi Anthony, thanks for telling. I wish you success.\n    "
+    }
+  ], 
+  "description": "<div class=\"description\">\n<em>This is not an innovative idea, but fast and cheap to implement, so I post it here. Even if a new cooling technique is invented, it will work better if all other possible actions are performed.</em>\n</div>", 
+  "id": "https://openideo.com/challenge/fighting-ebola/ideas/increase-venting-around-ppe-to-improve-cooling", 
+  "media": [
+    {
+      "src": "//d3gyq8wptu1by3.cloudfront.net/media/8b64186a-5b3a-4fe1-b931-ca5a298d8f27.png", 
+      "type": "image"
+    }
+  ], 
+  "submitted": "October 27, 2014, 20:28PM", 
+  "summary": "The heat transfer from PPE to air is highly dependent on the air currents around the PPE. Increase ventilation around health care worker in PPE to improve the heat transfer.", 
+  "tag": "/challenge/fighting-ebola/ideas#mission-strengthen-health-care-capacities2", 
+  "title": "Increase venting around PPE to improve cooling", 
+  "view_count": 29
+}

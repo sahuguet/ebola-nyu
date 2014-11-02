@@ -1,0 +1,38 @@
+{
+  "applause_count": 5, 
+  "author": "Monique Vi", 
+  "comment_count": 3, 
+  "comments": [
+    {
+      "applaud": "1", 
+      "auhtor": "M. Ricciardi", 
+      "date": "Edited on October 22, 2014, 01:48AM", 
+      "message": "\n    \tWorthwhile use of the technology. Some components/features here (such as local network tracking) could be replaced with simpler (more cost-effective)  tech/devices. But a stand alone or all-in-one device is certainly practical.Is the proposed use here one that is cellular network dependent (require access to wireless networks)? These may not be available in more remote locations, or developing world countries without support infrastructure.See my proposal: Using Socio-Metric (SM) Badges to Monitor Potential Exposure and Expedite Contact Tracing Amongst Healthcare Providers(https://openideo.com/challenge/fighting-ebola/ideas/using-social-metric-sm-badges-to-monitor-potential-exposure-and-expedite-contact-tracing-amongst-healthcare-providers)And this proposal: Virus Dashboard: Using Mobile Data Capture to Contain the Spread of Ebola (https://openideo.com/challenge/fighting-ebola/ideas/virus-dashboard-using-mobile-data-capture-to-contain-the-spread-of-ebola )Please consider joining my team, or, our teams.\n    "
+    }, 
+    {
+      "applaud": "1", 
+      "auhtor": "Nimit Jain", 
+      "date": "October 19, 2014, 13:36PM", 
+      "message": "\n    \tMonique,I like the idea! Crux : Instead of a blanket quarantine for everyone exposed - and burdening the over-stretched hospitals - get them a self-reporting device. Now,I think we can attain this even with a Jawbone Up24 - which is cheaper than the Apple watch and is already being used globally. Plus they've the Open Device Protocol (https://jawbone.com/blog/our-up-open-device-protocol/) out already. So it might just about using their platform to make an app for Ebola monitoring & giving away the Up24 to everyone \"at-risk\". What do you think? :)\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Monique Vi", 
+      "date": "October 19, 2014, 17:33PM", 
+      "message": "\n    \tThank you! I think that is a great idea and even more attainable!\n    "
+    }
+  ], 
+  "description": "<div class=\"description\">\n            The device will detect the patients temperature, heart rate, pulse, etc. through already developed technology.\n<br/>\n<br/> If somebody has been in contact with an Ebola patient, we should be able to know where they are at all times and know exactly when they developed symptoms. In an idealistic world, the device would be interactive and the patient would be able to add symptoms manually for instance if they felt nauseous or developed a headache, they could let the monitoring system know by the click of a button. Recently, the public was made aware that the 2nd nurse to contract Ebola may have had symptoms as early as last Friday, which means she exposed two planes full of people and everybody she came into contact with on her trip to Cleveland.\u00a0\n<br/>\n<br/> This would be a system that could be used for decades to come. Mark Zuckerberg donated millions to ebola, surely we can provide a watch/ Ebola monitor to anybody exposed. If it were me, I would pay for it myself if I had been exposed.\u00a0\n<br/>\n<br/> This idea seems viable, my question to you is, WHY NOT? We should not get behind Ebola or any other life threatening communicable disease. We need to be proactive, not reactive. I saw a news headline that said \"Suspected Ebola patient goes missing\" This is unacceptable.\u00a0\n<br/>\n<br/> The new apple watch features can be found here\u00a0https://www.apple.com/watch/features/\u00a0\n<br/> If we can share our heartbeat with our significant other through a watch, tracking the vitals of an Ebola exposed patient shouldn't be too difficult.\u00a0\n        </div>", 
+  "id": "https://openideo.com/challenge/fighting-ebola/ideas/the-e-watch", 
+  "media": [
+    {
+      "src": "//d3gyq8wptu1by3.cloudfront.net/media/ea89be04-1634-4bd8-8a02-c569917362b0.jpg", 
+      "type": "image"
+    }
+  ], 
+  "submitted": "October 17, 2014, 22:15PM", 
+  "summary": "We need to be proactive not reactive. The release of the new Apple watch will hit the market in a few months, which is incredibly innovative.  As a pre-med student I am always brainstorming about ways we can improve healthcare.  So I ask you, what if there was a device similar to the Apple watch that could provide anybody that has been exposed to an individual with ebola constant vital signs such as temperature,  while also tracking  their location. In the event the patient developed worrisome vitals, such as a fever, the device would alert a system and prompt an immediate appropriate response by the CDC / Ebola team. We HAVE the technology. This would cost a lot less than drastic measures and assist us with containing the spread of Ebola.", 
+  "tag": "/challenge/fighting-ebola/ideas#mission-boost-exposure-tracking-and-communication-abilities1", 
+  "title": "The E-watch", 
+  "view_count": 158
+}

@@ -1,0 +1,32 @@
+{
+  "applause_count": 5, 
+  "author": "Rick Perez-Ricketson, MD", 
+  "comment_count": 2, 
+  "comments": [
+    {
+      "applaud": "1", 
+      "auhtor": "KATHRINA (Kit) NEASE", 
+      "date": "October 24, 2014, 20:17PM", 
+      "message": "\n    \tAm I ever to proud & glad you are on the 1STCHOICEFG Deployment Team!\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Rick Perez-Ricketson, MD", 
+      "date": "October 25, 2014, 05:07AM", 
+      "message": "\n    \tMany thanks of gratitude for the opportunity to join your team. Let's roll!\n    "
+    }
+  ], 
+  "description": "<div class=\"description\">\n            All available sequences from public databases were downloaded and aligned with T-Coffee and visualized in Jalview. The UTR sequence was submitted into mFold and RNAStructure for secondary stucture analysis.\u00a0\n<br/> The sequence corresponding to the miRNA secondary structure was further visualized with Pseudoviewer. A comparative phylogenetic tree was generated in Jalview.\n<br/> That sequence was then submitted to miRNA databases and hybrids wee generated with RNAhybrid.\u00a0\n<br/> Known human miRNA homology to hits immune transcripts suggested a possible answer to the virulence of Zaire compared to all other Ebola species.\n        </div>", 
+  "id": "https://openideo.com/challenge/fighting-ebola/ideas/zaire-mirna-a-potential-pandora-element", 
+  "media": [
+    {
+      "src": "//d3gyq8wptu1by3.cloudfront.net/media/803c38a7-1de2-48a5-86f7-c1194b6c1ca3.jpg", 
+      "type": "image"
+    }
+  ], 
+  "submitted": "October 22, 2014, 05:42AM", 
+  "summary": "Over the past 3 years , my research has focused on additional virulence factors besides VP35 in that comparative genomic studies did not explain the differential virulence between the species. A potential miRNA was identified within the UTR between the nucleoprotein and VP35 ORF's only in EBOV.Further analysis computationally identified homology with known human miRNAs that target multiple host immune transcripts.Further biochemical confirmation leading to RNAi as therapeutic option may prove beneficial in future outbreaks. Poster presented at the 6th International Conference on Filoviruses, May 1, 2014, Galveston, Texas.", 
+  "tag": "/challenge/fighting-ebola/ideas#mission-surprise-us8", 
+  "title": "Zaire miRNA. A potential Pandora Element", 
+  "view_count": 181
+}

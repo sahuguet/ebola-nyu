@@ -1,0 +1,33 @@
+{
+  "applause_count": 3, 
+  "author": "David Fitzwater", 
+  "comment_count": 3, 
+  "comments": [
+    {
+      "applaud": "0", 
+      "auhtor": "Bettina Fliegel", 
+      "date": "October 14, 2014, 00:42AM", 
+      "message": "\n    \tHi David.  Why is it necessary to add a cotton liner?  Why do they use it in the nuclear industry?  What type of PPE do they use in the nuclear industry?\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "David Fitzwater", 
+      "date": "October 14, 2014, 01:25AM", 
+      "message": "\n    \tIt acts as another barrier when taking off rubber gloves.  There are various combinations used depending on the nature of the hazard. For loose surface contamination, as a minimum; cotton liners, rubber gloves, plastic shoe covers, rubber shoe covers, cotton anti contamination jump suit, cotton head cover, and tape for seams. There are an assortment of respirators for airborne particulates. More layers are added as contamination levels increase. Sometimes it's doubling up. Some occasions require complete encapsulation and engineering controls.\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "OpenIDEO", 
+      "date": "October 13, 2014, 16:22PM", 
+      "message": "\n    \tHi David, interesting post! Any chance you could find an image to go along with it? Images help grab attention and tell a story with higher impact. You should be able to use the Update Entry button on the right of your post and follow the instructions to add images from there. We know occasionally people have issues uploading images so let us know by hitting the Feedback button at the bottom of most pages of our site if you face any problems. Looking forward to seeing more of your inspiring insights on OpenIDEO. And here's some tips on adding visual goodness to your idea: http://ideo.pn/vis-uals plus more on evolving your thought-starter: http://ideo.pn/oi-evolve\n"
+    }
+  ], 
+  "description": "<div class=\"description\">\n            This idea will install barriers to transmission.\n        </div>", 
+  "id": "https://openideo.com/challenge/fighting-ebola/ideas/disinfect-prior-to-disrobing", 
+  "media": [], 
+  "submitted": "October 13, 2014, 13:48PM", 
+  "summary": "When removing protective clothing, cross contamination is a common occurrence. It would be prudent to double up on gloves and possibly add a cotton liner as first layer. This is done extensively in the nuclear industry. It would also be prudent to use an appropriate disinfectant prior to removal of protective layer and \"kill\" any living virus. These steps will add defense in depth to address this common failure mode.", 
+  "tag": "/challenge/fighting-ebola/ideas#mission-strengthen-health-care-capacities2", 
+  "title": "Disinfect prior to disrobing.", 
+  "view_count": 52
+}

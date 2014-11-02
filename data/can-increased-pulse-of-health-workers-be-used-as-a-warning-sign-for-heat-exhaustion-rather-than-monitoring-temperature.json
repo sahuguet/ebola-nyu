@@ -1,0 +1,32 @@
+{
+  "applause_count": 2, 
+  "author": "Bettina Fliegel", 
+  "comment_count": 2, 
+  "comments": [
+    {
+      "applaud": "0", 
+      "auhtor": "Rebecca Buechel", 
+      "date": "October 31, 2014, 22:57PM", 
+      "message": "\n    \tHi Bettina, aren't there sports gadgets that measure heart rate (+ other things) ?\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Bettina Fliegel", 
+      "date": "November 01, 2014, 22:39PM", 
+      "message": "\n    \tHi Rebecca.Yes there are gadgets that one can wear on their person to monitor heart rate for sports and also for medical reasons.  They vary in price and none are cheap. Some are worn on the body and some for sports seem to be only on the wrist.  Either way they are mechanical devices and could get contaminated during patient care.   The way I was thinking was that if one can take their own pulse, or another provider can do it that costs nothing.  They can either use a stethoscope, which they may already be using for patient care, or they can use their hands - not sure if one can feel the pulse through so many layers of gloves.  I can try that myself and get back to you.The issue here for me is whether experts would find this measure accurate enough.  Each person would need to know their resting heart rate and use that as a base measure.  ( Since it seems simple, it might not be a useable idea, as I would think someone would have already considered it.  You never know though so I threw it out there.)\n    "
+    }
+  ], 
+  "description": "<div class=\"description\">\n            \u00a0 \u00a0 \u00a0 \u00a0\u00a0 \n<strong>\u00a0 \u00a0As Body Temperature Rises So Does Heart Rate</strong>\n<br/> Is this sensitive enough to use as a first sign of risk for heat related illness in health workers wearing PPE in West Africa? \u00a0Can this be used instead of monitoring temperature? Can a simple clock in the medical unit be used to assist healthworkers self monitor? \u00a0Baseline heart rate for each worker would need to be obtained so that they could then monitor for rising HR overtime while wearing PPE. \u00a0A protocol would need to be put in place as to what heart rate is a sign to leave the unit and remove PPE as they might be in danger of heat exhaustion. \n<em>\u00a0</em>\n<br/>\n<br/>\n<a href=\"http://www.cdc.gov/extremeheat/warning.html\">CDC Warning Signs and Symptons of Heat Illness</a>\n<br/>\n<br/>\n<a href=\"http://www.vidol.gov/data/page_images/29_185.pdf\">US Virgin Islands Dept. of Labor / Occupational Safety Document</a>\n<br/> See page 2 where they report monitoring of workers pulse, in addition to checking temperatures, and weight (used to assess for dehydration) when working in conditions that may cause heat related illnesses.\n<br/>\n<br/>\n<em>Whether this is a viable option would need to be determined by medical experts. \u00a0At this time I figured it is a question worth asking as it is simple, available, and low cost.</em>\n</div>", 
+  "id": "https://openideo.com/challenge/fighting-ebola/ideas/can-increased-pulse-of-health-workers-be-used-as-a-warning-sign-for-heat-exhaustion-rather-than-monitoring-temperature", 
+  "media": [
+    {
+      "src": "//d3gyq8wptu1by3.cloudfront.net/media/a0353d51-37ea-4991-9f61-7c92f740375f.png", 
+      "type": "image"
+    }
+  ], 
+  "submitted": "October 31, 2014, 21:45PM", 
+  "summary": "As body temperature rises so does one's heart rate.  Heat related illness is a serious risk for health workers wearing PPE in the warm climates in West Africa.  Approaches to temperature monitoring have been suggested.  We do not have a simple low cost solution yet.   As heart rate increases with elevated body temperature can we devise a way for health workers to monitor their own pulse, or monitor each other's pulse?", 
+  "tag": "/challenge/fighting-ebola/ideas#mission-strengthen-health-care-capacities2", 
+  "title": "Can Monitoring Pulse Be Used to Detect Early Signs of Heat Stress In Health Workers?", 
+  "view_count": 28
+}

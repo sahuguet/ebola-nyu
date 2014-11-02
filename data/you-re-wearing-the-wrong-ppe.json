@@ -1,0 +1,50 @@
+{
+  "applause_count": 7, 
+  "author": "Kutter McNeil", 
+  "comment_count": 5, 
+  "comments": [
+    {
+      "applaud": "0", 
+      "auhtor": "Deborah Paterson", 
+      "date": "October 13, 2014, 23:02PM", 
+      "message": "\n    \tHi Kutter, thanks for joining the conversation. Have you got any information on medical applications on this fabric? Is there any research you could link to to show that the fabric would be resistant to the Ebola virus?  How can we ensure that it's not attaching itself to the fabric, even though liquid might slide right off? What would the design of the PPE look like? How might we adapt existing designs to cater to the properties of the fabric? Feel free to add images, sketches to illustrate your idea more clearly or update your post with questions or needs you want the community to contribute to.\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Kutter McNeil", 
+      "date": "October 14, 2014, 03:03AM", 
+      "message": "\n    \tThe answer to your first two questions is no. The silic company is relatively new and they set out to make a stainless, self cleaning shirt. What makes it unique is that the fabric is made with \"silica particles that bind to the fibers of clothing, on a microscopic level, which prevents any liquid from entering the shirt.\" Now the reason I chose this is because \"Most liquid molecules will not be able to touch the fabric because of a microscopic layer of air that forms between the liquid and fabric.\".(both qoutes are taken from their website) So in effect it keeps the liquids and the virus from even touching the clothing which in turn keeps it from being contaminated.  As for the design and in order to ensure that there wouldn't be any contamination we could use a one piece jump suit design much like the Tyvec that I imagine that they use now.\n    "
+    }, 
+    {
+      "applaud": "1", 
+      "auhtor": "Natarajan Venkatakrishnan", 
+      "date": "October 10, 2014, 13:31PM", 
+      "message": "\n    \tgood point.....sounds like we have to only prevent fluid exchange\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Kutter McNeil", 
+      "date": "October 10, 2014, 17:35PM", 
+      "message": "\n    \tExactly. Right now they're basically carpet bombing when what they need is a surgical strike.\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Kutter McNeil", 
+      "date": "October 10, 2014, 13:29PM", 
+      "message": "\n    \tSilic was founded by Aamir Patel and if you choose this idea contact him through this site http://silicshirts.com to talk about any custom clothes you might need.\n    "
+    }
+  ], 
+  "description": "<div class=\"description\">\n            If you can only get ebola from coming into contact with an infected persons fluids then it sounds to me like you could wear your gas mask and then wear stain resistant clothing. You need clothing that has been treated to be hydrophobic. There are already several companies that make and sell these. My personal vote is for the \"Silic\" shirt though. What I'm trying to say in short is that you are wearing suits that cover a range of threats when what you need is a threat specific one.\n        </div>", 
+  "id": "https://openideo.com/challenge/fighting-ebola/ideas/you-re-wearing-the-wrong-ppe", 
+  "media": [
+    {
+      "src": "https://www.youtube.com/embed/FIhhhkDtVLQ?wmode=opaque", 
+      "type": "video"
+    }
+  ], 
+  "submitted": "October 10, 2014, 13:24PM", 
+  "summary": "Right now you're probably using the giant blue, all plastic suits that block out everything. They block out even air. Creating your own little protective air bubble from the outside environment. Well from what I've read Ebola isn't an airborne virus so why're you treating it like it is?", 
+  "tag": "/challenge/fighting-ebola/ideas#mission-strengthen-health-care-capacities2", 
+  "title": "Ebola has a weakness that current PPE doesn't really exploit.", 
+  "view_count": 233
+}

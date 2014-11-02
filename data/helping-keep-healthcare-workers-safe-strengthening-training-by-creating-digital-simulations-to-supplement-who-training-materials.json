@@ -1,0 +1,32 @@
+{
+  "applause_count": 6, 
+  "author": "beth kolko", 
+  "comment_count": 2, 
+  "comments": [
+    {
+      "applaud": "0", 
+      "auhtor": "Mark Selander", 
+      "date": "October 15, 2014, 19:33PM", 
+      "message": "\n    \tVery excited about a great way to use game design tools to focus on this problem of how you train people on very precise but vital protocols.  It could not be more timely!\n    "
+    }, 
+    {
+      "applaud": "1", 
+      "auhtor": "Sue Hill", 
+      "date": "October 15, 2014, 18:34PM", 
+      "message": "\n    \tI like this idea because it is tactical and will result in some actual deliverables by the end of the hackathon weekend.  The time window is short and the urgency is high.  If we can get these tools into the field asap, it may help prevent the errors that have occurred in Texas, and help curb the spread of this virus.\n    "
+    }
+  ], 
+  "description": "<div class=\"description\">\n            As part of the international community's effort in response to Ebola, new Ebola Treatment Units (ETUs) are being built in West Africa, and new health workers are being recruited to staff these facilities. These people will need training, and WHO has developed a training center and continues to improve it to ensure all health workers receive thorough training on using personal protective equipment appropriately and safely treating Ebola patients.\u00a0\n<br/> WHO has contracted the IMAI-IMCI Alliance to develop the Ebola clinical team training;\u00a0they\u00a0have asked Shift Labs for assistance in creating digital training materials for these facilities. Using well-understood medical simulation techniques, Shift Labs is charged with creating game-based simulations that will supplement paper-based training materials.\u00a0\n<br/>\n<br/> Given the nature of the situation, they need this done now, \u00a0before resources are available. So, Shift Labs is sponsoring a hackathon/ game jam in Seattle from October 24-26.\n<br/> \u00a0\n<br/> We will be designing and building a prototype tool to help prepare the front line emergency workers who are treating Ebola patients around the world. This tool will be\u00a0will be a first person simulation\u00a0used in the World Health Organization (WHO) Training Center as an interactive\u00a0walk-through\u00a0of an Ebola Treatment Unit. It will help prepare new workers for the conditions and circumstances they will be facing and provide them with\u00a0training and techniques to keep safe while supporting victims of this disease.\u00a0\n<br/>\n<br/> We hope the work we do together at this hackathon will produce prototypes\u00a0that demonstrate the power of serious games and simulations to augment learning when it most matters -- \u00a0and will in turn generate support for a more comprehensive tool covering the entire set of training tools used by the WHO to combat the Ebola virus. \u00a0\n<br/> \u00a0\n<br/> We are looking for a group of game artists and developers to join us for the event.\u00a0 Ideally we will have artists and developers who are experienced in building 3D games using Unity and tools like 3DS Max or Maya. You will be joining members of Shift Labs (http://www.shiftlabs.com/)\u00a0as well as experienced designers from the Seattle interactive community.\u00a0\n        </div>", 
+  "id": "https://openideo.com/challenge/fighting-ebola/ideas/helping-keep-healthcare-workers-safe-strengthening-training-by-creating-digital-simulations-to-supplement-who-training-materials", 
+  "media": [
+    {
+      "src": "//d3gyq8wptu1by3.cloudfront.net/media/c8a67999-08e9-4186-a416-aba37ddbcf81.png", 
+      "type": "image"
+    }
+  ], 
+  "submitted": "October 15, 2014, 04:31AM", 
+  "summary": "We are working with the IMCI-IMAI Alliance that created training materials for the WHO training center in Liberia. We are adapting their materials and combining proven approaches in medical education with game mechanics to create interactive simulations of an Ebola Treatment Unit (ETU). Our goal is to provide additional mechanisms for healthcare workers to learn and review training material.We want to increase the numbers of people who can be efficiently and effectively trained. Using best practices in medical simulation as well as serious games, and incorporating architectural plans of the ETUs, photos, and responder insights, we are confident we can create meaningful educational experiences that reinforce key concepts and practices.", 
+  "tag": "/challenge/fighting-ebola/ideas#mission-strengthen-health-care-capacities2", 
+  "title": "Helping Keep Healthcare Workers Safe: Strengthening Training by Creating Digital Simulations to Supplement WHO Training Materials", 
+  "view_count": 133
+}

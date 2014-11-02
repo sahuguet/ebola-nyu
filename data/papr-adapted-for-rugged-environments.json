@@ -1,0 +1,38 @@
+{
+  "applause_count": 2, 
+  "author": "Daniel Clohossey", 
+  "comment_count": 3, 
+  "comments": [
+    {
+      "applaud": "0", 
+      "auhtor": "Alexander Martin", 
+      "date": "October 21, 2014, 23:08PM", 
+      "message": "\n    \tSolar powered? Maybe line the exposed surfaces with photoelectric cells.\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "OpenIDEO", 
+      "date": "October 20, 2014, 17:49PM", 
+      "message": "\n    \tHi Daniel, interesting post! Any chance you could find an image to go along with it? Images help grab attention and tell a story with higher impact. You should be able to use the Update Entry button on the right of your post and follow the instructions to add images from there. We know occasionally people have issues uploading images so let us know by hitting the Feedback button at the bottom of most pages of our site if you face any problems. Looking forward to seeing more of your inspiring insights on OpenIDEO. And here's some tips on adding visual goodness to your idea: http://ideo.pn/vis-uals plus more on evolving your thought-starter: http://ideo.pn/oi-evolve\n"
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Daniel Clohossey", 
+      "date": "October 21, 2014, 02:38AM", 
+      "message": "\n    \tI uploaded a sample file - one of many I found by searching on Powered Air Purifying Respirators in Google Images.\n    "
+    }
+  ], 
+  "description": "<div class=\"description\">\n            I've said all I have to say above\n        </div>", 
+  "id": "https://openideo.com/challenge/fighting-ebola/ideas/papr-adapted-for-rugged-environments", 
+  "media": [
+    {
+      "src": "//d3gyq8wptu1by3.cloudfront.net/media/25054a59-8bb2-4e0f-a4f9-ed67ba55a02e.jpg", 
+      "type": "image"
+    }
+  ], 
+  "submitted": "October 18, 2014, 02:03AM", 
+  "summary": "I have read about PAPR (Powered Air Purifying Respirators) as an enhanced solution for PPE - more comfortable and more protective.  However, they require power (batteries) which need a charging source which is not scalable in remote (rugged) environments.  Since this equipment already works, it seems to me an adaptation which would realistically allow expanded use in West Africa would be a useful enhancement that might be developed fairly quickly.    My understanding is the gap in ability to keep the batteries charged is a real drawback in areas without consistent power generation/source.   Someone should be able to solve this problem?", 
+  "tag": "/challenge/fighting-ebola/ideas#mission-strengthen-health-care-capacities2", 
+  "title": "PAPR adapted for rugged environments", 
+  "view_count": 50
+}

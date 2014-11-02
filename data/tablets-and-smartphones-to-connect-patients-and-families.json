@@ -1,0 +1,38 @@
+{
+  "applause_count": 5, 
+  "author": "Nick Dawson", 
+  "comment_count": 3, 
+  "comments": [
+    {
+      "applaud": "0", 
+      "auhtor": "Deborah Paterson", 
+      "date": "Edited on October 14, 2014, 17:49PM", 
+      "message": "\n    \tHi Nick, great contribution. Have you thought about sanitization of these devices that come into contact with the patients and or care workers? These are still fairly expensive devices that most likely aren't readily available in some communities - how can we rotate a central unit in a sanitary way to avoid cross contamination? What other kind of support might we leverage this technology for?\n    "
+    }, 
+    {
+      "applaud": "1", 
+      "auhtor": "Nick Dawson", 
+      "date": "October 12, 2014, 14:44PM", 
+      "message": "\n    \tturns out there's some precedence for this. 26 minutes into this video, a patient video conferences with her family: http://www.pbs.org/wgbh/pages/frontline/ebola-outbreak/\n"
+    }, 
+    {
+      "applaud": "1", 
+      "auhtor": "Joe Sigrin", 
+      "date": "October 12, 2014, 19:59PM", 
+      "message": "\n    \tMakes me wonder though if we need to stop at emotional support...Could using tablet-based webcams allow HCWs to limit their rounds inside of quarantine areas, and by extension, their personal exposure risk? Sort of similar to robotics that are already being used in some American hospitals (http://www.kurzweilai.net/images/Robot-for-hospitals.png). Could ebola survivors be the \"legs\" for a physician connected by wifi-connected tablet?Taken to the extreme, I wonder if telemedicine connectivity would allow more international HCWs to give care and increase the bandwidth of local health centers without increasing exposure risk.\n    "
+    }
+  ], 
+  "description": "<div class=\"description\">\n            Isolation is not only a serious human factor, it can effect chances of survivorship. Survivors, who are thought to be immune, could coordnate the setup and connection of wifi or bluetooth enabled tablets to the bedside of patients.\u00a0\n<br/>\n<br/> On the outside, families could have video visits with their loved ones.\u00a0\n        </div>", 
+  "id": "https://openideo.com/challenge/fighting-ebola/ideas/tablets-and-smartphones-to-connect-patients-and-families", 
+  "media": [
+    {
+      "src": "//d3gyq8wptu1by3.cloudfront.net/media/4435b73e-fbaa-4a46-bc31-f85856c458ec.jpg", 
+      "type": "image"
+    }
+  ], 
+  "submitted": "October 11, 2014, 20:18PM", 
+  "summary": "Have immune survivors take video conferencing devices to the bedside so families on the outside of wards can communicate with their loved ones. Tablets should use bluetooth and wifi.", 
+  "tag": "/challenge/fighting-ebola/ideas#mission-strengthen-health-care-capacities2", 
+  "title": "Tablets and Smartphones to connect patients and families", 
+  "view_count": 191
+}

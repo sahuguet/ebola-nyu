@@ -1,0 +1,32 @@
+{
+  "applause_count": 3, 
+  "author": "Kelsey D'Souza", 
+  "comment_count": 2, 
+  "comments": [
+    {
+      "applaud": "1", 
+      "auhtor": "Seema Tariq", 
+      "date": "October 31, 2014, 18:28PM", 
+      "message": "\n    \tWe need to build a simple test template with just enough inputs for the Health worker. maybe the name, location/address/ and numerical list of symptoms eg 1= fever, 2=diarrhea, 3= Ebola contact history.. something simple so data can be easily collated  for analysis.. Just an idea..\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Andr\u00e9 Fernandes", 
+      "date": "October 31, 2014, 12:28PM", 
+      "message": "\n    \tHi Kelsey, for your prototype, check this idea of mTrac, already used in Uganda including SMS messages: https://openideo.com/challenge/fighting-ebola/ideas/mtrac-unicef-a-mobile-based-case-on-monitoring-ugandaOther app to take a look, RapidPro developed by a rwandan company in partnership with UNICEF: https://openideo.com/challenge/fighting-ebola/ideas/rapidpro-unicef-a-simple-app-to-enhance-communication\n"
+    }
+  ], 
+  "description": "<div class=\"description\">\n            website-in-process:\u00a0http://ebohub.herokuapp.com/admin/\n<br/>\n<br/> Breakdown:\n<br/> CIVILIAN\n<br/> 1. One blast text sends short informative message on ebola symptoms and why one should get help. Text in location -&gt; healthcare worker notified, and database updated with new case\n<br/> 2. SMS line with civilian then let's them know help is on the way, via phone call or physical checkup, provides helpline call #\n<br/>\n<br/> HEALTH WORKER\n<br/> 1. Recieves daily to-do list based on assigned chiefdom (as a part of local government's surveillance system, workers are assigned specific areas on a daily basis)\n<br/> 2. Updates case information by texting key and case ID with new status\n<br/> 3. Adds contacts and new cases in similar manner\n<br/> 4. If multiple workers are assigned to one chiefdom, service makes 'smart' assignments\n<br/> 5. If worker logs new infected case, gets response with closest compatible medical centers and bed availabiltiy\n<br/> 6. Provide diagnosis intsructions for worker if needed\n<br/>\n<br/> HOSPITALS\n<br/> 1. One-time log location and if accepting ebola cases\n<br/> 2. Update bed availability via text\u00a0\n<br/> 3. If pop-up, update when shut down\n<br/>\n<br/> BEHIND THE SCENES\n<br/> 1. Cases are added, updated, contacts linked to cases\n<br/> 2. If contact becomes ill, back traces their contacts\n<br/> 3. If suspect becomes ill, forwards traces through contacts\n<br/> 4. Hospitals linked with a location and current bed space\n<br/>\n<br/> ------------\n<br/> Right now, surveillance data is recorded on paper to little avail; not enough people are available to log the information. Cases and contacts are lost. My providing a quick text-in service for workers, surveillance can be centralized, organized, and the resources available will be used the most efficiently.\u00a0\n<br/>\n<br/> ------------\n<br/> This service requires information from medical centers, healthcare workers, and civilian input. We assume GPS is unavailable, so the service prompts civilians and workers for their location (chiefdom), with chiefdom information already logged in database.\n<br/>\n<br/> Questions to consider:\n<br/> - security\n<br/> - prioritization of cases\n<br/> - willingness of civilians to use service\n<br/>\n<br/> Service only recognizes workers registered in database -- first line of security. Only registered workers can access and update information. But who else needs access to the database?\n<br/>\n<br/> Project created as an effort of the Ebola Design Challenge hosted by Columbia University 10.2.14\n        </div>", 
+  "id": "https://openideo.com/challenge/fighting-ebola/ideas/sms-civilian-helpline-and-disease-surveillance-system", 
+  "media": [
+    {
+      "src": "//d3gyq8wptu1by3.cloudfront.net/media/5b5a8ace-b080-4370-8143-edeba94f0a3c.png", 
+      "type": "image"
+    }
+  ], 
+  "submitted": "October 29, 2014, 06:29AM", 
+  "summary": "Education and social outreach combined with proper surveillance is the best tool for combating infectious disease. EboHub is a developing SMS-based mobile health service that connects local communities and health professionals to a single database to coordinate Ebola response. The West African countries affected by ebola have high cellular network coverage but lack smart phones and data access, hence the use of SMS.The service aims to provide:- text-in helpline service- auto alert nearest worker with confirmed case- workers update and add cases/contacts- give info on nearest ebola treating medical center with openings- send worker daily todo lists- forwards and backwards contact tracing- mapping of cases", 
+  "tag": "/challenge/fighting-ebola/ideas#mission-boost-exposure-tracking-and-communication-abilities1", 
+  "title": "SMS Civilian Helpline and Disease Surveillance System", 
+  "view_count": 139
+}

@@ -1,0 +1,26 @@
+{
+  "applause_count": 1, 
+  "author": "John Nevin", 
+  "comment_count": 1, 
+  "comments": [
+    {
+      "applaud": "0", 
+      "auhtor": "OpenIDEO", 
+      "date": "October 15, 2014, 22:11PM", 
+      "message": "\n    \tHi John, interesting post! Any chance you could find an image to go along with it? Images help grab attention and tell a story with higher impact. You should be able to use the Update Entry button on the right of your post and follow the instructions to add images from there. We know occasionally people have issues uploading images so let us know by hitting the Feedback button at the bottom of most pages of our site if you face any problems. Looking forward to seeing more of your inspiring insights on OpenIDEO. And here's some tips on adding visual goodness to your idea: http://ideo.pn/vis-uals plus more on evolving your thought-starter: http://ideo.pn/oi-evolve\n"
+    }
+  ], 
+  "description": "<div class=\"description\">\n<ul>\n<li>This idea revolves around the use of experimental drugs on patients. In situations of life-or-death, there is no time for testing drugs in labs and animals to determine if they are safe. As a result, certain drugs used to treat Ebola are relativley unknown and untested, such as ZMapp.\u00a0\u201cThe plain fact is that we don\u2019t know whether that treatment is helpful, harmful, or doesn\u2019t have any impact,\u201d Frieden says. \u201cAnd we\u2019re unlikely to know from two or a handful of patients whether it works\u201d (Science Insider).\u00a0</li>\n<li>Doctors need to be as mobile and treat as many patients as possible in order to be effective. This means they must be able to monitor patients when not present. There simply are not enough doctors in Africa to treat every infected person. The mobile tracking device will allow doctors to see results without actually being physically with a patient, increasing their mobility to help others, and thus being more effective.</li>\n<li><strong>Questions for the Community:</strong></li>\n</ul>\n<ol>\n<li><strong>\u200b</strong>Due to the social, political, and religious differences within and between countries, how does this affect: the willingess of certain individuals or groups to accept help from western forces; travel and mobility; the safety of treatment camps.\u00a0</li>\n</ol>\n</div>", 
+  "id": "https://openideo.com/challenge/fighting-ebola/ideas/collecting-results-on-potential-drugs-to-determine-the-most-effective-treatment-using-a-mobile-tracking-device-for-ebola-patients", 
+  "media": [
+    {
+      "src": "//d3gyq8wptu1by3.cloudfront.net/media/71cf0d14-6ba0-4c4b-9d5b-9b634d785029.png", 
+      "type": "image"
+    }
+  ], 
+  "submitted": "October 15, 2014, 19:15PM", 
+  "summary": "How might we create ways for doctors to better track the effects of drugs on infected patients? Because there can be no control groups when it comes to testing, it is difficult to know the effectiveness of a potential drug. What works on one group of people may not work on another elsewhere. A database that records which drug was tested, on whom and why is a start, but the missing word is how. Using a mobile device on consenting patients to track vitals, doctors can see the results of drugs over time and place, which will be recorded on the database.  Then doctors can consult it to determine what \"active ingredients\" in drugs have the greatest effect on treating Ebola, and use that knowledge to create more effective drugs.", 
+  "tag": "/challenge/fighting-ebola/ideas#mission-boost-exposure-tracking-and-communication-abilities1", 
+  "title": "Collecting Results on Potential Drugs to Determine the Most Effective Treatment using a Mobile Tracking Device for Ebola Patients", 
+  "view_count": 62
+}

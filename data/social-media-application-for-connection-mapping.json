@@ -1,0 +1,33 @@
+{
+  "applause_count": 2, 
+  "author": "Doug Hogan", 
+  "comment_count": 3, 
+  "comments": [
+    {
+      "applaud": "0", 
+      "auhtor": "OpenIDEO", 
+      "date": "October 20, 2014, 17:47PM", 
+      "message": "\n    \tHi Doug, interesting post! Any chance you could find an image to go along with it? Images help grab attention and tell a story with higher impact. You should be able to use the Update Entry button on the right of your post and follow the instructions to add images from there. We know occasionally people have issues uploading images so let us know by hitting the Feedback button at the bottom of most pages of our site if you face any problems. Looking forward to seeing more of your inspiring insights on OpenIDEO. And here's some tips on adding visual goodness to your idea: http://ideo.pn/vis-uals plus more on evolving your thought-starter: http://ideo.pn/oi-evolve\n"
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Karen Nahra Waters", 
+      "date": "October 17, 2014, 15:53PM", 
+      "message": "\n    \tAre you thinking something along the lines of what LinkedIn did with InMaps?\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Doug Hogan", 
+      "date": "October 17, 2014, 16:39PM", 
+      "message": "\n    \tI honestly hadn't even thought of that, but yes that's exactly I'm thinking. Great idea! I especially like how InMaps color coded their connection maps. This could be very helpful in quickly identifying danger zones from a far and make even a very dense map quite readable.\n    "
+    }
+  ], 
+  "description": "<div class=\"description\">\n            After the user volunteers to share their personal friends list, a private connection report in the form of a map would show how many degrees you are removed from a potentially infected patient and/or infection zones (fairs, flights, etc.). This would also go so far as to also compare other things to find infection connections with where their friends' work (health care workers for example), places they've checked in, or where they drop off their kids for daycare in relation to information the app finds on your own personal profile.\n<br/>\n<br/> An assessment would then be made to the users level of potential risk of infection. Which would give the users they need to know to either take precautions or simply ease panic.\n<br/>\n<br/> This information this app creates could then be shared to their friends news feed, send an email to the CDC, or just privately discarded.\n<br/>\n<br/> The beauty of this type of application is in the crowdsourcing aspect of personal connection mapping. This is one of the hardest jobs for CDC workers and one that taxes a lot of resources.\n        </div>", 
+  "id": "https://openideo.com/challenge/fighting-ebola/ideas/social-media-application-for-connection-mapping", 
+  "media": [], 
+  "submitted": "October 16, 2014, 19:53PM", 
+  "summary": "Social media network users, i.e. Facebook, could use an app built in the Facebook API to voluntarily find possible infection connections between them, the people they know, their secondary connection friends, and people/places who have been reported as potentially infected.", 
+  "tag": "/challenge/fighting-ebola/ideas#mission-boost-exposure-tracking-and-communication-abilities1", 
+  "title": "Social Media Application for Connection Mapping", 
+  "view_count": 42
+}

@@ -1,0 +1,224 @@
+{
+  "applause_count": 8, 
+  "author": "Nfn They", 
+  "comment_count": 32, 
+  "comments": [
+    {
+      "applaud": "0", 
+      "auhtor": "Rainer Winkler", 
+      "date": "October 23, 2014, 20:58PM", 
+      "message": "\n    \tHi They, i looked a bit further, this are the specifications of a typical PPE clothing: http://www2.dupont.com/Personal_Protection/en_GB/products/tychem/tychem-tychem-c-technical-data.html#fabric They also specify the strength of the material, I would say it is critical that the backpack never exceeds the specified strength of the material.But you made me thinking about cooling part of the PPE. If an area of 0.2 m^2 is cooled with a temperature difference of 10K, the heat flow through the PPE should be in the order of a few hundred Watt. And the temperature would probably be high enough, so that the material does not loose its mechanical properties.But still you have to transport this few hundred Watt from the skin to the cooled area. Here I have only venting and condensing sweat as workable Idea in my mind.With kind regardsRainer\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Nfn They", 
+      "date": "October 24, 2014, 03:41AM", 
+      "message": "\n    \tThank you Rainer. Well thought out.I have been focusing on perspiration as the distributing medium.In my tests using ice packs, gel packs and multi-layer materials to simulate environment, I've found that the body does a good job of regulating itself under and around the contact point. i.e. when cooler, less sweat, less contact and vice versa.I'm in south Texas, simulating Africa heat has not been a problem. :/\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Rainer Winkler", 
+      "date": "October 23, 2014, 20:10PM", 
+      "message": "\n    \tHi They, a dry ice block 1'H X 10\"W X 3~4\"D weights with a density of 1.5g/cm^3 (Sorry for the metric units) about 0.86kg. With a latent heat of sublimation for dry ice of 571 kJ/kg, it can absorb an energy of 491 kJ. If this is done over 10 hours, the heat flow would be 491000 J / 36000 s = 13W. This is far to small to cool a health worker in a protective clothing. He will produce about 100 W of energy at rest, if he is active maybe 300 W or more. So the heat transfer has to be much faster.Further, I doubt whether a person can be effectively cooled over such a small surface. Typical cooling garments cover much greater parts of the body (https://en.wikipedia.org/wiki/Liquid_Cooling_and_Ventilation_Garment).Interesting is the idea to have something cold on the outside of the PPE, and to transfer the heat energy at this part of the garment to the outside. Supposed it is possible to cool the inside of the PPE under the backpack so efficient, that water condensate easily, this may be one peace of a workable solution. Together with a workable ventilation of the skin, it would make the climate inside the PPE much more pleasant.We should keep in mind, that constructors have to tackle with many details. Some can be seen in advance, others are found only while testing. The material of the PPE may be weeker if it cooled. If a backpack is worn over the PPE, this may cause the material to fail. Even a few ruptures in a PPE while the system is tested, may cause the health care workers to fear using it. ... Even if the problem is now solved.With kind regards,Rainer\n    "
+    }, 
+    {
+      "applaud": "1", 
+      "auhtor": "Evelina Cohn Ph.D.", 
+      "date": "October 22, 2014, 14:00PM", 
+      "message": "\n    \tThis is a very nice solution. It is coming along very well with my protection material based on nanopores filled with a high  salt solution to destroy the capsid of Ebola and expel the RNA which will be neutralized. Are you interested in a collaboration with me?\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Nfn They", 
+      "date": "October 26, 2014, 01:41AM", 
+      "message": "\n    \tThank you.You have my interest as you've explained you project...makes perfect sense. I'd like to know more.(refs pls?)Once I spool up on your work in detail, I'd be pleased to work with you.\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Rik Ganju", 
+      "date": "October 16, 2014, 04:26AM", 
+      "message": "\n    \tIF this gets going please see my Research post \"$120,000 research grade thermal camera....\" if you need a team member\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Nfn They", 
+      "date": "October 16, 2014, 04:49AM", 
+      "message": "\n    \tWhat's a team member?\n    "
+    }, 
+    {
+      "applaud": "1", 
+      "auhtor": "Nfn They", 
+      "date": "October 16, 2014, 03:31AM", 
+      "message": "\n    \tYou know what? I've been thinking; These CoolPacks could have other uses.Perhaps Bike riders, Construction workers, Fire/Rescue, Hikers , etc. could keep their cool when out in hot environments.A thinking person could make and market these for personal use, and the funds from these sales would more than pay for the Hazmat-purposed units. ...just a thought.\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Jay Buckalew", 
+      "date": "October 23, 2014, 14:21PM", 
+      "message": "\n    \tgreat idea ! If we can help you along the way let us know.... We have this thousands of customers using our mobile cooling solutions... http://www.coolshirt.com\n"
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Nfn They", 
+      "date": "October 23, 2014, 17:13PM", 
+      "message": "\n    \tThank you Jay.Yes you can.I'll be in direct contact with you asap.\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Nfn They", 
+      "date": "October 15, 2014, 16:57PM", 
+      "message": "\n    \tNevermind about the upload error thing. It's still broken, but I found a different way. :)\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Nfn They", 
+      "date": "October 15, 2014, 05:50AM", 
+      "message": "\n    \tNOTE: Trying to add illustrations, but I get \"unexpected error\" message.Advise?\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Deborah Paterson", 
+      "date": "October 15, 2014, 15:39PM", 
+      "message": "\n    \tHi Nfn, at what point are you getting the error? You can email our help desk at hello@openideo.com if you need further assistance :)\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Samuel Alexander", 
+      "date": "October 15, 2014, 15:54PM", 
+      "message": "\n    \tYes, I'm trying to upload .jpeg. .gif of design illustrations with error message as well.\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Nfn They", 
+      "date": "October 15, 2014, 16:14PM", 
+      "message": "\n    \tIt's when I try to add a photo. I choose \"Upload Photo\", \"Choose File\", \"Open\".It shows like it's uploading for a few seconds, then stops, showing \"Unexpected Error\".Tried several formats and file sizes. No go.\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Deborah Paterson", 
+      "date": "October 13, 2014, 20:47PM", 
+      "message": "\n    \tHi Nfn, thanks for sharing! Can you describe for the community a little more about how you envisioned the freezing would occur on a mass scale in these extremely hot environments? What kind of support mechanisms would be needed to support this? Can we achieve a similar cooling effect in a simpler way? How might we balance the heat transfer over an extended period of time to manager comfort? Feel free to put questions out to the community about what you think you need to develop this idea further. Good luck!\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Nfn They", 
+      "date": "October 15, 2014, 04:47AM", 
+      "message": "\n    \tHi Deborah, good questions. I didn't want to get into too much detail (something I'm prone to do I'm told ;) ) for brevity sake.The reason I chose Dry Ice is it's versatility. It's light-weight for it's mass, long-lasting, requires only reasonable insulation for storage/transport.My understanding is most of the clinics have generators, which could add refrigeration for DI storage. Other more remote locations could be supplied by ground transportation and airdrop.DI is readily available, and straight-forward to produce in mass.The backpacks themselves should be insulated on all exposed sides. You should incorporate a Glycerin-based 'fluid' layer between the DI and the Thermal transfer plate that makes actual contact with the suit. This fluid layer could be a flat series of gel-packs to act as the buffer between the DI and the contact plate.This would be the most efficient.The beauty of this is concept is it doesn't rely on any special technology. All that's needed is some stock backpacks, modified to accommodate the new objective.This again, is a very low-cost, rapidly deployable means to cool these suits.I project that a 1'H X 10\"W X 3~4\"D DI block will provide cooling for 8~12 hours.(Note: A \"variable\" estimate, having done only preliminary study of materials and anticipated climate environment.) If you would like intricate design details, and how to implement them in the field, I can provide that information.In addition, if I can be of any personal assistance with this project, I would be pleased to help.Lastly, I would point out the obvious -- a lot of people are in trouble right now...they're fighting for their lives. Their fighting for OUR lives. And we can help.We need to get any and all means made available to them as quickly as possible. so they can work with at least some level of comfort.This concept will work guys, it's simple and quick.I sincerely hope you are able to move in real-time, and not get caught in bureaucracy.Let me know if you have further questions.I'll be standing by.\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Nfn They", 
+      "date": "October 15, 2014, 04:53AM", 
+      "message": "\n    \tOne other thing; the contact plate should be made of Aluminium, and can be rolled out and stamp-cut in mass. No problem.\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Samuel Alexander", 
+      "date": "October 15, 2014, 16:12PM", 
+      "message": "\n    \tWhat do you estimate the temperature of the contact plate would be after several hours of use ?\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Nfn They", 
+      "date": "October 15, 2014, 16:39PM", 
+      "message": "\n    \tMind you, there are many variables involved, but without being too technical, Dry Ice maintains -109.3 degrees F (-78.5 C) A constant \"barrier layer\" is created by sublimation (solid turning into gas). This acts as the first temperature buffer layer, it isn't much, but it's a start. The Glycerin gel packs will buffer the temp significantly, \"warming\" the temp to around 10~15 degrees F.As the radiant cooling effect is transferred through to the contact back- plate, that temp should reach  around 50 degrees F.Add a few layers of clothing (t-shirt/scrubs), Haz suit layer, etc., and the end temp should be a comfortable 70~75 deg F.The final contact event, perspiration, will self-regulate and distribute the temperature differential throughout the body's core.Any \"adjustment\" of temperature transfer can be easily controlled by either adding or removing  layers of insulation between the Ice and the gel pack layer.(Use Styrofoam)Simple! :)\n    "
+    }, 
+    {
+      "applaud": "2", 
+      "auhtor": "Joseph Thurakal", 
+      "date": "October 16, 2014, 07:52AM", 
+      "message": "\n    \tthis feels kind of similar to what these folks were discussing: https://openideo.com/challenge/fighting-ebola/ideas/active-or-passive-cooling-built-into-ppe-clothing-or-worn-underneathIn their thread, someone pointed out that there is a potential commercial solution out there: http://coolshirt.com/.  It might be good to consult with or reach out to them.\n    "
+    }, 
+    {
+      "applaud": "1", 
+      "auhtor": "James Gien Varney-Wong", 
+      "date": "October 16, 2014, 20:20PM", 
+      "message": "\n    \tIt's a good idea and years ago, in the steel industry, they've designed such cooling garments already. Firefighters use them as well for the intense heat they encounter:http://www.mscooling.com/industrial-workersis an example of one of these. They really should be using these in West Africa because the stories from health care workers consistently mention unbearable heat. These should be standard issue for the health workers so they can avoid the unrelenting heat.\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Nfn They", 
+      "date": "October 18, 2014, 18:40PM", 
+      "message": "\n    \tHi James, I know of that product.I don't find that design feasible for many reasons.First, it's a unit that must be worn underneath the Haz suit. With an cooling time of 3 hours, it doesn't leave much time for actual work when it can take 30 minutes or so just to put on their suits.Between suit-up and removal, true operational work time would likely be reduced to two hours or less. working time would also be impacted by the constant high heat of the workers environment.Second, This system relies of Gel-packs as the primary means of cooling. This means refrigeration MUST be available at ALL work stations. Not feasible for more remote locations.Dry Ice can be easily made, transported and stored much more efficiently, and can even be air-dropped to remote locations.Lastly, the cooling system at best, gives 3 hours of useful work time.My CoolPak design will last for 8+hours per shift.Also, being that my CPK system is worn OUTSIDE the Hazsuit, changing/recharging the DI blocks is instant.\n    "
+    }, 
+    {
+      "applaud": "1", 
+      "auhtor": "James Gien Varney-Wong", 
+      "date": "October 18, 2014, 19:35PM", 
+      "message": "\n    \tYour design definitely sounds like it's more appropriate for the conditions of West Africa. Is it just an idea at this stage or can it be prototyped? It doesn't look too difficult the design.\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Nfn They", 
+      "date": "Edited on October 18, 2014, 22:34PM", 
+      "message": "\n    \tSir, I know exactly how to design and build this system. I know where to source the materials and establish manufacturing.With funding, I can have a field-ready prototype in two weeks from \"go\". Another week maybe two to tweak any unforeseen variables while simultaneously defining protocol procedures for users in the field.If no major anomalies are found, The material supply entities will be already advised, and should be ready to go in real time.In short, I'm pretty confident we can have at least 1,000 units per manufacturer.If all goes according to plan (see murph...) I plan to have several manufacturers in the loop as during the proto stage. This will minimize \"spool-up\" time when a final design configuration is signed-off.The result would be say, if I hook up 5 manufacturers, theoretically we could have 5,000 units in field within 30~60 days max.The beauty of this is, it a \"Textile\"-based manufacturing process-they're fast movers, flexible, and EVERYWHERE.Guys, there's really nothing complicated about this -- start with a chosen commercial backpack. Cut a 3~4\" hole in the back.Build an inner Insulation box out of Styrofoam (back having a matching 3~4\" hole.Attach Thermal Transfer Plate assembly from common parts that can be rapidly stamped out.Press in a threaded nut at the center.Add folding wing-nut to attach.Make flat bags with Gel packs to size. Insert between TTP (i love acronyms, makes me sound like i know what i'm talking about) Insert Dri Ice (DI) block sized to fit.Go to work.Oh, and for those who are rightly wondering about the units being contaminated (given the units are external and all), there is no reason the units cannot be COMPLETELY IMMERSED IN BLEACH SOLUTION between uses or for maintenance.Note; One thing to keep in mind is these units will be out-gassing CO2. Normally this will be a non-issue, but should be addressed to consider say twenty or so Technicians working in any enclosed areas.This shouldn't be an issue given ventilation is almost a certainty in any enclosed areas. However, noting and responding for that contingency will prevent any \"oops\" stories later.\n    "
+    }, 
+    {
+      "applaud": "1", 
+      "auhtor": "James Gien Varney-Wong", 
+      "date": "Edited on October 19, 2014, 07:13AM", 
+      "message": "\n    \tHey Nfn, I contacted MSF yesterday. They have a main office in Johannesburg where I live. They are, of course the main people fighting Ebola in West Africa. I'll  call their Johannesburg office tomorrow to try to get hold of someone to discuss what we are doing here on IDEO and also bring up your idea and see if they are interested in trying it out. If we can get their buyin (since their doctors and careworkers will be the ones wearing it) that will provide good motivation to take it to the next step. I'm basically making a mindmap of all the ideas on IDEO and seeing if we can form a partnership with them. Your idea will be in the mindmap and fall under the category. PPE - environmental  - cooling pack to relieve heat stress.\n    "
+    }, 
+    {
+      "applaud": "1", 
+      "auhtor": "Nfn They", 
+      "date": "October 19, 2014, 16:03PM", 
+      "message": "\n    \tThat's exactly what's needed. I hope the response is quick.These brave men an women are working in unbearable conditions as we speak.Time is NOT our friend. We need to move as rapidly as we can with any support we can bring.I'll be standing by to answer any questions as they develop.\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "James Gien Varney-Wong", 
+      "date": "October 19, 2014, 17:36PM", 
+      "message": "\n    \tThere's another fellow with a brilliant idea: the isolation bed:https://openideo.com/challenge/fighting-ebola/research/pop-up-tents-for-isolating-patients-in-the-community-modified-to-allow-treatment-and-safer-disposal-of-infectious-wastebut he's facing scaling up / production challenges. If we formalize into a formal organization, we will get more buyin. I have two companies of my own here in South Africa, a social enterprise and an NPO so we can possibly use these registered companies as a formal vehicle to work with other companies if that will help. As you probably know, a lot of companies are reticent to deal with individuals.  I'm just making the offer in case there are bottlenecks.\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Nfn They", 
+      "date": "October 22, 2014, 02:16AM", 
+      "message": "\n    \tBTW guys, my first name isn't \"nfn\". That stands for \"no first name\".(I have to put something in the first name field)My name is just \"They\".Google: \"man changes his name to They\", for background.  :)\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Jay Buckalew", 
+      "date": "October 23, 2014, 21:03PM", 
+      "message": "\n    \tgreat chatting with you They... Looking forward to speaking further on working together .\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Nfn They", 
+      "date": "Edited on October 28, 2014, 05:17AM", 
+      "message": "\n    \tAs am I Jay, real pleasure speaking with you.Gotta say, I love where your technologies are going. Smart stuff.Oh, I have a solution for the \"DI handling\" thing -- We'll include a set of Oven Mitts with each shipment. Consider it an \"up-sell\" item -- \"AND IF YOU ACT NOW, WE'LL INCLUDE A SET OF OVEN MITTS AT NO EXTRA CHARGE!\"Could be the very thing needed to spring-launch this project....jus kiddingActually, I've been thinking about the sublimation and CO2 out-gassing issue;Perhaps adding a filter layer of Activated Carbon would be effective?I'm not sure of duration, much would depend on design/mass, etc., but it would no doubt have a positive effect on reducing emissions.\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Jay Buckalew", 
+      "date": "October 28, 2014, 10:13AM", 
+      "message": "\n    \tgood idea ! .... We added a study that was done at The University Of Alabama and published to addresses the concerns...We also attached a image of a Fire Fighter wearing our system in a live fire test.. Those heros were 90+ lbs of bunker gear !\n    "
+    }
+  ], 
+  "description": "<div class=\"description\">\n<a href=\"http://i.imgur.com/Eahu3mf.jpg\"><img alt=\"\" src=\"http://i.imgur.com/ic6Mlri.jpg\" style=\"width: 321px; height: 346px;\"/><br/> <img alt=\"\" src=\"http://i.imgur.com/Eahu3mf.jpg\" style=\"width: 300px; height: 260px; border-width: 1px; border-style: solid;\"/></a>\n<br/>\n<br/>\n<img alt=\"\" src=\"http://i.imgur.com/2aYn6ca.jpg\" style=\"width: 294px; height: 375px; border-width: 1px; border-style: solid;\"/>\n<br/> Sometimes simple is better.\n<br/>\n<br/> \u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 :)\n        </div>", 
+  "id": "https://openideo.com/challenge/fighting-ebola/ideas/quick-easy-low-cost-rapid-deploy-hazmat-suit-cooling", 
+  "media": [
+    {
+      "src": "//d3gyq8wptu1by3.cloudfront.net/media/d2c18fa3-e6cb-4d6b-9138-74e65844d4fe.jpg", 
+      "type": "image"
+    }, 
+    {
+      "src": "//d3gyq8wptu1by3.cloudfront.net/media/5560ff00-f135-4d62-8d3d-5a03b9e8a992.jpg", 
+      "type": "image"
+    }, 
+    {
+      "src": "//d3gyq8wptu1by3.cloudfront.net/media/3c73795a-49e0-4b5f-bc61-c53d59ee2f30.jpg", 
+      "type": "image"
+    }, 
+    {
+      "src": "//d3gyq8wptu1by3.cloudfront.net/media/f3c4e06f-1eec-48f9-a37e-aab98862c566.jpg", 
+      "type": "image"
+    }
+  ], 
+  "submitted": "October 10, 2014, 03:32AM", 
+  "summary": "Hey Guys, if you modify small/medium-size backpacks with a \"wicking\" material, and put ice or preferred Dry Ice, the radiant-cooling effect and Thermal Dynamics will do the job.This is an inexpensive remedy that can be rapidly deployed, including remote locations.", 
+  "tag": "/challenge/fighting-ebola/ideas#mission-surprise-us8", 
+  "title": "*Coolpak*  - Quick, Easy, Low-Cost, Rapid -Deploy HAZMAT Suit Cooling.", 
+  "view_count": 300
+}

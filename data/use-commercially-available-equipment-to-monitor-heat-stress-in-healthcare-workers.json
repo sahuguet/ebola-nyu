@@ -1,0 +1,32 @@
+{
+  "applause_count": 2, 
+  "author": "David Bush", 
+  "comment_count": 2, 
+  "comments": [
+    {
+      "applaud": "0", 
+      "auhtor": "Deborah Paterson", 
+      "date": "October 09, 2014, 20:31PM", 
+      "message": "\n    \tDavid, thanks for posting this. Is this a product you are involved in building or distributing? It would be interesting to understand how this works, so maybe if you have some more images or a video that would be great to update your post with (use the Update Entry Button on the right). How might we adapt this into a more low tech solution which doesn't require a battery pack, in order to make them easier to implement? Where would they be placed? In the health care worker's suit or somewhere in the physical space?\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "David Bush", 
+      "date": "October 10, 2014, 01:29AM", 
+      "message": "\n    \tNo, I am just a user of this particular product.  We do a bit of work with heat stress and protective suits.  When it comes to measuring core temp, there are two alternatives: a pill like this, or a rectal probe.  You can guess which one subjects like better.  We have an older unit that receives telemetry from any pills and skin temp sensors in range.  1 receiver can monitor several people with pills.  They just have to be within 20-30 feet or so.  I am not a real expert on how it works, this is more of a product recommendation based on our usage.  I would recommend that interested parties work directly with the manufacturer to tailor the best solution for the problem.  It may be that a cheaper receiver can be made if the transmission protocol from the pill or other sensors is known.\n    "
+    }
+  ], 
+  "description": "<div class=\"description\">\n            Company web site: \u00a0http://www.equivital.co.uk/\n        </div>", 
+  "id": "https://openideo.com/challenge/fighting-ebola/ideas/use-commercially-available-equipment-to-monitor-heat-stress-in-healthcare-workers", 
+  "media": [
+    {
+      "src": "//d3gyq8wptu1by3.cloudfront.net/media/a2ae4768-e43f-4e2c-8d26-3e94cdcf3d7b.png", 
+      "type": "image"
+    }
+  ], 
+  "submitted": "October 08, 2014, 19:07PM", 
+  "summary": "Having health care workers pass out from heat stress is obviously no good for anyone.  We monitor heat stress using an older Equivital system.  It uses core temp pills and can also pick up heart rate (two key indicators of heat stress).  The beauty of the system for Ebola is that the system can be remotely monitored from a non-hot zone (cold zone maybe?).  We usually stop tests when core temp hits 102F, but you probably wouldn't want to do that on a regular basis to health care workers.  Maybe pull them out at 101F, cool them down for an hour or so and send them back in.  It is all commercially available and ready to go.", 
+  "tag": "/challenge/fighting-ebola/ideas#mission-strengthen-health-care-capacities2", 
+  "title": "Use commercially available equipment to monitor heat stress in healthcare workers.", 
+  "view_count": 56
+}

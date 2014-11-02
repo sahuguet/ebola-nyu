@@ -1,0 +1,33 @@
+{
+  "applause_count": 4, 
+  "author": "scott Powers", 
+  "comment_count": 3, 
+  "comments": [
+    {
+      "applaud": "0", 
+      "auhtor": "Jab Thorn", 
+      "date": "October 17, 2014, 04:41AM", 
+      "message": "\n    \tSounds promising but right now I'm seeing that it can tell dog mitochondria from human mitochondria.  Virus do not have these so the process would have to tell something different.  Perhaps the virus changes the mitochondria enough that the test could tell if it has been compromised.\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "scott Powers", 
+      "date": "October 22, 2014, 11:38AM", 
+      "message": "\n    \tWhile differentiating mitochondrial DNA origin was they toy example they used, you could design a similar assay for any oligo targets.  What would be useful is designing a set of probes for the most conserved regions in Ebola that do not align with anything else in the sample.\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "OpenIDEO", 
+      "date": "October 16, 2014, 16:14PM", 
+      "message": "\n    \tHi Scott, interesting post! Any chance you could find an image to go along with it? Images help grab attention and tell a story with higher impact. You should be able to use the Update Entry button on the right of your post and follow the instructions to add images from there. We know occasionally people have issues uploading images so let us know by hitting the Feedback button at the bottom of most pages of our site if you face any problems. Looking forward to seeing more of your inspiring insights on OpenIDEO. And here's some tips on adding visual goodness to your idea: http://ideo.pn/vis-uals plus more on evolving your thought-starter: http://ideo.pn/oi-evolve\n"
+    }
+  ], 
+  "description": "<div class=\"description\">\n            Utilize paper microfluidics (http://www.mf20.org/) to develop a fast and simple detection assay. \u00a0Ideally this should be cheap to manufacture in bulk as well as require minimal resources for storage. \u00a0Additionally the device must be simple enough to use and read results from those with minimal training to utilize. \u00a0The goal would be to rapidly identify cases prior to becoming symptomatic for those at high risk.\n        </div>", 
+  "id": "https://openideo.com/challenge/fighting-ebola/ideas/fast-easy-and-cheap-assay", 
+  "media": [], 
+  "submitted": "October 16, 2014, 12:06PM", 
+  "summary": "Utilize paper microfluidics (http://www.mf20.org/) to develop a fast and simple detection assay.  Prior work has shown the ability to detect sequences using bead bound oligos (http://pubs.acs.org/doi/abs/10.1021/ac403196b).", 
+  "tag": "/challenge/fighting-ebola/ideas#mission-boost-exposure-tracking-and-communication-abilities1", 
+  "title": "Fast, easy and cheap assay", 
+  "view_count": 46
+}

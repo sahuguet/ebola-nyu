@@ -1,0 +1,44 @@
+{
+  "applause_count": 3, 
+  "author": "Thomas", 
+  "comment_count": 4, 
+  "comments": [
+    {
+      "applaud": "1", 
+      "auhtor": "Thomas", 
+      "date": "October 26, 2014, 16:37PM", 
+      "message": "\n    \tRebecca, Yes. The idea is that a transparent box is mounted on the personal transporter allowing for 360 degrees field of vision. This allows for improved bedside manner (direct patient / medical professional eye contact), improved diagnoses (medical professional can observe entire patient better than with a hood) and transport safety (medical professional can steer around obstacles).\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Rebecca Buechel", 
+      "date": "October 26, 2014, 18:29PM", 
+      "message": "\n    \tdo you need the personal transporter ? seems like it might be unstable in a field hospital ? Why not just walking ? (with your transparent rolling work station on  universal directional furniture rollers: http://www.alibaba.com/product-detail/rubber-universal-directional-casters-for-furniture_1642714016/showimage.html\n"
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Thomas", 
+      "date": "October 29, 2014, 01:42AM", 
+      "message": "\n    \tRebecca, My  thought was that an enclosed personal transport device would eliminate the need for the Medical Provider to suit up in PPE. The Personal Transporter can be stable in rough terrain and sterilized with while the Medical Provider waits inside before stepping down. I am not sure how a rolling work station would work so please elaborate.\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Rebecca Buechel", 
+      "date": "October 26, 2014, 15:49PM", 
+      "message": "\n    \tIt can include a transparent plastic wall for eye contact ?\n    "
+    }
+  ], 
+  "description": "<div class=\"description\">\n            How could the benefits of increased Medical Provider productivity (# of Patients seen per day) be measured?\n<br/>\n<br/> Can Personal Transporter device batteries be powered with solar energy?\n<br/>\n<br/> Would a car-wash like disinfecting system be appropriate for this Transporter as well as a manual pressure-pump sprayer?\n        </div>", 
+  "id": "https://openideo.com/challenge/fighting-ebola/ideas/to-avoid-the-many-drawbacks-of-ppe-whenever-possible-use-a-different-care-setting-instead-the-idea-is-to-create-a-mobile-unit-from-which-medical-personnel-can-do-their-job-efficiently-safely-and-effectively", 
+  "media": [
+    {
+      "src": "//d3gyq8wptu1by3.cloudfront.net/media/a54940ce-b3d5-4f9d-97fa-b31b05df2220.PNG", 
+      "type": "image"
+    }
+  ], 
+  "submitted": "October 21, 2014, 04:40AM", 
+  "summary": "PPE has drawbacks galore. PPE limits mobility and promotes heat exhaustion, don / doff procedures take excessive time, energy and acrobatic skill (ie balancing on 1 foot while removing a bootie on the other foot!). Sometimes procedures make no sense: if Providers are supposed to disinfect each other in pairs, who cleans the cleaner? PPE provides too many surfaces in which contaminated body fluid can collect. Will the weak pressure of the disinfecting spray really work? The only way to address all these issues and others is by avoiding PPE. Instead, a mobile Personal Transporter can be modified to create a Medical Provider Transporter that is safer, enables higher quality care and can increases Provider productivity v. PPE.", 
+  "tag": "/challenge/fighting-ebola/ideas#mission-strengthen-health-care-capacities2", 
+  "title": "To avoid the many drawbacks of PPE, whenever possible use a different care setting instead. The idea is to create a mobile unit from which Medical Personnel can do their job efficiently, safely and effectively.", 
+  "view_count": 66
+}

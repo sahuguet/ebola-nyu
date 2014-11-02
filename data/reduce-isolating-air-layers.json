@@ -1,0 +1,19 @@
+{
+  "applause_count": 1, 
+  "author": "Rainer Winkler", 
+  "comment_count": 0, 
+  "comments": [], 
+  "description": "<div class=\"description\">\n            By some technique, in cases where a distance high enough for connvection cannot be acchieved, the air gap between PPE and clothing or skind shall be as small as possible.\u00a0\n<br/>\n<br/> This may reduce the effective outer surface of the PPE, so it should be assessed whether this really increases the total heat transfer.\n<br/>\n<br/>\n<em>This is not an innovative idea, but fast and cheap to implement, so I post it here. Even if a new cooling technique is invented, it will work better if all other possible actions are performed.</em>\n</div>", 
+  "id": "https://openideo.com/challenge/fighting-ebola/ideas/reduce-isolating-air-layers", 
+  "media": [
+    {
+      "src": "//d3gyq8wptu1by3.cloudfront.net/media/6d68dc86-c18b-4742-a0df-6b4a5de52fe1.png", 
+      "type": "image"
+    }
+  ], 
+  "submitted": "October 27, 2014, 20:25PM", 
+  "summary": "Air has a high heat resistance. By reducing the thickness of this layers, the heat can easier be transfered to the outside of the PPE.", 
+  "tag": "/challenge/fighting-ebola/ideas#mission-strengthen-health-care-capacities2", 
+  "title": "Reduce isolating air layers in PPE", 
+  "view_count": 22
+}

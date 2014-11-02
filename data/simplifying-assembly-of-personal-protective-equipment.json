@@ -1,0 +1,60 @@
+{
+  "applause_count": 3, 
+  "author": "Jamie Beck", 
+  "comment_count": 6, 
+  "comments": [
+    {
+      "applaud": "0", 
+      "auhtor": "Jab Thorn", 
+      "date": "October 11, 2014, 02:28AM", 
+      "message": "\n    \tDefinitely need better instructions or methods on PPE removal.  There are so many chances for the ungloved hand to come into contact with contamination and these don't cover footwear.  I think instead of PPE in a box it would be PPE in a bag.  Gown, gloves, footwear stuffed into mask or shield.  Would be good for those working on home care possibilities also.\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Jamie Beck", 
+      "date": "October 31, 2014, 22:48PM", 
+      "message": "\n    \tGreat suggestion, Jab. Given the conditions on the ground I agree that a bag might be more practical, as long as it remained clear which pieces went where and in what order, etc. I think clear instructions of sequencing, or color coding of some sort is critical.\n    "
+    }, 
+    {
+      "applaud": "1", 
+      "auhtor": "Michelle L'Archeveque", 
+      "date": "October 08, 2014, 12:55PM", 
+      "message": "\n    \tVery interesting! It would be great to think about how to move beyond current PPE in your box, and perhaps partner with some of the other projects who are designing new PPE materials? Collaborating early might mean that the next generation PPE is conducive to assembly and wear in this manner!\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Jamie Beck", 
+      "date": "October 08, 2014, 18:02PM", 
+      "message": "\n    \tGreat idea, Michelle! I was thinking the same thing - this could be integrated into one of the other great ideas for innovating on traditional PPE so the assembly and boxed nature of the parts is integrated into the design.  Thanks for your feedback.\n    "
+    }, 
+    {
+      "applaud": "1", 
+      "auhtor": "Meena Kadri", 
+      "date": "Edited on October 08, 2014, 02:50AM", 
+      "message": "\n    \tGreat thinking, Jamie! I wonder if we can start collecting information about PPE so that we can start to prototype this?\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Jamie Beck", 
+      "date": "October 08, 2014, 04:44AM", 
+      "message": "\n    \tThanks Meena! Great idea! I'll do some research and update the post with all the pieces that make up the PPE so we can move towards prototyping.\n    "
+    }
+  ], 
+  "description": "<div class=\"description\">\n            According to the World Health Organization (WHO), \"exposure of health-care workers ... continues to be an alarming feature of this [the Ebola] outbreak.\" Health care workers (HCWs) are among those most likely to become infected as they examine patients, draw blood, clean them and clean up bodily fluids.\u00a0Here is a link to the CDC's instructions and sequence for putting on and taking off PPE: http://www.cdc.gov/vhf/ebola/pdf/ppe-poster.pdf. But can innovations be made to this that might help prevent health care worker exposure to the virus? How can instructions transcend languages, cultures, and different operating contexts? How can we be sure that all necessary pieces of PPE remain together so that health care workers can always be sure to have all the pieces of PPE they need to adequately protect themselves from exposure?\n<br/>\n<br/> Perhaps if we create easily replicable, simple, easy to understand kits that provide the entire PPE set, complete with numbered pieces that indicate when each piece should be put on and in what order, might lessen the possibility for exposure to the virus.\u00a0\n<br/>\n<br/> Let's take a look at the IDEO.org\u00a0\n<a href=\"http://www.ideo.org/projects/tedx-in-a-box\">Tedx-in-a-Box project</a>\u00a0-\u00a0a toolkit with all the gear needed to host a TEDx event in the developing world \u2014 projector, speakers and more, packed in a shippable box. The\u00a0TEDx in a Box program launched last year, powering events throughout the developing world, enabling local people to receive and assemble complex equipment.\n<br/>\n<br/> The result, TEDx in a Box 2.0, is a multi-use organizational system with color-coded, icon-specific graphics that make it easy to set up a TEDx event anywhere. The box includes a projector, a PA system, a DVD player, a battery and inverter, two camcorders and a tripod, a power strip and an SD card. The Quickstart Guide guides the event organizer to charge the system, set it up to watch a TEDTalk and host live speakers, with or without slides.\n<br/>\n<br/> Take a look at the video and let's discuss:\n<br/>\n<br/>\n<strong>How might we simplify an otherwise complex procedure such as putting on and taking off personal protective gear, minimizing possibility of front-line health care workers' exposure to the disease?</strong>\n<br/> \u00a0\n        </div>", 
+  "id": "https://openideo.com/challenge/fighting-ebola/ideas/simplifying-assembly-of-personal-protective-equipment", 
+  "media": [
+    {
+      "src": "//d3gyq8wptu1by3.cloudfront.net/media/d349a5b2-87ac-4ab0-9c5b-85cf7e3779c0.jpg", 
+      "type": "image"
+    }, 
+    {
+      "src": "https://player.vimeo.com/video/30656539?wmode=opaque", 
+      "type": "video"
+    }
+  ], 
+  "submitted": "October 07, 2014, 16:34PM", 
+  "summary": "As of the beginning of October, 382 health-care workers have been infected by Ebola in West Africa and 216 of them have died.  Many estimate that this exposure can be partly explained by incomplete Personal Protective Equipment available to health care workers or incorrect assembly of the various pieces .  We might find inspiration to address this issue in a recent http://IDEO.org project that aimed to provide people in developing countries access to all the gear they need to hold a TEDx event. The result provides people in vastly different contexts all the tools they need in a clear, concise, color-coded kit to assemble the finished product. Might this provide inspiration for how we better communicate effective donning and doffing of PPE?", 
+  "tag": "/challenge/fighting-ebola/ideas#mission-strengthen-health-care-capacities2", 
+  "title": "Simplifying assembly of Personal Protective Equipment", 
+  "view_count": 121
+}

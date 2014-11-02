@@ -1,0 +1,75 @@
+{
+  "applause_count": 8, 
+  "author": "Victoria Dow", 
+  "comment_count": 10, 
+  "comments": [
+    {
+      "applaud": "0", 
+      "auhtor": "Victoria Dow", 
+      "date": "October 08, 2014, 22:45PM", 
+      "message": "\n    \tthanks everyone for responding so kindly to my off the top of my head idea! I'm no coder.. just a librarian with a penchant for working to find resources and answers for people.\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Michelle L'Archeveque", 
+      "date": "October 08, 2014, 12:45PM", 
+      "message": "\n    \tHi Victoria! Thanks for sharing your idea! Who do you envision as the primary audience/users of this map? Are there capabilities to track suspected versus confirmed cases, deaths, population, etc.? Perhaps data from Health Map (http://www.healthmap.org/en/) could be pulled in as well? The trick will likely be in getting data into the map in as real-time as possible, which could be tricky in these communities!\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Victoria Dow", 
+      "date": "October 08, 2014, 22:40PM", 
+      "message": "\n    \tAgreed on timely data entry.  Healthmap is interesting, too, and adding a link back to it from a Google map would be useful.\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "William Faria", 
+      "date": "October 08, 2014, 23:01PM", 
+      "message": "\n    \tThe best way to get real-time data into a GIS  system might be to synchronize  it from devices in the field directly onto a central server.\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "dani rodriguez", 
+      "date": "October 07, 2014, 22:39PM", 
+      "message": "\n    \tHi Victoria,It is indeed a good idea. But how do you see it helping to reach the main goal of this project? I guess one main way would be raising awareness of the most exposed places. Do you have anything else in mind?Dani\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Meena Kadri", 
+      "date": "October 08, 2014, 02:56AM", 
+      "message": "\n    \tMight also be worth both of you joining in the conversation here: https://openideo.com/challenge/fighting-ebola/research/sms-for-testamony-witness-and-crowdmapping\n"
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "OpenIDEO", 
+      "date": "October 07, 2014, 20:41PM", 
+      "message": "\n    \tHi Victoria, interesting post! Any chance you could find an image to go along with it? Images help grab attention and tell a story with higher impact. You should be able to use the Update Entry button on the right of your post and follow the instructions to add images from there. We know occasionally people have issues uploading images so let us know by hitting the Feedback button at the bottom of most pages of our site if you face any problems. Looking forward to seeing more of your inspiring insights on OpenIDEO. And here's some tips on adding visual goodness to  your idea: http://ideo.pn/vis-uals plus more on evolving your thought-starter: http://ideo.pn/oi-evolve\n"
+    }, 
+    {
+      "applaud": "1", 
+      "auhtor": "William Faria", 
+      "date": "October 08, 2014, 12:43PM", 
+      "message": "\n    \tHi Victoria, You are completely right, GIS systems have an important role to play.  MSF has been working with a group called Humanitarian OpenStreetMap Team (HOT), have a look at their work on Ebola here: http://hot.openstreetmap.org/projects/west_africa_ebola_epidemicWe plan to integrate their open source base map data into the map view of our application. The challenge for GIS in this outbreak is how to best collect the information, then how to share it with people on the ground fighting the disease in a way that is useful to their daily activities.\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Victoria Dow", 
+      "date": "October 08, 2014, 22:44PM", 
+      "message": "\n    \tI definitely think using cell/mobile phones is the way to go - from what i understand they are the communication tool in Africa.\n    "
+    }, 
+    {
+      "applaud": "1", 
+      "auhtor": "William Faria", 
+      "date": "October 08, 2014, 22:57PM", 
+      "message": "\n    \tMobile phones, even smartphones, have really proliferated in ways people wouldn't expect.  I've seen large numbers of 'smartphones'  in remote towns where the cell phone signal has not reached yet (mostly used as cameras and music players) - then used for communication when you get to a place with network.  Its real leap-frog technology.\n    "
+    }
+  ], 
+  "description": "<div class=\"description\">\n            In google one can already create detailed maps for all sorts of purposes - the maps can have layers to provide information on various topics. And, the maps can be easily shared. Google maps now also allows adding information from spreadsheets. \u00a0And, because Google also provides satelite images one can see the terrain, housing density, etc of an area.\u00a0\n<br/> Is is possible to create a map, with layers as needed, for Ebola tracking in the West African countries? Google - you listening?\u00a0\n<br/> [My very inexpert example:\u00a0https://www.google.com/maps/d/edit?mid=zDmmFMdsr5KM.k5rInvS_0eoE ]\u00a0\n<br/>\n<br/> \u00a0\n        </div>", 
+  "id": "https://openideo.com/challenge/fighting-ebola/ideas/google-maps-a-ubiquitous-tool-accessible-worldwide-to-help-track-cases", 
+  "media": [], 
+  "submitted": "October 07, 2014, 18:41PM", 
+  "summary": "Is there a way to leverage Google maps to pinpoint new cases, clusters of cases, places where care is needed?", 
+  "tag": "/challenge/fighting-ebola/ideas#mission-boost-exposure-tracking-and-communication-abilities1", 
+  "title": "Google Maps - a ubiquitous tool accessible worldwide to help track cases", 
+  "view_count": 143
+}

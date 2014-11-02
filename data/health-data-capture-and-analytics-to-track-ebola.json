@@ -1,0 +1,31 @@
+{
+  "applause_count": 1, 
+  "author": "Shelley Saxena", 
+  "comment_count": 0, 
+  "comments": [], 
+  "description": "<div class=\"description\">\n            Seva360 (http://seva360.com) and associated Sevamob mobile app for field officers (https://play.google.com/store/apps/details?id=com.sevamob.gaon) can be used as follows to capture health data and do detailed analysis of communities in the effected areas: \n<ul>\n<li>Mobile app captures patient demographics, electronic health record and associated data offline in remote areas and syncs with the cloud when the network is available.\u00a0</li>\n<li>Cloud based analytics can then track health statistics by areas, by communities and by time. Along with aggregate reports, authorized doctors can drill down to health records of individual patients</li>\n</ul> The app can also be used to capture and track treatments, medications etc for patients.\n        </div>", 
+  "id": "https://openideo.com/challenge/fighting-ebola/ideas/health-data-capture-and-analytics-to-track-ebola", 
+  "media": [
+    {
+      "src": "//d3gyq8wptu1by3.cloudfront.net/media/f43502d6-5d17-4429-a894-1060c6c2fccc.jpg", 
+      "type": "image"
+    }, 
+    {
+      "src": "//d3gyq8wptu1by3.cloudfront.net/media/ec7e47ac-77e0-4ccf-b673-a214324b6ad9.jpg", 
+      "type": "image"
+    }, 
+    {
+      "src": "//d3gyq8wptu1by3.cloudfront.net/media/807c787a-452a-4fea-857d-1d059e6a9c25.jpg", 
+      "type": "image"
+    }, 
+    {
+      "src": "//d3gyq8wptu1by3.cloudfront.net/media/fdc5a27d-fe4b-4ac6-8e04-d15635ba32c8.png", 
+      "type": "image"
+    }
+  ], 
+  "submitted": "October 25, 2014, 03:21AM", 
+  "summary": "Use Sevamob's mobile app for field workers to capture patient demographics,  electronic health record and associated data, even offline in remote areas. Use its cloud based analytics to track health statistics by area/communities and by time.", 
+  "tag": "/challenge/fighting-ebola/ideas#mission-boost-exposure-tracking-and-communication-abilities1", 
+  "title": "Health data capture and analytics to track Ebola via Sevamob mobile app and cloud", 
+  "view_count": 19
+}

@@ -1,0 +1,80 @@
+{
+  "applause_count": 2, 
+  "author": "Natarajan Venkatakrishnan", 
+  "comment_count": 10, 
+  "comments": [
+    {
+      "applaud": "1", 
+      "auhtor": "Rik Ganju", 
+      "date": "October 14, 2014, 21:54PM", 
+      "message": "\n    \tHey folks, have a look at \"This is really simple. I own a $120,000 research grade thermal imaging camera.\" in the Research section.  I may be able to help you depending on your location.  Also I have experience with devices for cooling pro athletes\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Natarajan Venkatakrishnan", 
+      "date": "October 14, 2014, 22:53PM", 
+      "message": "\n    \tDo you want to join our team and scope it outWe are bunch of engineers and designers from GE apppliances - we know how to design thins cost effectively\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Rik Ganju", 
+      "date": "October 14, 2014, 23:39PM", 
+      "message": "\n    \tTo me this sounds good in principal NV.  Let's see how ideo's process unfolds - to me it is very unclear if and how things get funded by Ideo/USAid.  Are they looking to fund proposals or building a platform for volunteers to find each other?  The USAID links leading me hear suggested that $5 million dollars was available to get going on this highly important intiative.  On this openideo site, however, there is no talk of funding.  They've built a very exciting, lively platform, but have left some of us clueless about what the next steps are?  Is there any money at all for development or should we be thinking about spending evenings in the garage and home depot?  Perhaps I'm just not smart enough to figure what's an obvious process for everyone else?  What's your understanding of teams and funding?\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Bailey Swayne", 
+      "date": "October 22, 2014, 21:02PM", 
+      "message": "\n    \tI think that this idea is very good, I have myself done some testing at home with a small pump that moves ice cold water through pneumatic tubing that I had woven into a shirt and found that in very warm conditions the tubing with the cold water pumping through it was able to keep me cool even when I was working in hot conditions for an extended period of time. I think that the shirt with the woven pneumatic tubing in it could easily be mass produced for the aid workers.\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Jab Thorn", 
+      "date": "October 11, 2014, 00:50AM", 
+      "message": "\n    \tPerhaps a two part system like a Dyson rollerball vacuum.  The rollerball can stay in the contaminated area but the ice canister is removed from inside a covered attachment as needed just like emptying the vacuum. http://www.dyson.com/vacuum-cleaners/upright/dc40.aspx\n"
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Natarajan Venkatakrishnan", 
+      "date": "October 11, 2014, 01:43AM", 
+      "message": "\n    \tThat's a good idea , do you want to join our team ?\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Symon Harrah", 
+      "date": "October 11, 2014, 03:35AM", 
+      "message": "\n    \tHey Jab,Nice addition! I was building more on the idea today and I had a similar concept, I had already incorporated a hollow inside the static part of the carrying ball for the washer pump and ice, maybe the removable part could be just like a small insulated cooler with a couple spouts on the bottom to provide an access point for the circulation tubes to attach to?  That way, when the ice needs to be refilled, you could just pull out the \"cooler\", pour out the water, fill it back up with ice, and then attach it back into the system! It seems pretty simple, but we will definitely have to make some models first to test out the concepts, thanks for the contribution, you are more than welcome to join the team if you are feeling up to it!\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Natarajan Venkatakrishnan", 
+      "date": "October 10, 2014, 17:24PM", 
+      "message": "\n    \tYou can dunk the plastic ball in a vat of bleach every time it comes back from the field\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "jennifer Hartsfield", 
+      "date": "October 10, 2014, 17:16PM", 
+      "message": "\n    \tI love the idea of not having to carry the ice.  But I fear the implications of the device rolling through contaminated waste.\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Natarajan Venkatakrishnan", 
+      "date": "October 10, 2014, 17:25PM", 
+      "message": "\n    \tYou can dunk the ball in a vat of bleach to disinfect it\n    "
+    }
+  ], 
+  "description": "<div class=\"description\">\n            Idea is to make a small plastic ball to store ice and attach to to the health care worker. We can use a windshield water pump to pump cool water into the cooling vest of the PPE.\u00a0\n<br/> This will enable a low cost cooling system that can be dragged over uneven terrain without getting in the way\n<br/> The attached pdf explains the idea\n<br/> \u00a0\n        </div>", 
+  "id": "https://openideo.com/challenge/fighting-ebola/ideas/how-to-provide-low-cost-cooling-without-the-weight", 
+  "media": [
+    {
+      "src": "//d3gyq8wptu1by3.cloudfront.net/media/c538a923-2a45-46cd-bd46-85e136479da4.png", 
+      "type": "image"
+    }
+  ], 
+  "submitted": "October 10, 2014, 13:01PM", 
+  "summary": "This idea is for cooling PPE with ice. The main issue is that the health care workers have to carry the ice in their vests or in a backpack. This idea is how to shift the weight of the cooling system from the health care worker to a device that can follow the worker without getting in the way.", 
+  "tag": "/challenge/fighting-ebola/ideas#mission-strengthen-health-care-capacities2", 
+  "title": "How to provide low cost cooling without the weight", 
+  "view_count": 291
+}

@@ -1,0 +1,30 @@
+{
+  "applause_count": 3, 
+  "author": "Meghan McCormick", 
+  "comment_count": 1, 
+  "comments": [
+    {
+      "applaud": "0", 
+      "auhtor": "Deborah Paterson", 
+      "date": "October 17, 2014, 22:55PM", 
+      "message": "\n    \tHi Meghan, We also think your idea could work well in tandem with these ideas: https://openideo.com/challenge/fighting-ebola/ideas/use-video-surveillance-equipment-to-prevent-and-investigate-health-worker-infectionhttps://openideo.com/challenge/fighting-ebola/ideas/have-undressing-instructions-given-over-loudspeaker-as-a-reminder-to-healthcare-workersGiven collaboration is the name of the game here at OpenIDEO, we hope you might reach out and collaborate to grow each other's concepts. Creativity loves company!Do you think you could prototype an instructional video for the community to give feedback on? Perhaps you could just mock this up with things you have around you to start the conversation? Don't feel like it has to be perfect first off, just get something up and let us help you refine it! Show us what you got! Good luck!\n    "
+    }
+  ], 
+  "description": "<div class=\"description\">\n            I think we should set up a video camera in the areas where health care workers put on and take off their PPE to collect continuos information on the processes used. Connecting the health workers in the video with their health outcomes will help us to understand which processes help prevent infection.\u00a0\n<br/>\n<br/> The video should be streamed to an analytics center where the process is watched and studyed. We can gather data on which parts of removing PPE are most likely to be performed incorrectly and importantly figure out what people are doing day in and day out to keep themselves healthy.\n<br/>\n<br/> Once best practices are identified, the videos can be sent out to health workers across the region. They can learn best practices from their peers in an applicable setting.\n<br/>\n<br/> I think this idea will work because it grounds visual learning in the actual setting of use. It also uses analytics to transform the art of removing PPE into a repeatable science that will save lives.\u00a0\n<br/>\n<br/> My questions are for all you technology whizzes out there. Can we set up a camera / straming system that will be able to run \"off the grid\"?\u00a0\n<br/>\n<br/> How quickly can we analyze the videos to discover common mistakes and best practices?\u00a0\n<br/>\n<br/> What technology providers would partner with us to bring this idea to light?\u00a0\n        </div>", 
+  "id": "https://openideo.com/challenge/fighting-ebola/ideas/video-based-coaching-for-removing-contaminated-protective-equipment", 
+  "media": [
+    {
+      "src": "//d3gyq8wptu1by3.cloudfront.net/media/a774fbf8-2f9a-48a8-aa5e-c911521e924c.jpg", 
+      "type": "image"
+    }, 
+    {
+      "src": "//d3gyq8wptu1by3.cloudfront.net/media/7703c51c-7551-4beb-97c7-8c42716e14f7.png", 
+      "type": "image"
+    }
+  ], 
+  "submitted": "October 13, 2014, 18:31PM", 
+  "summary": "Athletes around the globe, both professional and amateur, use video analytics to improve their performance. Mobile apps allow anyone with a smart phone to videotape themselves running and then get feedback to improve their stride. This capability is built on understanding what \"good form\" is and then helping everyone achieve it. One of the biggest risks for health care providers is when they remove their equipment. While many are infected during this process, there are health care workers who have been successfully gearing up and removing contaminated gear for months. Can we use video to study their process and discover true \"good form\"? Not the good form taught by foreign experts, but used by the real experts on the ground?", 
+  "tag": "/challenge/fighting-ebola/ideas#mission-strengthen-health-care-capacities2", 
+  "title": "Video based coaching for removing contaminated protective equipment", 
+  "view_count": 50
+}

@@ -1,0 +1,26 @@
+{
+  "applause_count": 2, 
+  "author": "Rainer Winkler", 
+  "comment_count": 1, 
+  "comments": [
+    {
+      "applaud": "0", 
+      "auhtor": "Anthony Davis", 
+      "date": "October 28, 2014, 16:31PM", 
+      "message": "\n    \tI applauded that Rainer, believe it or not I had sketched the same idea this morn - plastic ribs to act as spacers over the shoulders and back which would allow your fan/vent idea to work.  I've also wondered would a long trench coat type ppe with open bottom work - seeing as Ebola is not airborne.. Much of the heat would drop out the bottom.\n    "
+    }
+  ], 
+  "description": "<div class=\"description\">\n<em>This is not an innovative idea, but fast and cheap to implement, so I post it here. Even if a new cooling technique is invented, it will work better if all other possible actions are performed.</em>\n</div>", 
+  "id": "https://openideo.com/challenge/fighting-ebola/ideas/allow-convection-under-ppe", 
+  "media": [
+    {
+      "src": "//d3gyq8wptu1by3.cloudfront.net/media/fac3a12d-cad0-4fcc-9b06-91a89539cb9c.png", 
+      "type": "image"
+    }
+  ], 
+  "submitted": "October 27, 2014, 20:20PM", 
+  "summary": "Air has a low heat conductivity.  It is known from windows with two glass plates, that the distance between them should not exceed a certain distance. With a higher distance convection starts and the heat transmissions resistance is reduced.Whenever it is not possible or not required to have a low distance between the PPE and skin or clothing, spacers should be added, so that the distance is so high, that convection inside the PPE starts.", 
+  "tag": "/challenge/fighting-ebola/ideas#mission-strengthen-health-care-capacities2", 
+  "title": "Allow convection in the PPE to increase heat transfer", 
+  "view_count": 30
+}

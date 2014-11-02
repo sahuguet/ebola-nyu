@@ -1,0 +1,44 @@
+{
+  "applause_count": 3, 
+  "author": "David Orlebeke", 
+  "comment_count": 4, 
+  "comments": [
+    {
+      "applaud": "0", 
+      "auhtor": "Michelle L'Archeveque", 
+      "date": "October 08, 2014, 13:59PM", 
+      "message": "\n    \tInteresting idea - I want to know more! What is the price of the electrolysis process? Can it be done locally or will the water need to be imported? Can untreated water be used for cleaning?  Is there a precedent for inhalation of this treated water? Might there be risks involved with inhalation in potentially unsanitary conditions (i.e. contraction of Legionnaire's Disease)?Would be interesting to see some additional examples of how this works. Perhaps you can collaborate with a MD on the site to see if they have some additional insights!\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "David Orlebeke", 
+      "date": "October 08, 2014, 15:55PM", 
+      "message": "\n    \tThe electrolytic process is referred to as electrolytic oxidation (EO) so for brevity, I'll use the initials. EO equipment - about 90% can be bought off the shelf and the rest built locally - mostly the electrodes and the putting of everything together on a wheeled cart or skid. You can use any local low brackish water - the process was originally designed to remove heavy metals (including arsenic), hardness, TTHM, inactivate pathogenic organisms, etc from fresh water for intensive fish production. You simply filter out the insoluble oxide precipitates with a filter - like sand, cartridge, etc. UF (ultrafine) would be used as final filter prior to inhalation use.  No - Legionnaire's and other diseases caused by pathogens would be dead after exposure to the treated water or during treatment. I've got a long list of various bacterial, viral, and fungal pathogens we and others have tested for inactivation - normally in non-pristine situations - like wastewater, well water, irrigation pond water, etc - real world, not lab! Equipment pricing - depends on how much your trying to treat - small systems can run $3000 or less if you already have bottled oxygen or an oxygen concentrator available. Larger systems can run obviously into the tens- to hundreds of thousands (like your trying to treat 1 million  gpd). We developed this process 18 years ago na d been refining it for various processes ever since - we hold the patents and would be open to simply licensing it out and assisting in the equipment design. Happy to send files and reports on results - can't seem to load them here but that may be a website issue. I can be reached by email directly at aquatictechllc@yahoo.com\n"
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "OpenIDEO", 
+      "date": "October 08, 2014, 01:25AM", 
+      "message": "\n    \tHi David, interesting post! Any chance you could find an image to go along with it? Images help grab attention and tell a story with higher impact. You should be able to use the Update Entry button on the right of your post and follow the instructions to add images from there. We know occasionally people have issues uploading images so let us know by hitting the Feedback button at the bottom of most pages of our site if you face any problems. Looking forward to seeing more of your inspiring insights on OpenIDEO. And here's some tips on adding visual goodness to  your idea: http://ideo.pn/vis-uals plus more on evolving your thought-starter: http://ideo.pn/oi-evolve\n"
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "David Orlebeke", 
+      "date": "October 08, 2014, 02:34AM", 
+      "message": "\n    \tThanks - added a picture that delineates the various parts of Ebola virus. Based on the proteins and polysaccharides , virus body should react same way as fungal spores and various bacteria when exposed to super oxide anion and enzyme laden water - basically, dissolve and destroy the RNA. This means better inactivation for cleaning surfaces of all types. As to inhalation treatment - would take some fast testing but you would know within 3-5 minutes if destroyed the virus held within mucus and mucosal passage ways. You could then simply utilize like a humidifier  - killing any air born spores/virus within the room and/or surrounding the patient.\n    "
+    }
+  ], 
+  "description": "<div class=\"description\">\n            Rapid deployment water treatment without chemicals that produce mutation - electrolytically treated water produces high level of OH and super oxide anions and when used with hydrolase enzymes destroys the gluten/polysaccharide outer cellular coating of the virus even in highly organic laden water/wastewater. Additionally, potential is shown for inactivation of bacterial/viral pathogens in mucus (sinus and lung) by inhalation of electrically treated water that can be inhaled using standard inhalation equipment. Helps stop the spread via spit, vomit, etc. Better inactivation of blood borne pathogens on medical equipment that can not be placed in autoclave. Some test and research files available. This is 90% off the shelf equipment. Process is EPA approved as non-chemical pathogenic device.\n        </div>", 
+  "id": "https://openideo.com/challenge/fighting-ebola/ideas/utilization-of-electrolytically-treated-wash-water-with-hydrolase-enzyme-to-destroy-the-virus-did-study-of-this-for-mrsa-norwich-and-other-microbial-and-spore-fungal-pathogens-and-it-works", 
+  "media": [
+    {
+      "src": "//d3gyq8wptu1by3.cloudfront.net/media/7690b079-4fc9-40b3-9075-188cb5245105.jpg", 
+      "type": "image"
+    }
+  ], 
+  "submitted": "October 07, 2014, 23:11PM", 
+  "summary": "Healthcare workers; sanitation/clean-up crews; family members and other care givers of those contaminated or sick. Also for cleaning of emergency vehicles, airplanes, lavatories and other areas of high contact.", 
+  "tag": "/challenge/fighting-ebola/ideas#mission-strengthen-health-care-capacities2", 
+  "title": "Utilization of electrolytically treated wash water with hydrolase enzyme to destroy the virus - did study of this for MRSA, Norwich and other microbial and  spore/fungal pathogens and it works", 
+  "view_count": 74
+}

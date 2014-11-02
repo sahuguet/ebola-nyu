@@ -1,0 +1,44 @@
+{
+  "applause_count": 3, 
+  "author": "Becky Bach", 
+  "comment_count": 4, 
+  "comments": [
+    {
+      "applaud": "0", 
+      "auhtor": "Tamar Lasky", 
+      "date": "October 14, 2014, 23:49PM", 
+      "message": "\n    \tThe CDC has a great website with an abundance of information http://www.cdc.gov/vhf/ebola/ and resources for people wanting to start a marketing campaign http://www.cdc.gov/vhf/ebola/resources/index.html, but I notice there isn't a number to call if a person thinks he/she has Ebola.\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Deborah Paterson", 
+      "date": "October 09, 2014, 21:20PM", 
+      "message": "\n    \tHey Becky, this post by another member of the community might be interesting to you https://openideo.com/challenge/fighting-ebola/ideas/the-ebola-toll-free-sms-helpline as well as this one https://openideo.com/challenge/fighting-ebola/ideas/rapidpro-unicef-a-simple-app-to-enhance-communication. How might these systems differ in the US and in West Africa? How can we leverage local contexts and cultures to support the same activity?\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "OpenIDEO", 
+      "date": "October 09, 2014, 17:08PM", 
+      "message": "\n    \tHi Becky, have you got an image you could update your post with to help tell your story in more detail? Perhaps something representing a phone and a community connected to it. If you need inspiration check out http://ideo.pn/vis-uals.\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Becky Bach", 
+      "date": "October 09, 2014, 21:30PM", 
+      "message": "\n    \tI agree -- I think sms would work better in Africa for education, prevention and a centralized number here for patients to call so the CDC could network with local hospitals to pick up the potential patient and take them to a prepared hospital.\n    "
+    }
+  ], 
+  "description": "<div class=\"description\">\n            Launch marketing campaign, staff phone line with trained volunteers, coordinate with state and local leaders.\n        </div>", 
+  "id": "https://openideo.com/challenge/fighting-ebola/ideas/central-phone-number-for-us", 
+  "media": [
+    {
+      "src": "//d3gyq8wptu1by3.cloudfront.net/media/0fead53f-d9a2-41fa-920b-0ac54b4fdffa.jpeg", 
+      "type": "image"
+    }
+  ], 
+  "submitted": "October 08, 2014, 20:27PM", 
+  "summary": "I believe the US should have a single phone number, perhaps operated by the CDC, that anyone who suspects they have Ebola or similar symptoms should call so hospitals, ambulance, etc. can prepare.", 
+  "tag": "/challenge/fighting-ebola/ideas#mission-surprise-us8", 
+  "title": "Central phone number for US", 
+  "view_count": 50
+}

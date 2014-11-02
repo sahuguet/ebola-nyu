@@ -1,0 +1,38 @@
+{
+  "applause_count": 8, 
+  "author": "Zoe Mayemba", 
+  "comment_count": 3, 
+  "comments": [
+    {
+      "applaud": "0", 
+      "auhtor": "Thi Mui Nguyen", 
+      "date": "October 29, 2014, 09:39AM", 
+      "message": "\n    \tHi, Interesting post. I'm looking forward for some more details soon. Thanks\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Merveil Lubanja", 
+      "date": "October 28, 2014, 15:28PM", 
+      "message": "\n    \tGood idea\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Merveil Lubanja", 
+      "date": "October 25, 2014, 21:37PM", 
+      "message": "\n    \tThat fine. so give us more detail. thansk\n    "
+    }
+  ], 
+  "description": "<div class=\"description\">\n<br/>\n<br/>\n<br/> This is an operation which can be similar to the electronic bracelet for people to bail.\n<br/>\n<br/>\n<br/> I give you more details soon.\n        </div>", 
+  "id": "https://openideo.com/challenge/fighting-ebola/ideas/ebola-detection", 
+  "media": [
+    {
+      "src": "//d3gyq8wptu1by3.cloudfront.net/media/6962dc83-dc41-43a5-801e-4f7ced5382b8.jpg", 
+      "type": "image"
+    }
+  ], 
+  "submitted": "October 25, 2014, 21:30PM", 
+  "summary": "It is an individual thermometer is activated when the temperature of the wearer exceeds a threshold. Via some electronic additions:- It can be connected to a local telecommunication network to locate the wearer.ex: Synchronized with the SIM card- It can have a system of geo-location.", 
+  "tag": "/challenge/fighting-ebola/ideas#mission-surprise-us8", 
+  "title": "Ebola detection", 
+  "view_count": 79
+}

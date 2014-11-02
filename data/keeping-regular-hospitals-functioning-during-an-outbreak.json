@@ -1,0 +1,56 @@
+{
+  "applause_count": 3, 
+  "author": "Rebecca Buechel", 
+  "comment_count": 4, 
+  "comments": [
+    {
+      "applaud": "0", 
+      "auhtor": "Rebecca Buechel", 
+      "date": "October 20, 2014, 10:57AM", 
+      "message": "\n    \tInteresting read for \"a day in the life of an ebola clinic\" in Sierra Leone http://www.irinnews.org/report/100716/day-in-the-life-of-a-kenema-ebola-treatment-centre\n"
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Rebecca Buechel", 
+      "date": "October 19, 2014, 12:10PM", 
+      "message": "\n    \tfurther points from yesterday's discussion: https://openideo.com/challenge/fighting-ebola/ideas/deploy-20x-more-health-workers#c-08f6ea01dd784eceb16d110a01d40cdd\n"
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Lynn Lawry", 
+      "date": "October 18, 2014, 22:16PM", 
+      "message": "\n    \tRebecca, there is also a rumour going around that the drips given in the field hospitals are actually \"death drips\".  Again all roads lead to community perceptions, fear and trust.\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Rebecca Buechel", 
+      "date": "October 19, 2014, 10:14AM", 
+      "message": "\n    \tLynn, you mean IV drips ?\n    "
+    }
+  ], 
+  "description": "<div class=\"description\">\n            There could be a \"with fever\" waiting area and a \"without fever\" one.\n<br/> In the \"with fever\" area (as people wait for ebola lab test results), paint personal space waiting areas on the floor so safe distance is respected around patients standing, sitting (on a sterilizable surface ?) or lying down to avoid possible inadvertant touch contact.\n<br/>\n<br/> This way patients will feel safer while waiting and will pick up the habit of what personal distance to employ.\n<br/>\n<br/> Site with some examples of floor line markings in warehouses etc~\n<br/> http://www.riggotts.co.uk/index.php/services/warehouses/\n        </div>", 
+  "id": "https://openideo.com/challenge/fighting-ebola/ideas/keeping-regular-hospitals-functioning-during-an-outbreak", 
+  "media": [
+    {
+      "src": "//d3gyq8wptu1by3.cloudfront.net/media/5a01c1df-f9e9-45ed-b010-386a4a5b8ad8.jpg", 
+      "type": "image"
+    }, 
+    {
+      "src": "//d3gyq8wptu1by3.cloudfront.net/media/ff4590e6-0c54-434f-8cdb-0a84d796ef6e.jpg", 
+      "type": "image"
+    }, 
+    {
+      "src": "//d3gyq8wptu1by3.cloudfront.net/media/81ea2c6a-bcb2-468d-ba3e-04f6d2022ef5.jpg", 
+      "type": "image"
+    }, 
+    {
+      "src": "//d3gyq8wptu1by3.cloudfront.net/media/22b66949-bf39-4dd2-b2ee-5d54d219d4cf.jpg", 
+      "type": "image"
+    }
+  ], 
+  "submitted": "October 18, 2014, 20:34PM", 
+  "summary": "Fear of contaigion may keep patients & HCWs away from healthcare facilities. In reception/triage areas, have appropriate \"safe-distance\" waiting areas painted (or delineated with colored, sanitizable tape) on the ground to help registering patients maintain safe distance from possibly contaminated ones.", 
+  "tag": "/challenge/fighting-ebola/ideas#mission-promote-care-seeking2", 
+  "title": "Keeping \"regular\" hospitals functioning during an outbreak", 
+  "view_count": 113
+}

@@ -1,0 +1,68 @@
+{
+  "applause_count": 6, 
+  "author": "Nicole Daphne Tricoukes", 
+  "comment_count": 6, 
+  "comments": [
+    {
+      "applaud": "0", 
+      "auhtor": "Nicole Daphne Tricoukes", 
+      "date": "Edited on October 22, 2014, 17:03PM", 
+      "message": "\n    \tSome current examples of federal enterprise healthcare engagements include: medical bedside medicine administration using vitals monitoring and data collection, tactical medical support for battlefield EMR with existing device certifications for airworthiness, mobile field phlebotomy solution for disaster response, unified vaccine tracking system with dedicated workstation on wheels for physician offices and clinics, covert 2-way communications for hazmat suits with wearable PTT accessory ecosystems without risk of contamination, automatic license plate recognition system for securing facilities on mobile devices, and state emergency response system for rapid evacuation, medical triage and incident support using mobile computing, barcode scanning, wireless infrastructure and RFID enabled technologies.  These systems can be leveraged for field deployments worldwide.\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "M. Ricciardi", 
+      "date": "Edited on October 22, 2014, 02:04AM", 
+      "message": "\n    \tThis is a well thought out concept using stand-alone computer tech. In terms of network (contagion, contact) tracking or tracing,  I think that it could/might work well with my concept, detailed here:https://openideo.com/challenge/fighting-ebola/ideas/using-social-metric-sm-badges-to-monitor-potential-exposure-and-expedite-contact-tracing-amongst-healthcare-providersPlease consider joining my team or inviting me to join yours\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Nicole Daphne Tricoukes", 
+      "date": "October 22, 2014, 13:59PM", 
+      "message": "\n    \tM. Ricciardi, thanks for the outreach.  Enterprise-ready badges for healthcare definitely exist with applications and network infrastructure.  There are several large players in the market that support top tier hospitals as well as field deployments.  I think with the present situation, more rudimentary technology is required now, then other technologies can be applied a bit later, as the infrastructure and healthcare systems on the ground in Africa take shape over the longer term.  Very much appreciated!\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "M. Ricciardi", 
+      "date": "Edited on October 22, 2014, 17:11PM", 
+      "message": "\n    \tAgreed. That is one reason why I chose to focus mainly on contact tracking amongst healthcare workers via SM badges, which, compared to hand held computers, are far more \"rudimentary\" and do not depend on any pre-existing infrastructure (with the exception of a central database/server/analytics program).  But it would seem that, in terms of collecting field data (where a HW could come into contact with an infected person), the integration of SM badges with your \"point of care\" data collection (for tracking and monitoring amongst a larger population*) would seem to be  way of covering both sides of the contagion equation, if you will.* The size/scope/scale of this population is of course limited by the number of people actually contacted/examined (but data from this could be 'scaled up' or extrapolated to the wider population to give predictive models some initial inputs.\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Nicole Daphne Tricoukes", 
+      "date": "October 22, 2014, 16:17PM", 
+      "message": "\n    \tHealthcare badges have already been deployed in larger scale in-hospitals today.  We've been working with sensor experts to really understand additional requirements in badges for other types of things.  I personally believe sensing technology will take off in the next few years, but progress will be slow as the supply chains just aren't quite there yet for volume production, and we still don't really understand the complexities of wearable technologies as it relates to humans (we're very complicated beings).  As an aside, we've been looking into the rudimentary ways of sensing - tapes, pins, meters and such - that may be easier to deploy in the nearer term in the field.  We've recently been brainstorming along those lines, as well.\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "M. Ricciardi", 
+      "date": "October 22, 2014, 17:10PM", 
+      "message": "\n    \tQuestion: regarding your statement: \"Healthcare badges have already been deployed in larger scale in-hospitals today.\" Do you know for what purposes these badges were used? (contact t tracing?) It would seem that contact (on-site/workplace) tracing (in the context of contagion monitoring) would be the simplest application of this tech. A basic RF transceiver, battery (Li+) and storage chip would seem to be all that is needed (+ the searchable computer program to upload/compile/aggregate the contact data)...and should be mass- producible or at least producible on the scale of hundreds (for a given clinic).As for you other statement: \"we still don't really understand the complexities of wearable technologies as it relates to humans (we're very complicated beings)\" Agreed. The MIT-based Human Dynamics group (http://hd.media.mit.edu/) is all about this. But I would add, many other researchers (e.g., clinical psychologists, sociologists) have been using SM badges (for simple contact mapping; some using cameras) for several years now. The sensing tech used in SM badges is well-known/studied (and widely used), and, they require little if any manual interactivity from the wearer (wear it and forget about it).\n    "
+    }
+  ], 
+  "description": "<div class=\"description\">\n<strong>Deploying the Right Gear</strong>\n<br/> From the moments a first case is suspected, until the last day of the maximum incubation period, collection and analysis of data could be the difference between an isolated instance and an epidemic.\n<br/> \u00a0\n<br/> Eliminating future outbreaks \u2013 as well as containing current ones \u2013 comes down to the collecting, tracking, managing and analyzing of patient care, worker productivity and field information.\u00a0 Not only can data help in understanding virus migration and future management, it can provide insight into early field detection, protocol compliance, and prevention measures.\n<br/> \u00a0\n<br/> But, paper-based record keeping is inefficient and prone to error.\u00a0 In this instance, it\u2019s also potentially hazardous.\n<br/> \u00a0\n<br/> There are many healthcare facilities around the world that use rugged devices to capture and communicate data at the point-of-care; all while helping maintain a clean and sterile environment.\u00a0 These industrial-grade devices operate on the same systems as smartphones; but tend to have a much longer battery life and can be provisioned and updated in real-time \u2013 a necessity in the field.\n<br/> \u00a0\n<br/> What if these types of devices were deployed in the zones?\u00a0 Built to withstand heat, drops, dust, they also have touch-sensitive screens so a worker doesn\u2019t need to remove a glove to input information.\u00a0 This is imperative \u2013 imagine if those in the PPEs could scan the blood collection vials at time of sampling, automatically creating a record for the database, and reducing the risk of transference during handling.\n<br/> \u00a0\n<br/> The effective capture of necessary data in the afflicted areas is not a future state.\u00a0 Several major device manufacturers already partner with USAID for national and international emergency response efforts and have a shared channel community of integration and application partners.\u00a0 This community has existing field-appropriate and easy-to-deploy (customizable) solutions to support data collection and virus dashboard development.\u00a0\n<br/> \u00a0\n<br/> The current availability of devices, network infrastructure and applications can be quickly modified and tested to support field deployment in afflicted areas (both on-the-ground and in-hospitals).\u00a0 With the World Health Organization estimating 5,000 to 10,000 new Ebola cases weekly in West Africa by the first week of December, there is no time to lose.\n<br/>\n<br/>\n<strong>Entervise vs. Consumer</strong>\n<br/> Purpose-built enterprise devices provide greater Total Cost of Ownership (TCO) over consumer-grade devices and solve common deployment problems:\n<br/> \u00a0 \n<ul>\n<li>Security</li>\n<li>Disinfectant-ready</li>\n<li>Battery</li>\n<li>Accessories</li>\n<li>WLAN</li>\n<li>Scanning</li>\n<li>Sleds</li>\n<li>Durability</li>\n<li>Manageability</li>\n<li>Voice</li>\n<li>Lifecycle</li>\n<li>Services</li>\n</ul>\n<br/> Enterprise mobile devices are built with proper usage and ergonomics in mind \u2013 high drop and tumble specs, mil-spec rating and IP65/67 sealing, gorilla glass, recessed designs for facedown protections, accessories ecosystem, etc.\n<br/> \u00a0\n<br/> For example: \n<a href=\"http://www.motorolasolutions.com/web/Business/Solutions/_ChannelDetails/_Documents/static%20files/Consumer-v-Enterprise-WP-INTERACTIVEv5b.pdf\">Whitepaper: \u00a0Selecting the Right Mobile Device for Your Healthcare Environment</a>\n<br/> \u00a0\n<br/>\n<strong>Disinfectant-Ready Devices</strong>\n<br/> Durable devices provide asset longevity and support best-in-class medical care \u2013 and are built to last.\u00a0 Disinfectant-ready mobile terminals maintain full functionality without discoloration, pitting, degradation, de-lamination, distortion or warping of the device materials.\n<br/> \u00a0\n<br/> Common chemicals include: sweat, body lotion, alcohol, bleach, hydrogen peroxide, mild dish soap and ammonium chloride.\u00a0 Comprehensive chemical testing and decontamination standards already exist for a multitude of industrial plastics and may be easily modified then re-tested quickly for new chemical criteria.\n<br/> \u00a0\n<br/> For example: \n<a href=\"http://www.motorolasolutions.com/web/Business/Products/Mobile%20Computers/Handheld%20Computers/MC55A0-HC/_Documents/_staticfiles/MCD_Cleaning_TB-0213_chv3.pdf\">Technology Brief: Cleaning and Disinfecting Mobile Computers and Scanners</a>\n<br/> \u00a0\n<br/>\n<strong>Field-Ready Solutions</strong>\n<br/> Customizable application platforms already exist for quick deployment options on industrial handheld computers.\u00a0 Medical response dashboards are easily created using current application frameworks supporting various operating systems that provide access to data analytics and information management.\u00a0 Healthcare-specific applications can be preloaded fast onto devices and are modifiable in real-time or changes can be pushed out to networked field devices operating in batch mode when cradled for charging or scheduled for shift rotation.\n<br/>\n<br/> For example: \n<a href=\"http://whitepaper.mobileepiphany.com/healthcare/MECaseStudy-PMD.pdf\">Case Study: The Collection of Quality and Performance Data with Reporting in Anesthesia Provider Services</a>\n</div>", 
+  "id": "https://openideo.com/challenge/fighting-ebola/ideas/virus-dashboard-using-mobile-data-capture-to-contain-the-spread-of-ebola", 
+  "media": [
+    {
+      "src": "//d3gyq8wptu1by3.cloudfront.net/media/4370ec56-4eff-4fb7-8a7d-d024c7ab35c0.jpg", 
+      "type": "image"
+    }, 
+    {
+      "src": "//d3gyq8wptu1by3.cloudfront.net/media/019c960f-5cea-461d-9cf6-3ef1a727e21e.jpg", 
+      "type": "image"
+    }, 
+    {
+      "src": "//d3gyq8wptu1by3.cloudfront.net/media/cfd75926-d5b1-41e7-9ea5-c58685cbf16d.png", 
+      "type": "image"
+    }, 
+    {
+      "src": "//d3gyq8wptu1by3.cloudfront.net/media/2eff878b-f780-461b-89a3-a146f101c5f5.png", 
+      "type": "image"
+    }
+  ], 
+  "submitted": "October 21, 2014, 12:15PM", 
+  "summary": "Data analytics is critical in understanding virus migration and future management.  Deploying proper healthcare-qualified devices to collect, track, and manage patient care, worker productivity and field information is critical to aid in virus mitigation and prevention.\u2022\tRugged enterprise mobile computers can capture data and communications at the point-of-care while helping to maintain a clean and sterile environment. \u2022\tIndustrial devices are more cost-effective to deploy over consumer-grade devices and can survive longer while being provisioned and updated real-time in the field.\u2022\tHealthcare-ready devices have the power to support shift workers and create the backbone of a lasting healthcare infrastructure.", 
+  "tag": "/challenge/fighting-ebola/ideas#mission-boost-exposure-tracking-and-communication-abilities1", 
+  "title": "Virus Dashboard: Using Mobile Data Capture to Contain the Spread of Ebola", 
+  "view_count": 315
+}

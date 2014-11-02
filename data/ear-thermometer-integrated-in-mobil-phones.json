@@ -1,0 +1,44 @@
+{
+  "applause_count": 1, 
+  "author": "Szabolcs M", 
+  "comment_count": 4, 
+  "comments": [
+    {
+      "applaud": "0", 
+      "auhtor": "Julia Ulveling", 
+      "date": "October 22, 2014, 14:52PM", 
+      "message": "\n    \tElectronic thermometers are not that accurate in determining body temperature.  Realistically, to get a true reading.  Whatever unit used to determine temperature should be repeated for each individual 'screening' repeatedly over several minutes...Just try using a variety of electronic thermometers to see the variances....\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Joseph Thurakal", 
+      "date": "October 16, 2014, 08:38AM", 
+      "message": "\n    \tI think there's also an implementation issue here: while you are using the thermometer to empower people to help identify patients, you are basically having civilians measure the temperature of someone who is potentially sick.  Does this exacerbate risk of spread?  Not sure what the answer is there, but something to think about.  You'd know better than me, but might there be a way to use the camera on the phone to take temperature without any contact, since most bleed into the IR spectrum?  I think the temperature difference might be too small, but perhaps worth considering?  Maybe you could use another source light and the camera as a sensor... just thinking out loud at this point.\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Rebecca Buechel", 
+      "date": "October 16, 2014, 07:49AM", 
+      "message": "\n    \tcan it be done without touching the skin to avoid contamination ?\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Joseph Thurakal", 
+      "date": "October 16, 2014, 08:41AM", 
+      "message": "\n    \tI didn't see your post earlier, but totally agree with you.  See my second paragraph for some thoughts on that.  Szabolcs would know better than me regarding light methods- he's a laser physicist by training and taught me most of what I know in that field\n    "
+    }
+  ], 
+  "description": "<div class=\"description\">\n            Prompt and precise identification of people with elevated body temperature with ear thermometer equipped phones can lead to immediate and accurate localization of individuals fallin ill. Beyond ebola it can also help with the fight against other hemorraging fewers and even malaria.\n<br/>\n<br/> The thermometer can be built into the speaker hole and it does not have to be very accurate, e.g., something that can distinguish between below 99F and above 101F\u00a0 is already useful.\n<br/>\n<br/> If the phone is cheaper than common models people will want one. If integrated into a headphone, the cost is low and the placement is perfect.\u00a0\n<br/>\n<br/> Possible problems:\n<br/> - what is the development time for a new headset?\n<br/> - can it be integrated in a headpone will it work with all phones (audio jack can supply limited power)?\n        </div>", 
+  "id": "https://openideo.com/challenge/fighting-ebola/ideas/ear-thermometer-integrated-in-mobil-phones", 
+  "media": [
+    {
+      "src": "//d3gyq8wptu1by3.cloudfront.net/media/d80495b5-1f6f-4d51-83c0-a951d5cae6aa.png", 
+      "type": "image"
+    }
+  ], 
+  "submitted": "October 15, 2014, 23:27PM", 
+  "summary": "A low cost consumer grade ear-thermometer can be integrated into cell phones. When significant fewer is detected the phone can transmit location and other info to healthcare agencies for prompt assistance.", 
+  "tag": "/challenge/fighting-ebola/ideas#mission-promote-care-seeking2", 
+  "title": "Ear Thermometer Integrated in Mobil Phones", 
+  "view_count": 39
+}

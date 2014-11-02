@@ -1,0 +1,21 @@
+{
+  "applause_count": 4, 
+  "author": "Ashutosh Kumar", 
+  "comment_count": 1, 
+  "comments": [
+    {
+      "applaud": "0", 
+      "auhtor": "OpenIDEO", 
+      "date": "October 30, 2014, 20:59PM", 
+      "message": "\n    \tHi Ashutosh, interesting post! Any chance you could find an image to go along with it? Images help grab attention and tell a story with higher impact. You should be able to use the Update Entry button on the right of your post and follow the instructions to add images from there. We know occasionally people have issues uploading images so let us know by hitting the Feedback button at the bottom of most pages of our site if you face any problems. Looking forward to seeing more of your inspiring insights on OpenIDEO. And here's some tips on adding visual goodness to your idea: http://ideo.pn/vis-uals plus more on evolving your thought-starter: http://ideo.pn/oi-evolve\n"
+    }
+  ], 
+  "description": "<div class=\"description\">\n<br/> Ebola virus entry requires the cholesterol transporter Niemann-Pick C1: http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3175325/\u00a0\n        </div>", 
+  "id": "https://openideo.com/challenge/fighting-ebola/ideas/bioengineer-decoy-receptor-for-ebola-virus-envelope-glycoprotein-to-stop-infection", 
+  "media": [], 
+  "submitted": "October 24, 2014, 18:11PM", 
+  "summary": "NPC1 a cholesterol transporter in cell is necessary for  Ebola virus infection. NPC1 has specific entry site for cleaved ebola virus glycoprotein and this fusion is essential to accomplish late phase of infection. A dummy/decoy receptor can be bioengineered from the structure of the entry point on NPC1 which should attach with cleaved envelop glycoprotein without triggering a cascade response. This decoy receptor can be used as a drug that will bind Ebola virus envelope glycoprotein during latent phase of infection. Ebola virus entry requires the cholesterol transporter Niemann-Pick C1: http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3175325/", 
+  "tag": "/challenge/fighting-ebola/ideas#mission-surprise-us8", 
+  "title": "Bioengineer decoy receptor for Ebola virus envelope glycoprotein  to stop infection", 
+  "view_count": 44
+}

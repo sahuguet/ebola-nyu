@@ -1,0 +1,23 @@
+{
+  "applause_count": 4, 
+  "author": "Chris Ragsdale", 
+  "comment_count": 0, 
+  "comments": [], 
+  "description": "<div class=\"description\">\n            This wireless vital sign monitor can be used to track existing patients as well as be distributed into local communities to better enable self monitoring and perhaps earlier identification. Self monitoring can be achieved using the visual interface for displaying temp / heart rate / blood oxygen content and any other basic vital that can be measured by the device. And when a new patient enters the care facility the system can automatically start being tracked by simply associating the devices digital ID with the patients name. This device can be integrated into ad-hoc bluetooth networks powered by cell phones or wireless hotspots and linked to primary care facilities or cloud based databases through the cell network.\u00a0\n<br/>\n<br/>\n<img alt=\"\" src=\"/uploads/contribution/16061/8424676a-3c92-4d43-bec4-ae6551d1f2e3.jpg\"/>\n<br/>\n<br/> It should be a fairly simple process to prototype and rapidly develop and deploy a device such as this (not sure about FDA regulations applicability). I'm a mechanical engineer and have experience with 3D printing and design for injection molding, but lack the knowledge for the programming and electronics aspects of the design effort.\n<br/>\n<br/> I have found a great resource on a possible circuit design that seems to fit the need.\n<br/>\n<br/>\n<a href=\"http://m.electronicdesign.com/digital-ics/build-wrist-heart-rate-monitor-using-ultra-low-power-mcu\">http://m.electronicdesign.com/digital-ics/build-wrist-heart-rate-monitor-using-ultra-low-power-mcu</a>\n<br/>\n<br/> I would be very interested to work with some software developers and electrical engineers / electronics hackers to start developing a prototype.\n        </div>", 
+  "id": "https://openideo.com/challenge/fighting-ebola/ideas/enhance-patient-care-and-reduce-care-worker-workload-with-low-cost-wireless-patient-care-monitors", 
+  "media": [
+    {
+      "src": "//d3gyq8wptu1by3.cloudfront.net/media/ba82d083-2aae-4db8-b86f-11f68de0df0d.jpg", 
+      "type": "image"
+    }, 
+    {
+      "src": "//d3gyq8wptu1by3.cloudfront.net/media/338b6c82-9339-492b-9a7c-d711fedc176c.jpg", 
+      "type": "image"
+    }
+  ], 
+  "submitted": "October 08, 2014, 19:34PM", 
+  "summary": "With such a strain on human and physical resources why not use technology to deal with routine patient vital sign monitoring automatically and wirelessly. We can use data from remote monitoring systems and  a centralized database to track patient vitals and direct care workers to those most in need. The technology to create low cost vital monitoring systems is already in wide use in fitness trackers and other wearable tech. Simply adapting these systems to a more simplistic interface and function set will result in a great tool to help improve patient care and the care workers workflow.", 
+  "tag": "/challenge/fighting-ebola/ideas#mission-strengthen-health-care-capacities2", 
+  "title": "Enhance patient care and reduce care worker workload with low cost wireless patient care monitors.", 
+  "view_count": 72
+}

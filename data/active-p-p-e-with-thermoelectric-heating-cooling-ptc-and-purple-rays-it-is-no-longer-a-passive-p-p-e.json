@@ -1,0 +1,63 @@
+{
+  "applause_count": 3, 
+  "author": "Jiang Zhu", 
+  "comment_count": 8, 
+  "comments": [
+    {
+      "applaud": "0", 
+      "auhtor": "Rainer Winkler", 
+      "date": "October 20, 2014, 21:42PM", 
+      "message": "\n    \tSorry for the german link: http://www.telemeter.info/documents/thema_peltierkuehlgeraete_telemeter.pdf (Excusez mois pour de link almende). This brochure contains speficiations for peltier cooling systems. Model AA-150-24-22 has a maximal cooling capacity of 143W, with a temperature difference of 20\u00b0C it cools effectively with 70W. I requires 24 V and a current of 7.9 Ampere leading to 190W power consumption. On the hot side 190+70 = 260W power are to be removed on the cooling plate. It has a weight of 4.1 kg. Plus the weight for a battery that provides 260W for an hour or so. A Lithium polymer accu that provides that power for an our weights about 1.4 kg. To this comes the weight of electronic, fans and cooling plate. So I would say cooling with thermoelectric cooling is feasible but not easy. But I would be happy to find more reliable calculations as this one which I made fast and rather on the fly.With kind regardsRainer\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Jiang Zhu", 
+      "date": "October 25, 2014, 02:21AM", 
+      "message": "\n    \tMerci bcp M.  Winkler pour votre support sur les donn\u00e9es techniques,  oui ,  c'est ce que j'avais dit comme le composant principale,\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "OpenIDEO", 
+      "date": "October 20, 2014, 17:48PM", 
+      "message": "\n    \tHi Jiang, interesting post! Any chance you could find an image to go along with it? Images help grab attention and tell a story with higher impact. You should be able to use the Update Entry button on the right of your post and follow the instructions to add images from there. We know occasionally people have issues uploading images so let us know by hitting the Feedback button at the bottom of most pages of our site if you face any problems. Looking forward to seeing more of your inspiring insights on OpenIDEO. And here's some tips on adding visual goodness to your idea: http://ideo.pn/vis-uals plus more on evolving your thought-starter: http://ideo.pn/oi-evolve\n"
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Rebecca Buechel", 
+      "date": "October 17, 2014, 10:18AM", 
+      "message": "\n    \tnice idea to have the suit actually attack the virus\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Jiang Zhu", 
+      "date": "October 17, 2014, 13:21PM", 
+      "message": "\n    \tHi Rebecca,  thank you for your appreciation,  if someone having a  physic condition / money can test it,  that will be  fine ;)for the blind-corner of P.T.C. ,  we can also fill these corners by UV optic fibers\n    "
+    }, 
+    {
+      "applaud": "1", 
+      "auhtor": "Rebecca Buechel", 
+      "date": "October 17, 2014, 19:02PM", 
+      "message": "\n    \tcan it be solar-battery run ? what are the electricity needs ? will it work in an environment with lots of liquids ?\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Rebecca Buechel", 
+      "date": "October 20, 2014, 11:02AM", 
+      "message": "\n    \tInteresting read for \"a day in the life of an ebola clinic\" in Sierra Leone http://www.irinnews.org/report/100716/day-in-the-life-of-a-kenema-ebola-treatment-centre\n"
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Jiang Zhu", 
+      "date": "Edited on October 25, 2014, 03:09AM", 
+      "message": "\n    \t(translated by software)Rebecca thank you for your attention, you asked a good question that is on the weakness of the original idea, I want to talk about it and  introduce an improved version: Weakness:  If most of the surface of P.P.E. is done by p.t.c. pieces,  there will be a large electrical consomations this idea (or PPE) needs much electric power, that is why I said there should be a generator. We can calculate a simply, if the area of a PPE  is 4 meters square, and we need that the average temperature of the outer surface of the PPE is more than 80 degrees, it takes several PTC pieces, maybe 50 pieces of PTC? And gaps between P.T.C. are linked by aluminum (to transfer heat. If each PTC 10 watts, 50 x 10 = 500 watts So it is quite feasible for a good condition local, and there was air conditioning, otherwise the room will be too hot. Improved versionFor infections of the doctors / nurses, it was probably a bad undress procedure or oversight of security measures. My original goal is rather killing virus at real time on the PPE surface when people are in a PPE, so we can have a compromise solution: the virus is killed on \"sensitive\" areas, such as: gloves, joint between gloves and sleeves and so on.I propose:  gloves:  covered by UV optic fibresjoints :  PTC rings heating to a temperature(out side) which can kill ebola virus mask : plant also UV optic fibresother parts of the P.P.E.:  also covered by UV optic fibresUV source:  keep the original ideaBatterie:  original idea\u00a0\u00a0By this way,  we can use a solar-battery\n    "
+    }
+  ], 
+  "description": "<div class=\"description\">\n            =========google traduction,\u00a0 my original version in French is at the bottom======= \n<h1 class=\"h1_class\"><strong style=\"line-height: 1.2;\">ACTIVE \u00a0P.P.E. with Thermoelectric Heating / Cooling (PTC) and UV rays</strong></h1>\n<h2 class=\"h2_class\">It is no longer a passive P.P.E.!</h2>\n<strong>Background informations:</strong>\n<br/> 1.\u00a0 I was told that the Ebola virus does not persist the heat, they will be killed in 60 minutes at 60 degrees Celsius.\n<br/>\n<br/> 2. Africa Environment temperature is painful to humans, especially for nurses and doctors IN a PPE clothing.\n<br/> I was an electrical amateur (fan), I immediately thought of using PTC and violet ray with the optical fibers on the PPE.\n<br/>\n<br/>\n<strong>Here is my idea:</strong>\n<br/>\n<br/> 1 . When a PTC sheet is turned on (power-on), one side is very cold and the other side is very hot, it is the principle of \"transfer\" heat. If you put the cold side inside the PPE, it is like an air conditioner for nurses and doctors. And its hot side is placed on the surface of a PPE, its temperature can reach more than 85 degree Celsius.\n<br/>\n<br/> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 We can then put small \u00a0P.T.C. sheet on the P.P.E. , its \"hot\" sides outwardly, their \"cold\" sides inward.\n<br/>\n<br/> 2. for the hands area that touch the patient, for the eye area that needs to be transparent, you can put the special optical fibers on the surface and they spread \u00a0UV light to the OUTSIDE toward UP (not to hurt the eyes of the person protected by the PPE and the patient's eyes)\n<br/>\n<br/> Note 1: Zone of hands: gloves\n<br/> Note 2: eye area: eyeglasses\n<br/>\n<br/> 3.\u00a0 \u00a0The number 2 requires optical fibers extended to a portable UV light source, for example, a UV source attached to the belt, the power supply (power-suply in English) could be a combination of a Lithium battery + un power cord hanging on the roof, when the cord is cut / loose by mistake, the Lithium battery can provide a backup time of 30 minutes (for example, time to connect the power). \n<h2 class=\"h2_class\"><strong>Advantages:</strong></h2>\n<h2 class=\"h2_class\">1.\u00a0\u00a0\u00a0 Safe - the P.P.E. KILLS THE \u00a0viruses at REAL-TIME with his temperature and UV.</h2> It is no longer a traditional P.P.E., it is a weapon that ATTACK viruses at real-times. \n<h2 class=\"h2_class\">2.\u00a0 Comfortable - constant air conditioning, you need tissues inside, so it is not too cold inside</h2>\n<h2 class=\"h2_class\">3.\u00a0 \u00a0The gloves have no P.T.C. but they have the UV, the patient does not feel too much heat.</h2>\n<h2 class=\"h2_class\"><br/> Disadvantages:</h2> Need an electricity generator (Generator in English)\n<br/>\n<br/>\n<br/>\n<br/>\n<strong>My original version in French</strong>\n<h1 class=\"h1_class\">P.P.E. ACTIVE avec Thermoelectric Heating/Cooling (P.T.C) et/ou rayons violet</h1>\n<h2 class=\"h2_class\">Ce n'est plus un P.P.E. passif!</h2>\n<h2 class=\"h2_class\">\u00e0 savoir:</h2> 1.\u00a0 On m'a dit que le virus d'Ebola ne persiste pas la chaleur, ils seront tu\u00e9s dans 60 minutes \u00e0 60 degr\u00e9 Celsius.\u00a0 \u00a0\n<br/>\n<br/> 2.\u00a0 la temp\u00e9rature ambiante d'Afrique est p\u00e9nible pour l'\u00eatre humain, surtout pour les infirmiers et les docteurs DANS un v\u00eatement P.P.E..\u00a0\n<br/> J'\u00e9tais un amateur en \u00e9lectricit\u00e9,\u00a0 j'ai pens\u00e9 tout de suite \u00e0 l'utilisation de P.T.C. et le rayon violet avec les fibres optiques sur les P.P.E..\u00a0\n<br/>\n<br/> voici mon id\u00e9e:\n<br/>\n<br/> 1.\u00a0 la fiche P.T.C., lorsqu'elle est allum\u00e9 (power-on),\u00a0 un c\u00f4t\u00e9 est tr\u00e8s froid et l'autre c\u00f4t\u00e9 est tr\u00e8s chaud, c'est le principe de \"transf\u00e9rer\" la chaleur.\u00a0 Si on met le c\u00f4t\u00e9 froid \u00e0 l'int\u00e9rieur, c'est comme un climatiseur pour les infirmiers et les docteurs.\u00a0 Et son c\u00f4t\u00e9 chaud est mis sur la surface d'un P.P.E., sa temp\u00e9rature peut atteindre \u00e0 plus de 80 degr\u00e9 Celcius.\n<br/>\n<br/> \u00a0\u00a0 \u00a0 \u00a0 On peut alors mettre les petites fiches P.T.C. sur le v\u00eatement P.P.E., \u00a0leur c\u00f4t\u00e9s \"chaud\" vers l'ext\u00e9rieur, leur c\u00f4t\u00e9s \"froid\" vers l'int\u00e9rieur.\u00a0\n<br/>\n<br/> 2.\u00a0 pour la zone des mains qui touche le patient et la zone des yeux qui doit \u00eatre transparente, on peut mettre les fibres optiques sp\u00e9ciaux sur la surface qui fait la diffusion de rayon UV vers l'EXT\u00c9RIEUR HAUT(pour ne pas blesser les yeux de la personne prot\u00e9g\u00e9e par le P.P.E. et les yeux de patient)\n<br/> Note 1:\u00a0 zone des mains:\u00a0\u00a0 les gants\n<br/> Note 2:\u00a0 zone des yeux:\u00a0\u00a0 les lunettes\n<br/>\n<br/> 3.\u00a0 Le num\u00e9ro 2 en haut exige de rallonger les fibres optiques vers une source de rayon UV portatif,\u00a0 par exemple, une source de UV attach\u00e9 \u00e0 la ceinture, l'alimentation (power-suply) pourrait \u00eatre une combinaison de batterie Lithium et une corde d'\u00e9lectricit\u00e9 pendu sur le toiture, lorsque la corde est coup\u00e9/d\u00e9tach\u00e9 par erreur, la batterie Lithium peut donner un temps d'autonomie de 30 minutes par exemple(pour rebrancher le v\u00eatement avec l'alimentation du g\u00e9n\u00e9rateur) . \n<h2 class=\"h2_class\">Avantages:</h2>\n<br/> 1.\u00a0 S\u00e9curitaire--le P.P.E. TUE EN TOUT TEMPS les virus avec la temp\u00e9rature et le UV\n<br/> Ce n'est plus un v\u00eatement PASSIF devant les virus, c'est une arme qui ATTAQUE les virus en tout temps.\n<br/>\n<br/> 2.\u00a0 Confortable--une climatisation constante, il faut des tissus \u00e0 l'int\u00e9rieur, pour qu'il ne soit pas trop froid ;)\n<br/>\n<br/> 3.\u00a0 Les gants n'ont pas de P.T.C. mais ils ont le UV,\u00a0 le patient ne sent pas une chaleur de trop. \n<h2 class=\"h2_class\">D\u00e9savantages:</h2>\n<br/> Besoin d'un g\u00e9n\u00e9rateur d'\u00e9lectricit\u00e9 (Generator en Anglais)\n        </div>", 
+  "id": "https://openideo.com/challenge/fighting-ebola/ideas/active-p-p-e-with-thermoelectric-heating-cooling-ptc-and-purple-rays-it-is-no-longer-a-passive-p-p-e", 
+  "media": [], 
+  "submitted": "October 17, 2014, 05:06AM", 
+  "summary": "====google traduction,  my original version in French is at the bottom=======ACTIVE  P.P.E. with Thermoelectric Heating / Cooling (PTC) and / or purple rays It is no longer a passive P.P.E.! 1.    Safe - the P.P.E. KILLS THE  viruses at REAL-TIME with his temperature and UV.It is no longer a traditional P.P.E., it is a weapon that ATTACK viruses at real-times.2.  Comfortable - constant air conditioning, you need tissues inside, so it is not too cold inside3.   The gloves have no P.T.C. but they have the UV, the patient does not feel too much heat.4.   Not too expensive", 
+  "tag": "/challenge/fighting-ebola/ideas#mission-strengthen-health-care-capacities2", 
+  "title": "ACTIVE  P.P.E. with Thermoelectric Heating / Cooling (PTC) and  purple rays---It is no longer a passive P.P.E.!", 
+  "view_count": 65
+}

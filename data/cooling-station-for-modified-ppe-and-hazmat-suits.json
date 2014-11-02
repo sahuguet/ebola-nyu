@@ -1,0 +1,38 @@
+{
+  "applause_count": 2, 
+  "author": "Kien Ly", 
+  "comment_count": 3, 
+  "comments": [
+    {
+      "applaud": "0", 
+      "auhtor": "Deborah Paterson", 
+      "date": "October 13, 2014, 23:47PM", 
+      "message": "\n    \tHi Kien, here's some other contributions that are related. Perhaps you might start a conversation with them about how you can collaborate to develop this idea further? https://openideo.com/challenge/fighting-ebola/ideas/solar-powered-fans-in-suitshttps://openideo.com/challenge/fighting-ebola/ideas/a-fan-base-boot-up-those-suitsIs there a lighter weight/more easily attached to existing suits alternative that we could leverage and adapt? Perhaps taking a step back and looking at the other ways in which ventilation and cooling can be achieved could help develop this idea further.Good luck!\n    "
+    }, 
+    {
+      "applaud": "1", 
+      "auhtor": "Jab Thorn", 
+      "date": "October 11, 2014, 00:20AM", 
+      "message": "\n    \tThe station would still have to be in a contaminated area so proper cleaning would be a bit of an issue.  I like that they could be ran off of car batteries, that means a solar panel could charge them too.\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Kien Ly", 
+      "date": "October 11, 2014, 00:52AM", 
+      "message": "\n    \tYes it has to be in contaminated area; when you are in contaminated area, it is safe to assume all surfaces are contaminated. You should clean the nozzle and your suit's port before attaching it to your suit.  However, the unit can be in a sealed off area with plastic sheets, the only interaction you would have with it is to use the nozzle and a switch. The port on the suit should have a filter built in; as an added precaution, you can filter the air before it enters the blower.\n    "
+    }
+  ], 
+  "description": "<div class=\"description\">\n            Adding active cooling to PPE and Hazmat suits will cool the suit to some extent. The more effective the cooling system; the more weight, cost, or complexity added to the suit. A cooling station which blows air through an entry port to the suit will be more effective in cooling and drying the user. Cooling breaks can greatly extend the work period in a PPE thus reducing infectious waste, number of risky suit removal, and cost of disposable suit replacement.\n<br/> A $20 hand held and light weight electric blower can be modified to serve as a portable or fixed cooling station. Portability will allow user to move the unit to different work area and remain connected to the suit.\n<br/> The blower's nozzle is modified to fit in to a protective suit's ventilation port; the modification is possible if the port grips the suit material tightly and covered by a filter.\u00a0The connection is safe if clean properly before use.\u00a0The air supply is filtered or fed to the blower is supply by an air duct from a safe area. If the unit is fixed in one place, the air supply can run through cooling elements such as ice packs, air conditioning, or even ground water to make the station work better.\n<br/> Pro:\n<br/> Inexpensive\n<br/> Can be modified to work with a car battery\n<br/> Can be use in conjunction with other built in suit cooling system\n<br/> Can be mass produce and deliver now\n<br/>\n<br/> Con:\n<br/> Will still need power\n<br/> \u00a0\n        </div>", 
+  "id": "https://openideo.com/challenge/fighting-ebola/ideas/cooling-station-for-modified-ppe-and-hazmat-suits", 
+  "media": [
+    {
+      "src": "//d3gyq8wptu1by3.cloudfront.net/media/db024a98-e5e0-4f07-9e12-234163332bff.jpg", 
+      "type": "image"
+    }
+  ], 
+  "submitted": "October 10, 2014, 19:05PM", 
+  "summary": "A portable light weight hand held electric blower modified to be use as a cooling station for PPE and Hazmat suits. With proper cooling breaks and protective suit type, can greatly extend work period thus reducing number of suit removal and reducing infectious waste.", 
+  "tag": "/challenge/fighting-ebola/ideas#mission-strengthen-health-care-capacities2", 
+  "title": "Portable Cooling Station for Modified PPE and Hazmat Suits", 
+  "view_count": 62
+}

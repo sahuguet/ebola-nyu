@@ -1,0 +1,39 @@
+{
+  "applause_count": 3, 
+  "author": "Tim Jennings", 
+  "comment_count": 4, 
+  "comments": [
+    {
+      "applaud": "0", 
+      "auhtor": "Rainer Winkler", 
+      "date": "October 15, 2014, 20:43PM", 
+      "message": "\n    \tI do not think the mechanism need to be complicate. Just adding some band or so to the cloth weard below the protective clothing may be enough. And it might also only be needed for health care workers that are not experienced, for instance in hospitals not specifically prepared to Ebola. If a patient arrives, the workers have to put on the protective clothing, but did not have the extensive training of specialists working in a Ebola treatment center. The same may apply to relatives who have to care for patients themselves with improvised protective clothing.\n    "
+    }, 
+    {
+      "applaud": "1", 
+      "auhtor": "Deborah Paterson", 
+      "date": "October 13, 2014, 22:39PM", 
+      "message": "\n    \tHi Tim, thanks for the contribution. How might we do this? What kind of mechanism, technology or warning signals would we use to prevent this? Is it some kind of protective covering? How might we ensure that there is no accidental contact with other things that might be contaminated?\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Tim Jennings", 
+      "date": "October 14, 2014, 14:19PM", 
+      "message": "\n    \tThanks for the tip, I was thinking it would be similar to how a seatbelt works except a bit more sensitive. If you pull your hands up with any force, the mechanism would kick in and essentially just remind you not to pull your hands up to your face. If it were necessary to have your hands at a higher level they could be brought there slowly.\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "OpenIDEO", 
+      "date": "October 11, 2014, 19:26PM", 
+      "message": "\n    \tHi Tim, interesting post! Any chance you could find an image to go along with it? Images help grab attention and tell a story with higher impact. You should be able to use the Update Entry button on the right of your post and follow the instructions to add images from there. We know occasionally people have issues uploading images so let us know by hitting the Feedback button at the bottom of most pages of our site if you face any problems. Looking forward to seeing more of your inspiring insights on OpenIDEO. And here's some tips on adding visual goodness to your idea: http://ideo.pn/vis-uals plus more on evolving your thought-starter: http://ideo.pn/oi-evolve\n"
+    }
+  ], 
+  "description": "<div class=\"description\">\n            I will continue this section later.\n        </div>", 
+  "id": "https://openideo.com/challenge/fighting-ebola/ideas/smart-ppe", 
+  "media": [], 
+  "submitted": "October 10, 2014, 05:20AM", 
+  "summary": "My idea for personal protective equipment is to create a system that reminds the user to not touch their face. It would not have to be actually smart, as in it would talk to the user, but all it would need to do is restrict the arms from coming up quickly. All this would do is warn the person that they should not do this while wearing the PPE and prevent possible infections such as the most recent one in Spain.", 
+  "tag": "/challenge/fighting-ebola/ideas#mission-strengthen-health-care-capacities2", 
+  "title": "\"Smart\" PPE", 
+  "view_count": 40
+}

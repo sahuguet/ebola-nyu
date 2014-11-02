@@ -1,0 +1,44 @@
+{
+  "applause_count": 8, 
+  "author": "Ursula", 
+  "comment_count": 4, 
+  "comments": [
+    {
+      "applaud": "0", 
+      "auhtor": "Chris Davies", 
+      "date": "October 11, 2014, 16:26PM", 
+      "message": "\n    \tLove how this scales!\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Jab Thorn", 
+      "date": "October 11, 2014, 00:41AM", 
+      "message": "\n    \tI wish I could favorite this so I could come back to it.  Is there any information on how long the solutions can be stored?\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Ursula", 
+      "date": "October 11, 2014, 03:32AM", 
+      "message": "\n    \tHi Jab. Once prepared, the solutions could last up to 48 hours, but people can prepare small amounts as needed. Usually, a patient would drink a minimum of 1 liter (4 cups) per day.\n    "
+    }, 
+    {
+      "applaud": "1", 
+      "auhtor": "Ami Kim", 
+      "date": "October 10, 2014, 14:04PM", 
+      "message": "\n    \tI think ideas that can be practiced by local people themselves at home are very important. So I applaud this idea!\n    "
+    }
+  ], 
+  "description": "<div class=\"description\">\n            This idea was inspired by Deb MacNamara's contribution (https://openideo.com/challenge/fighting-ebola/ideas/equipping-community-members-to-provide-basic-medical-care-for-family-members-with-ebola)\n<br/>\n<br/> Budget and medicine supply are two big problems for treating Ebola patients. Many of the patients are sent back home and their families have little knowledge on how to help them. I think that a First Aid Kit as the one proposed by Deb might be complemented with recipes for homemade preparations that can be used as an alternative to treat some of the early symptoms, specially dehydration.\n<br/>\n<br/> In my country for example, to treat dehydration caused by diarrhea goverment health personnel teach the following recipes that help to recover electrolytes:\n<br/> a) 1 Lt. water + 1/2 teaspoon salt + 2 tbsp. sugar + lemon juice\n<br/> b) 1 Lt. water + 1/2 teaspoon salt + 2 tbsp. sugar + 2 tbsp. rice + 1 small carrot (boil and drink the resulting liquid)\n<br/> c) coconut water\n<br/> The second recipe, in addition to supplying electrolytes, helps to heal the stomach's wall.\n<br/>\n<br/> To recover the loss of potassium, patients should drink carrot juice (689 mg of potassium/cup) or tomato juice (556 mg of potassium/cup). Bananas and potatoes are also good sources of potassium, but considering that a patient's throat might be soared, it would be better to provide liquids that are easier to swallow.\n<br/>\n<br/> Hopefully, the patient will receive medical assistance at some point, but while that moment comes, he or she might receive some help with items that are found at home.\n<br/>\n<br/>\n<a href=\"http://www.webmd.com/food-recipes/features/truth-about-coconut-water\">WebMB: About coconut water</a>\n</div>", 
+  "id": "https://openideo.com/challenge/fighting-ebola/ideas/teach-recipes-of-homemade-electrolyte-drinks-to-treat-dehydration-on-ebola-patients", 
+  "media": [
+    {
+      "src": "//d3gyq8wptu1by3.cloudfront.net/media/a01ba511-0906-4adb-9ffa-31a04a91370f.jpg", 
+      "type": "image"
+    }
+  ], 
+  "submitted": "October 10, 2014, 07:20AM", 
+  "summary": "Insufficient budget and medicine scarcity are two big issues. Patients need medical support for their symptoms, but many times they can't have access to a health facility and are sent home to wait until some space becomes available. While at home, patients might receive some help to fight dehydration and electrolyte loss.", 
+  "tag": "/challenge/fighting-ebola/ideas#mission-promote-care-seeking2", 
+  "title": "Homemade preparations as alternative to oral rehydration solutions", 
+  "view_count": 79
+}

@@ -1,0 +1,48 @@
+{
+  "applause_count": 16, 
+  "author": "Michael Howden", 
+  "comment_count": 4, 
+  "comments": [
+    {
+      "applaud": "0", 
+      "auhtor": "D. Dickard", 
+      "date": "October 17, 2014, 18:56PM", 
+      "message": "\n    \tHow critical would your services be in a quarantine situation?\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Michael Howden", 
+      "date": "October 17, 2014, 18:57PM", 
+      "message": "\n    \tThis would depend on the exact needs and challenges faced. What specific solution do you imagine being needed?\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "D. Dickard", 
+      "date": "Edited on October 17, 2014, 21:17PM", 
+      "message": "\n    \tI'd like to see a 21 day quarantine at the epicenter so that we wouldn't have to transfer resources to other --  random -- places like a cruise ship in Belize.  Look at how much money has been spent on containing the outfall from one random traveler to the US.  Some people feel like this would be leaving these three countries to their own means.  I believe it would help the world focus our attention on the countries that are completely overwhelmed.   How could your services help solve problems that would be isolated to these three countries in the epicenter?   Thank you in advance. Very nice post.\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Michael Howden", 
+      "date": "October 18, 2014, 06:24AM", 
+      "message": "\n    \tImplementing a quarantine is a policy level decision that would need to be made by health authorities and governments. We could offer technology solutions which could help them address challenges raised by the quarantine.\n    "
+    }
+  ], 
+  "description": "<div class=\"description\">\n            Sahana Open Source Disaster Management Web Application can provide solutions to a a wide range of information management, tracking and communication challenges. Sahana modules for:\n<br/>\n<br/>\n<strong>Patient Contact Tracing/Monitoring</strong> - Tracking who infected patients have been in contact with to allow ongoing monitoring to prevent further outbreaks\n<br/>\n<br/>\n<strong>Logistics &amp; Donation Management</strong> - Managing what supplies are needed, requested, shipped and donated either with a single organisation or between multiple organisations.\n<br/>\n<br/>\n<strong>Health Worker / Personnel</strong> - Tracking and communicating with Health Workers and other personnel involved in the response.\n<br/>\n<br/>\n<strong>Hospital &amp; Health Facility Management</strong> - Managing and mapping Hospital &amp; Health Facility including their status, capacities and requirements.\n<br/>\n<br/>\n<strong>Who's Doing What Where</strong> - tracking which organisations are responding to the outbreak, what activities they are doing and where.\n<br/>\n<br/> In addition to Sahana's existing modules, new modules can quickly be developed to provide custom solutions to new challenges that may be faced by organisations responding to the Ebola Outbreak. These solutions can easily be integrated into the existing modules as well as utilizing Sahana's full framework including \n<ul>\n<li>User Permissions &amp; Security</li>\n<li>Messaging (Email/SMS/Twitter/IVR)</li>\n<li>Mapping</li>\n<li>RESTful API</li>\n<li>Offline Support</li>\n</ul> Here are some more details about what the Sahana team are currently working on and can offer to support:\n<br/>\n<a href=\"http://eden.sahanafoundation.org/wiki/Deployments/Ebola\">http://eden.sahanafoundation.org/wiki/Deployments/Ebola</a>\n<br/>\n<br/> A demo site of a Sahana solution to the Ebola Outbreak\u00a0is available here:\u00a0\u00a0\n<a href=\"http://ebola.sahanafoundation.org\">http://ebola.sahanafoundation.org</a>\n<br/>\n<br/> We are actively looking for partners responding to the Ebola Outbreak who we can support.\n<br/> Sahana has been used in response to most major disasters over the past ten years in over 25 countries and is currently used by 9 organisations including the Red Cross, NGOs and Government. The Sahana Software Foundation is a 501(c)(3) non-profit registered in the USA.\n        </div>", 
+  "id": "https://openideo.com/challenge/fighting-ebola/ideas/sahana-integrated-information-platform-for-patient-contact-tracing-logistics-health-worker-and-facility-management", 
+  "media": [
+    {
+      "src": "//d3gyq8wptu1by3.cloudfront.net/media/35248aea-a292-4558-9119-731ff36545c5.png", 
+      "type": "image"
+    }, 
+    {
+      "src": "//d3gyq8wptu1by3.cloudfront.net/media/221ef73d-bdec-487d-9093-5f33e6dc46e3.png", 
+      "type": "image"
+    }
+  ], 
+  "submitted": "October 16, 2014, 23:41PM", 
+  "summary": "Sahana Open Source Disaster Management Web Application can provide solutions to a a wide range of information management, tracking and communication challenges. Sahana modules for:\u00a0- Patient Contact Tracing/Monitoring\u00a0- Logistics & Donation Management\u00a0- Health Worker / Personnel\u00a0- Hospital & Health Facility Management\u00a0- Who's Doing What Where", 
+  "tag": "/challenge/fighting-ebola/ideas#mission-boost-exposure-tracking-and-communication-abilities1", 
+  "title": "Sahana: Integrated Information Platform for Patient Contact Tracing, Logistics, Health Worker and Facility Management", 
+  "view_count": 642
+}

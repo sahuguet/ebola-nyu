@@ -1,0 +1,56 @@
+{
+  "applause_count": 2, 
+  "author": "Shelley Saxena", 
+  "comment_count": 4, 
+  "comments": [
+    {
+      "applaud": "0", 
+      "auhtor": "Rebecca Buechel", 
+      "date": "October 26, 2014, 13:52PM", 
+      "message": "\n    \tmany affected areas in Africa might not have home internet access~ Could you provide internet \"booths\" in infected zones run by ebola-free workers to liaise with the sick ? Medecins Sans Frontiers could have knowledge of best places to set such booths up (with proper distancing guidelines so the booths themselves do not become places of contamination)\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Shelley Saxena", 
+      "date": "October 27, 2014, 11:03AM", 
+      "message": "\n    \tRebecca, thanks for checking out this post. Yes, we would typically work with a local partner for infrastructure like booths etc.\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Rebecca Buechel", 
+      "date": "October 27, 2014, 12:07PM", 
+      "message": "\n    \there are some ideas for liasing with diaspora communities/charity associations as a start to connect there with a few phone calls  https://openideo.com/challenge/fighting-ebola/ideas/synergize-with-diaspora-communities-from-affected-african-zones\n"
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Shelley Saxena", 
+      "date": "October 28, 2014, 21:23PM", 
+      "message": "\n    \tThanks Rebecca.\n    "
+    }
+  ], 
+  "description": "<div class=\"description\">\n            Seva360 (http://seva360.com) is a tele-health marketplace that connects patients with doctors: \n<ul>\n<li>Patients \n  <ul>\n<li>Get info on various topics via support groups</li>\n<li>Find doctors by specialty, rating and location</li>\n<li>Get second opinions and video consultations from participating healthcare providers</li>\n<li>Provide feedback and ratings on providers</li>\n<li>Track electronic medical record</li>\n</ul> </li>\n<li>Healthcare providers \n  <ul>\n<li>New revenue from tele-health services</li>\n<li>Free electronic medical record, practice management and analytics to streamline care</li>\n</ul> </li>\n</ul> The platform is already setup to support multiple countries/states. It can be rapidly provisioned with content and doctors for Ebola. We have also applied for a grant to add IVR access in local language, which will tremendously increase the penetration of the platform.\n        </div>", 
+  "id": "https://openideo.com/challenge/fighting-ebola/ideas/use-seva360-tele-health-marketplace-to-provide-ebola-info-and-remote-consultations-to-patients", 
+  "media": [
+    {
+      "src": "//d3gyq8wptu1by3.cloudfront.net/media/833d1e70-a45a-4214-aa2c-fe99de387ace.jpg", 
+      "type": "image"
+    }, 
+    {
+      "src": "//d3gyq8wptu1by3.cloudfront.net/media/3bc628cc-221d-4997-8be3-c6e3fa1fc296.jpg", 
+      "type": "image"
+    }, 
+    {
+      "src": "//d3gyq8wptu1by3.cloudfront.net/media/34cd425a-5804-4c7c-b9c3-69674e7c83dd.jpg", 
+      "type": "image"
+    }, 
+    {
+      "src": "//d3gyq8wptu1by3.cloudfront.net/media/87c20af3-4c1a-4e2b-a858-ff93b0b184ed.jpg", 
+      "type": "image"
+    }
+  ], 
+  "submitted": "October 25, 2014, 04:00AM", 
+  "summary": "Seva360 (http://seva360.com) is a tele-health marketplace that enables patients to get info on health topics and second opinions and video consultations from participating healthcare providers. It can be used to provide targeted info and care for Ebola and other diseases.", 
+  "tag": "/challenge/fighting-ebola/ideas#mission-promote-care-seeking2", 
+  "title": "Use Seva360 tele-health marketplace to provide Ebola info and remote consultations to patients", 
+  "view_count": 28
+}

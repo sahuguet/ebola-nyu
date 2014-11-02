@@ -1,0 +1,116 @@
+{
+  "applause_count": 5, 
+  "author": "Peter Stroot", 
+  "comment_count": 16, 
+  "comments": [
+    {
+      "applaud": "0", 
+      "auhtor": "Evelina Cohn Ph.D.", 
+      "date": "October 23, 2014, 18:00PM", 
+      "message": "\n    \tI agree with you that Ebola has limited catalase activity but the reaction can be directed towards peroxidase enzymes. In fact, it was found that Ebola is selenium dependent which result in the existence of selenium peroxidase activity in Ebola which is one of the peroxidases in Ebola metabolic pathway.This is an interesting idea but we have to carefully consider how oxidative stress can be used. an equilibrium should exist everywhere especially when we are talking about ROS !\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Peter Stroot", 
+      "date": "October 23, 2014, 18:13PM", 
+      "message": "\n    \tI would think that the ideal target range would be 10-20% of blood cells stimulated to produce ROS, since this was reported for \"healthy\" individuals.\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Evelina Cohn Ph.D.", 
+      "date": "October 24, 2014, 11:31AM", 
+      "message": "\n    \tPeter, So you'll theoretically do several testing on ROS concentration \"in vivo\" until reach the desire concentration, before you'll actually stop the treatment right? Interesting idea.\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Peter Stroot", 
+      "date": "October 24, 2014, 12:14PM", 
+      "message": "\n    \tYes, it is useful to think of it as a titration in the field.  We'll start with a low inducement and check for ROS response.  We'll induce ROS in order to generate enough ROS residual throughout the body to offer more protection in the short-term.  This is analogous to the use of chlorine residual in water distribution systems, which serves to protect the bulk of the water from contact with low levels of pathogens.\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Evelina Cohn Ph.D.", 
+      "date": "October 31, 2014, 22:38PM", 
+      "message": "\n    \tGreat idea . Thanks.\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "OpenIDEO", 
+      "date": "October 20, 2014, 17:51PM", 
+      "message": "\n    \tHi Peter, interesting post! Any chance you could find an image to go along with it? Images help grab attention and tell a story with higher impact. You should be able to use the Update Entry button on the right of your post and follow the instructions to add images from there. We know occasionally people have issues uploading images so let us know by hitting the Feedback button at the bottom of most pages of our site if you face any problems. Looking forward to seeing more of your inspiring insights on OpenIDEO. And here's some tips on adding visual goodness to your idea: http://ideo.pn/vis-uals plus more on evolving your thought-starter: http://ideo.pn/oi-evolve\n"
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Peter Stroot", 
+      "date": "October 23, 2014, 02:03AM", 
+      "message": "\n    \tThanks for the advice!\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Rebecca Buechel", 
+      "date": "October 19, 2014, 14:37PM", 
+      "message": "\n    \tin layperson's terms, where does all that extra \"protective\" (?) inorg. sulfur come from ?\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Peter Stroot", 
+      "date": "October 19, 2014, 14:45PM", 
+      "message": "\n    \tCertain processed foods contain high levels of sulfites that are used as a food preservative.\n    "
+    }, 
+    {
+      "applaud": "1", 
+      "auhtor": "Peter Stroot", 
+      "date": "October 19, 2014, 15:04PM", 
+      "message": "\n    \tAnother approach would be to use a supplement that can release sulfate to the large intestine.\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Rebecca Buechel", 
+      "date": "October 19, 2014, 15:16PM", 
+      "message": "\n    \tIs there a \"natural\" source of this ?\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Peter Stroot", 
+      "date": "October 19, 2014, 15:24PM", 
+      "message": "\n    \tOff the top of my head, nuts and some fruits and vegetables have high levels of sulfur.\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Peter Stroot", 
+      "date": "October 19, 2014, 16:34PM", 
+      "message": "\n    \tprocessed potatoes, such as chips, dried mashed potatoes, etc.\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Rebecca Buechel", 
+      "date": "October 20, 2014, 08:46AM", 
+      "message": "\n    \t...if it were as simple as eating processed chips!!! What would the testing time be / how could your idea be checked ?\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Peter Stroot", 
+      "date": "October 20, 2014, 12:41PM", 
+      "message": "\n    \tIt would take about a week to knock out the methanogens in the gut and establish the SRB.  People would have more flatulence, since the methanogens are gone.  If drawing blood to check sulfide concentration is a little tough, then they might be able to check methane concentration in the breath.  Blood pressure should be a little higher.  All signs of increased oxidative stress.\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Peter Stroot", 
+      "date": "October 20, 2014, 15:17PM", 
+      "message": "\n    \tThere might be a simpler and faster way to induce Oxidative Stress.  An IV drip that increases blood H2S to a concentration that induces ROS-positive blood cells.\n    "
+    }
+  ], 
+  "description": "<div class=\"description\">\n            Here's a link to the Advanced On-Line Publication of my journal article:\u00a0 http://www.sciencedirect.com/science/article/pii/S0306987714003648\n        </div>", 
+  "id": "https://openideo.com/challenge/fighting-ebola/ideas/western-diet-to-promote-oxidative-stress-for-reducing-the-lethality-of-ebola", 
+  "media": [
+    {
+      "src": "//d3gyq8wptu1by3.cloudfront.net/media/586e7f0b-0439-406c-b4be-223eed7737c8.png", 
+      "type": "image"
+    }
+  ], 
+  "submitted": "October 19, 2014, 13:37PM", 
+  "summary": "I recently published a new hypothesis in the journal, Medical Hypotheses, which links the elevated inorganic sulfur of the Western Diet with the development of oxidative stress via ultra-exogenous sulfide formation (USF).  While oxidative stress is a chronic problem in the USA and Europe, it is absent in West Africa due to the non-Western Diet (low inorganic sulfur).  The Ebola virus doesn't appear to have catalase activity like Herpes Simplex Virus, so it should be vulnerable to H2O2 and other ROS.  A switch in the diet of West Africaners to a Western Diet rich in inorganic sulfur may induce oxidative stress and reduce the lethality of Ebola.  A faster approach would be the use of an IV bag with elevated NaHS.", 
+  "tag": "/challenge/fighting-ebola/ideas#mission-surprise-us8", 
+  "title": "Induce Oxidative Stress in order to reduce the lethality of Ebola", 
+  "view_count": 287
+}

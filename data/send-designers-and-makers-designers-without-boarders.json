@@ -1,0 +1,76 @@
+{
+  "applause_count": 4, 
+  "author": "Nick Dawson", 
+  "comment_count": 8, 
+  "comments": [
+    {
+      "applaud": "0", 
+      "auhtor": "Deborah Paterson", 
+      "date": "October 14, 2014, 17:59PM", 
+      "message": "\n    \tHi Nick, one of the things which really empowers designers is the access to rapid user feedback, you're absolutely right. How can we enable designers an designers to do what they do best, while also not pulling resources from care settings? What new methods might we use to extract user behavior information? The maker community would be such a valuable resource to tap into - perhaps engaging maker media like - http://makezine.com/ would help get the word out too :)\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Deborah Parsons", 
+      "date": "October 14, 2014, 18:18PM", 
+      "message": "\n    \tGreat news, we reached out to the makezine this morning.  There is a series coming out over the next few in days makezine penned by Travis Good who also attended the DC Techshop event.\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Bettina Fliegel", 
+      "date": "October 12, 2014, 17:28PM", 
+      "message": "\n    \tHi Nick. I like this idea.  I think that work can be done locally, or virtually, if designers have access to more information.  (many folk will be fearful to go to these regions)It seems you were at this brainstorming.  If so, is the model you posted of the layout of the health facility a true depiction of a current space?  What do you mean by medicine delivery?  (antipyretics?)  If you were at the meeting can you describe what you were told about what work the workers are actually doing in the suits?  (You remark that one idea was to maximize time in the suit - which is a great idea.)  I am a physician in the US, and active on this platform.   The more we know the more we can think about ways to improve things.   Is there a general length of time one wears the suit and then because it is intolerable they leave to take it off?  In terms of current practice - patient care - are the health workers doing intravenous work and drawing blood tests?  I read that they stopped the use of IV lines due to the risk to the health workers.   In terms of gloves are they using standard gloves or are they using the utility gloves that some workers are seen in photos wearing.  Is there any advanced care currently being done - using ventilators, supportive care that one would have in an ICU setting?What are the specific big challenges that they are facing with these suits and this gear?  Can you list them?  I think this will help to start to break down what we can do as a community.Can you list the 10 areas of further study you mention.  Just reading this list can help us understand the biggest needs.Thanks Nick!\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Joe Sigrin", 
+      "date": "October 12, 2014, 18:24PM", 
+      "message": "\n    \tHi Bettina,I was at the meeting as well, and I can help answer at least a few of these questions. - Is the model you posted of the layout of the health facility a true depiction of a current space? The depiction was publicly available through Medecins San Frontieres at http://www.msf.org/article/interactive-explore-ebola-care-centre. It was said to be accurate by the HCWs that had been in the field who were to help us prototype.- If you were at the meeting can you describe what you were told about what work the workers are actually doing in the suits? Currently, HCWs are doing everything you'd expect--medical histories, administering medications, engaging in interventions and monitoring, charting, etc. While a lot of this is sound clinical practice, it doesn't always allow them to practice at the top of their license.- Is there a general length of time one wears the suit and then because it is intolerable they leave to take it off? We were told that in general an HCW can be in a suit for about 40 minutes before they overheat and need to spend time cooling down again.- What are the specific big challenges that they are facing with these suits and this gear? We focused on 3 challenge areas: Improving the performance and protection of personal protective equipment (PPE), Improving the detection and avoidance of heat exhaustion, and improving the operational efficiency of health centers and HCWs given the limited time that can be spent in a suit.- Can you list the 10 areas of further study you mention? Nick, you'll have to help me out here, but off the top of my head, we discussed including interested ebola survivors for appropriate non-technical tasks and capitalizing on their assumed immunity to further infection; using technology to connect patients to loved ones outside the quarantined zone for emotional support; using technology, survivors, or another source to streamline charting rather than having physicians or nurses using their 40 minutes to do so; exploring the possibility of some sort of centralized command, similar to air traffic control, to improve efficiency and patient coordination; improving the capacity of lab resources and lowering wait times for the return of lab results; being deliberate in how health centers and wards are being set up to minimize transmission, increase HCW observational capacity, and maximize natural factors like light, ventilation, etc.Hope this helps!\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Bettina Fliegel", 
+      "date": "October 12, 2014, 19:11PM", 
+      "message": "\n    \tThanks Joe!  I will read through and see if I have any thoughts.  I had a few thoughts that overlap those here and plan to post a few ideas.One quick thought - it is a great idea to utilize survivors as workers as they are immune - at least theoretically.  Is any testing being done on survivors?  Any studies being done on using antibodies from survivors to develop treatments?What was your role in the meeting?\n    "
+    }, 
+    {
+      "applaud": "0", 
+      "auhtor": "Bettina Fliegel", 
+      "date": "October 12, 2014, 19:16PM", 
+      "message": "\n    \tAlso,When we receive vaccinations from the Dept of Health at my work site they come in a styrofoam box, with ice packs.  Inside there is a small paper device that measures the temperature in the box so that we know whether the cold chain has been maintained and the vaccines are viable.  I wonder if the health workers can monitor themselves with some sort of device like this for checking their temp/heat exhaustion? something that can be visible to them perhaps on their wrist or something like that?  How are they currently monitoring for heat exhaustion?\n    "
+    }, 
+    {
+      "applaud": "1", 
+      "auhtor": "Joe Sigrin", 
+      "date": "October 12, 2014, 19:49PM", 
+      "message": "\n    \tHappy to help! My background is in international healthcare access and equity in resource-limited environments, but I have experience with human-centered design and rapid prototyping. My role during the meeting was as a prototyper.As I understand it, there's not a good monitoring system in place for heat exhaustion. Further, a few of the frontline HCW relayed stories of how by the time you start to feel the onset of heat exhaustion and need to leave, there can be a backup at the decontamination station. It can be another 10-20 minutes to actually get out of your suit.Wearable sensors could be promising, but there can be a significant difference between suit temp, skin temp, and core temp. One idea that was tossed around was using wifi or bluetooth connected pills to monitor core temp that could be swallowed and would stay in your system for a few hours/days and then be passed naturally. As core temp rises, it would ping an alarm that would notify the HCW. Also, there was a rep there from a very early stage startup called Carbon Origins (http://www.carbonorigins.com/apollo) which makes relatively inexpensive sensors that could measure indicators like humidity, temp, within the suit.I love your idea about a visible strip that would change colors as your suit heats up! Maybe it wouldn't be a perfect measure, but it would almost certainly improve on the current process, and be fairly cheap to retrofit into existing suits!Regarding testing of survivors, I would think that it's being done, but I honestly couldn't say with any certainty how that's being conducted.\n    "
+    }, 
+    {
+      "applaud": "1", 
+      "auhtor": "Bettina Fliegel", 
+      "date": "October 12, 2014, 20:02PM", 
+      "message": "\n    \tThanks again!  I will contact the Vaccine for Children Program and ask about that temp monitor that comes with the vaccines.  It might be a good place to start to brainstorm on.\n    "
+    }
+  ], 
+  "description": "<div class=\"description\">\n            Some of these groups already exist:\u00a0\n<br/>\n<a href=\"http://www.designerswithoutborders.org\">Designers without Boarders</a>\n<br/>\n<a href=\"http://designwithoutborders.com\">Design without Boarders</a>\n<br/>\n<a href=\"http://IDEO.org\">IDEO.org</a>\n<br/>\n<a href=\"http://www.massdesigngroup.org\">MASS design\u00a0</a>\n<br/>\n<br/> Other's might be willing to voulenteer expertese.\u00a0\n<br/>\n<br/> The idea is to engage designers closer to the point of need. Worth noting, this can still be at a safe distance. But the key is to get people with design expertese closer to the research and empathy phases. Let them reframe problems.\u00a0\n<br/>\n<br/> For instance, \n<a href=\"https://www.flickr.com/photos/nickdawson/sets/72157648597337212/\">this weekend, we focused largely on improving the PPE. One group asked instead: how might we make the time spent in the PPE more effective. </a>That group identified 10+ areas of futher study and brainstomring from medication delivery to administrative support.\u00a0\n<br/>\n<br/> Critical to the process was the ability to quickly run ideas and paper prototypes past subject matter experts. \"Hey doc, would this help you do more in the time you have in the suite?...\"\u00a0\n<br/>\n<br/> Closing the gap\u00a0\u2014in terms of distance and time\u00a0\u2014between design and the work seems to be very powerful.\u00a0\n        </div>", 
+  "id": "https://openideo.com/challenge/fighting-ebola/ideas/send-designers-and-makers-designers-without-boarders", 
+  "media": [
+    {
+      "src": "//d3gyq8wptu1by3.cloudfront.net/media/5e5f48b9-7b1f-4567-9db3-84aae2e6188f.jpg", 
+      "type": "image"
+    }, 
+    {
+      "src": "//d3gyq8wptu1by3.cloudfront.net/media/0a34fbdd-b37a-46a8-b3dc-e01cb756576a.jpg", 
+      "type": "image"
+    }, 
+    {
+      "src": "//d3gyq8wptu1by3.cloudfront.net/media/4d0cb8d1-d3c9-4da6-ac8f-68653c59e71c.jpg", 
+      "type": "image"
+    }
+  ], 
+  "submitted": "October 11, 2014, 22:42PM", 
+  "summary": "A key theme from this weekends #FightingEbola challenge in Washington DC was the power of bringing design, maker and subject matter expert talent together in real time. Designers are good at reframing problems and makers are good at building prototypes. Could they be deployed to help create process and object solutions in real time?", 
+  "tag": "/challenge/fighting-ebola/ideas#mission-strengthen-health-care-capacities2", 
+  "title": "Send designers and makers: Designers Without Boarders", 
+  "view_count": 86
+}
